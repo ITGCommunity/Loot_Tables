@@ -3,792 +3,792 @@ class CfgLootTables
 	/**
 	  Result of 100 rounds:
 
-	  Chemlight_red
-	  30Rnd_9x21_Mag
-	  V_HarnessO_gry
-	  V_HarnessO_gry
-	  FlareRed_F
-	  Exile_Item_SeedAstics
-	  U_C_Poloshirt_blue
-	  Exile_Item_EnergyDrink
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  Exile_Item_PlasticBottleDirtyWater
-	  Exile_Item_EMRE
-	  Exile_Item_MountainDupe
-	  ItemGPS
-	  H_Hat_grey
-	  U_C_Poloshirt_tricolour
-	  FlareRed_F
-	  arifle_MXC_F
-	  H_Hat_blue
-	  16Rnd_9x21_Mag
-	  B_FieldPack_blk
-	  FlareGreen_F
-	  hgun_P07_F
-	  Exile_Item_PlasticBottleDirtyWater
+	  arifle_Mk20_F
+	  Exile_Item_CatFood
+	  muzzle_snds_L
+	  9Rnd_45ACP_Mag
+	  Exile_Item_Moobar
+	  hgun_Pistol_Signal_F
+	  Exile_Item_GloriousKnakworst
 	  ItemWatch
+	  muzzle_snds_L
+	  U_C_Poloshirt_salmon
+	  SMG_02_F
+	  Exile_Item_PlasticBottleEmpty
+	  Chemlight_blue
+	  H_ShemagOpen_khk
+	  H_Beret_blk
+	  Chemlight_green
+	  arifle_Mk20_F
+	  acc_flashlight
+	  H_Cap_blk
+	  Exile_Item_PlasticBottleDirtyWater
 	  U_C_Poor_1
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  U_IG_Guerilla2_3
-	  hgun_ACPC2_F
+	  Binocular
+	  U_IG_Guerilla2_2
+	  B_FieldPack_cbr
+	  Exile_Item_BBQSandwich
 	  Exile_Item_EnergyDrink
-	  V_Chestrig_rgr
+	  H_Cap_brn_SPECOPS
+	  V_Rangemaster_belt
+	  9Rnd_45ACP_Mag
+	  Exile_Item_EnergyDrink
+	  arifle_Mk20C_F
+	  arifle_MX_GL_F
+	  U_C_HunterBody_grn
+	  optic_MRD
+	  hgun_Pistol_Signal_F
+	  FlareWhite_F
+	  acc_flashlight
+	  Exile_Item_ToiletPaper
+	  Exile_Item_Can_Empty
+	  Exile_Item_Noodles
+	  FlareYellow_F
+	  hgun_PDW2000_F
+	  U_C_Poloshirt_tricolour
+	  B_FieldPack_cbr
+	  B_OutdoorPack_tan
+	  H_Booniehat_khk
+	  muzzle_snds_acp
+	  ItemWatch
+	  Exile_Item_MountainDupe
+	  Exile_Item_ToiletPaper
+	  hgun_P07_F
+	  SMG_02_F
+	  30Rnd_65x39_caseless_green_mag_Tracer
+	  SMG_01_F
+	  optic_MRD
+	  Exile_Item_MountainDupe
+	  SMG_02_F
+	  U_IG_Guerilla3_2
+	  Exile_Item_SeedAstics
+	  Exile_Item_Beer
+	  Exile_Item_ToiletPaper
+	  Exile_Item_MountainDupe
+	  Exile_Item_PlasticBottleDirtyWater
+	  arifle_Mk20C_F
+	  V_I_G_resistanceLeader_F
+	  Exile_Item_MountainDupe
 	  U_C_Poloshirt_salmon
 	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  U_IG_Guerilla3_1
-	  Chemlight_green
-	  H_Cap_khaki_specops_UK
-	  U_C_Poor_1
-	  H_Booniehat_khk_hs
-	  ItemWatch
-	  Chemlight_red
-	  Exile_Item_PlasticBottleDirtyWater
-	  hgun_Pistol_Signal_F
-	  V_BandollierB_khk
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  optic_Hamr
-	  FlareWhite_F
-	  FlareRed_F
-	  V_Rangemaster_belt
-	  U_IG_Guerilla2_2
-	  U_C_Scientist
-	  Exile_Item_Surstromming
+	  B_Bergen_mcamo
+	  B_FieldPack_oucamo
 	  FlareYellow_F
+	  FlareGreen_F
 	  U_C_Poor_shorts_1
-	  optic_Aco_smg
-	  V_TacVest_blk_POLICE
-	  V_HarnessOSpec_gry
-	  30Rnd_45ACP_Mag_SMG_01
-	  30Rnd_9x21_Mag
-	  Exile_Item_InstantCoffee
-	  ItemRadio
-	  hgun_Rook40_F
-	  Exile_Item_MountainDupe
-	  U_IG_Guerilla2_1
-	  Exile_Item_PlasticBottleDirtyWater
-	  hgun_P07_F
-	  11Rnd_45ACP_Mag
-	  Exile_Item_Dogfood
-	  16Rnd_9x21_Mag
-	  Exile_Item_PlasticBottleEmpty
-	  H_Bandanna_surfer
-	  30Rnd_45ACP_Mag_SMG_01
-	  U_IG_Guerilla1_1
+	  hgun_ACPC2_F
 	  Exile_Item_ChristmasTinner
-	  FlareYellow_F
-	  B_Bergen_blk
-	  Exile_Item_Can_Empty
-	  U_Rangemaster
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  Exile_Item_Can_Empty
-	  20Rnd_556x45_UW_mag
-	  hgun_P07_F
-	  H_Hat_blue
-	  Exile_Item_PlasticBottleDirtyWater
-	  U_C_Poloshirt_stripped
-	  U_C_Poor_1
-	  B_FieldPack_ocamo
-	  hgun_PDW2000_F
-	  Exile_Item_EnergyDrink
-	  H_Hat_grey
-	  U_C_Poor_1
-	  H_Cap_oli
-	  9Rnd_45ACP_Mag
 	  Chemlight_blue
-	  Exile_Item_Can_Empty
-	  30Rnd_45ACP_Mag_SMG_01
-	  B_AssaultPack_mcamo
-	  Exile_Item_Can_Empty
-	  V_HarnessOSpec_gry
-	  V_Chestrig_khk
-	  B_Bergen_rgr
-	  H_Hat_grey
+	  H_Hat_blue
+	  U_IG_leader
+	  B_Bergen_blk
+	  Exile_Item_GloriousKnakworst
+	  hgun_P07_F
+	  B_FieldPack_cbr
+	  hgun_ACPC2_F
+	  H_Booniehat_dgtl
+	  muzzle_snds_acp
+	  Exile_Item_SeedAstics
+	  SMG_02_F
+	  Chemlight_red
+	  arifle_Katiba_F
+	  muzzle_snds_L
+	  Exile_Item_EnergyDrink
+	  FlareRed_F
+	  Exile_Item_Matches
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  Exile_Item_EnergyDrink
+	  hgun_ACPC2_F
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  H_Hat_camo
+	  U_Rangemaster
+	  Exile_Item_PowerDrink
 	*/
 	class CivillianLowerClass
 	{
 		count = 228;
-		half = 8455.37726186412;
+		half = 8292.50787147681;
 		halfIndex = 114;
 		sum = 10000;
 		items[] = 
 		{
-			{258.620689655172, "Exile_Item_PlasticBottleDirtyWater"}, // 2.59%
-			{488.505747126437, "Exile_Item_Can_Empty"}, // 2.30%
-			{718.390804597701, "Exile_Item_ToiletPaper"}, // 2.30%
-			{948.275862068966, "Exile_Item_PlasticBottleEmpty"}, // 2.30%
-			{1172.41379310345, "30Rnd_45ACP_Mag_SMG_01_Tracer_Green"}, // 2.24%
-			{1396.55172413793, "30Rnd_45ACP_Mag_SMG_01"}, // 2.24%
-			{1568.96551724138, "Exile_Item_MountainDupe"}, // 1.72%
-			{1733.10344827586, "SMG_01_F"}, // 1.64%
-			{1892.41379310345, "hgun_PDW2000_F"}, // 1.59%
-			{2051.72413793103, "SMG_02_F"}, // 1.59%
-			{2198.27586206897, "Exile_Item_EnergyDrink"}, // 1.47%
-			{2331.45065398335, "hgun_P07_F"}, // 1.33%
-			{2458.28378913991, "hgun_Rook40_F"}, // 1.27%
-			{2585.11692429647, "hgun_ACPC2_F"}, // 1.27%
-			{2705.80657946889, "Exile_Item_Beer"}, // 1.21%
-			{2809.25485533096, "9Rnd_45ACP_Mag"}, // 1.03%
-			{2912.70313119303, "30Rnd_9x21_Mag"}, // 1.03%
-			{3016.15140705509, "ItemRadio"}, // 1.03%
-			{3119.59968291716, "11Rnd_45ACP_Mag"}, // 1.03%
-			{3223.04795877923, "Exile_Item_PlasticBottleFreshWater"}, // 1.03%
-			{3326.4962346413, "ItemWatch"}, // 1.03%
-			{3412.70313119302, "FlareRed_F"}, // 0.86%
-			{3498.91002774475, "Chemlight_yellow"}, // 0.86%
-			{3585.11692429647, "Chemlight_red"}, // 0.86%
-			{3671.3238208482, "V_Rangemaster_belt"}, // 0.86%
-			{3757.53071739992, "FlareWhite_F"}, // 0.86%
-			{3843.73761395165, "FlareYellow_F"}, // 0.86%
-			{3929.94451050337, "Chemlight_blue"}, // 0.86%
-			{4016.15140705509, "Chemlight_green"}, // 0.86%
-			{4102.35830360682, "FlareGreen_F"}, // 0.86%
-			{4185.11692429647, "U_IG_Guerilla1_1"}, // 0.83%
-			{4267.87554498613, "6Rnd_45ACP_Cylinder"}, // 0.83%
-			{4350.63416567578, "U_IG_Guerilla2_2"}, // 0.83%
-			{4433.39278636544, "U_IG_Guerilla2_1"}, // 0.83%
-			{4516.15140705509, "U_IG_Guerilla2_3"}, // 0.83%
-			{4598.59294490686, "hgun_Pistol_heavy_01_F"}, // 0.82%
-			{4681.03448275862, "hgun_Pistol_Signal_F"}, // 0.82%
-			{4758.62068965517, "U_IG_Guerilla3_1"}, // 0.78%
-			{4836.20689655172, "U_IG_Guerilla3_2"}, // 0.78%
-			{4905.1724137931, "Binocular"}, // 0.69%
-			{4974.13793103448, "ItemGPS"}, // 0.69%
-			{5041.72413793103, "B_FieldPack_blk"}, // 0.68%
-			{5109.31034482759, "B_FieldPack_ocamo"}, // 0.68%
-			{5176.89655172414, "B_FieldPack_cbr"}, // 0.68%
-			{5244.48275862069, "B_FieldPack_oucamo"}, // 0.68%
-			{5311.62137474309, "Exile_Item_InstantCoffee"}, // 0.67%
-			{5373.07579604729, "U_C_Poor_shorts_1"}, // 0.61%
-			{5434.53021735149, "U_C_HunterBody_grn"}, // 0.61%
-			{5495.98463865569, "U_C_Journalist"}, // 0.61%
-			{5557.43905995989, "U_C_Scientist"}, // 0.61%
-			{5618.89348126409, "U_Rangemaster"}, // 0.61%
-			{5680.34790256829, "U_C_Poor_1"}, // 0.61%
-			{5741.80232387248, "U_C_Poor_2"}, // 0.61%
-			{5802.54678607847, "Exile_Item_Raisins"}, // 0.61%
-			{5863.29124828445, "Exile_Item_Moobar"}, // 0.61%
-			{5923.63607587066, "Exile_Item_PowerDrink"}, // 0.60%
-			{5981.18346111843, "Exile_Item_SeedAstics"}, // 0.58%
-			{6035.53376940799, "Exile_Item_Noodles"}, // 0.54%
-			{6089.88407769756, "Exile_Item_Cheathas"}, // 0.54%
-			{6144.23438598712, "Exile_Item_BeefParts"}, // 0.54%
-			{6198.58469427669, "Exile_Item_Dogfood"}, // 0.54%
-			{6252.93500256625, "Exile_Item_CatFood"}, // 0.54%
-			{6307.28531085581, "Exile_Item_BBQSandwich"}, // 0.54%
-			{6361.63561914538, "Exile_Item_ChristmasTinner"}, // 0.54%
-			{6415.98592743494, "Exile_Item_SausageGravy"}, // 0.54%
-			{6470.33623572451, "Exile_Item_Surstromming"}, // 0.54%
-			{6523.43968400037, "B_Bergen_mcamo"}, // 0.53%
-			{6576.54313227623, "B_Bergen_blk"}, // 0.53%
-			{6629.64658055209, "B_Bergen_rgr"}, // 0.53%
-			{6682.75002882796, "B_Bergen_sgg"}, // 0.53%
-			{6734.47416675899, "16Rnd_9x21_Mag"}, // 0.52%
-			{6785.62739809035, "Exile_Item_GloriousKnakworst"}, // 0.51%
-			{6833.58355246349, "Exile_Item_CanOpener"}, // 0.48%
-			{6881.53970683663, "Exile_Item_Matches"}, // 0.48%
-			{6929.33759007323, "U_C_Poloshirt_blue"}, // 0.48%
-			{6977.13547330983, "U_C_Poloshirt_stripped"}, // 0.48%
-			{7024.93335654643, "U_C_Poloshirt_tricolour"}, // 0.48%
-			{7072.73123978303, "U_C_Poloshirt_salmon"}, // 0.48%
-			{7120.52912301963, "U_C_Poloshirt_burgundy"}, // 0.48%
-			{7163.63257129549, "V_Press_F"}, // 0.43%
-			{7206.73601957136, "V_TacVest_blk_POLICE"}, // 0.43%
-			{7248.29802002808, "Exile_Item_CookingPot"}, // 0.42%
-			{7289.86002048481, "Exile_Item_EMRE"}, // 0.42%
-			{7331.23933082964, "H_StrawHat_dark"}, // 0.41%
-			{7372.61864117446, "H_Hat_blue"}, // 0.41%
-			{7413.99795151929, "H_Cap_red"}, // 0.41%
-			{7455.37726186412, "H_Cap_press"}, // 0.41%
-			{7496.75657220895, "H_Hat_brown"}, // 0.41%
-			{7538.13588255378, "H_Hat_checker"}, // 0.41%
-			{7579.5151928986, "H_Hat_grey"}, // 0.41%
-			{7620.89450324343, "H_Hat_tan"}, // 0.41%
-			{7662.27381358826, "H_StrawHat"}, // 0.41%
-			{7703.65312393309, "H_Cap_tan"}, // 0.41%
-			{7741.58415841585, "B_OutdoorPack_blk"}, // 0.38%
-			{7778.82553772619, "muzzle_snds_acp"}, // 0.37%
-			{7816.06691703654, "muzzle_snds_L"}, // 0.37%
-			{7852.27381358826, "6Rnd_GreenSignal_F"}, // 0.36%
-			{7888.48071013998, "6Rnd_RedSignal_F"}, // 0.36%
-			{7922.96346876067, "H_Cap_grn"}, // 0.34%
-			{7957.44622738136, "H_Cap_blu"}, // 0.34%
-			{7991.92898600205, "H_Cap_blk_Raven"}, // 0.34%
-			{8026.41174462274, "H_Cap_blk"}, // 0.34%
-			{8060.89450324343, "Exile_Item_ZipTie"}, // 0.34%
-			{8095.37726186412, "H_Cap_oli"}, // 0.34%
-			{8129.86002048481, "H_Beret_blk_POLICE"}, // 0.34%
-			{8164.3427791055, "H_Bandanna_surfer"}, // 0.34%
-			{8198.82553772619, "H_Cap_headphones"}, // 0.34%
-			{8232.96346876067, "B_OutdoorPack_tan"}, // 0.34%
-			{8267.10139979515, "B_OutdoorPack_blu"}, // 0.34%
-			{8298.48071013998, "V_HarnessOGL_gry"}, // 0.31%
-			{8329.86002048481, "V_BandollierB_blk"}, // 0.31%
-			{8361.23933082964, "V_HarnessOSpec_brn"}, // 0.31%
-			{8392.61864117446, "V_HarnessOSpec_gry"}, // 0.31%
-			{8423.99795151929, "V_BandollierB_khk"}, // 0.31%
-			{8455.37726186412, "V_BandollierB_cbr"}, // 0.31%
-			{8486.75657220895, "V_HarnessOGL_brn"}, // 0.31%
-			{8518.13588255378, "V_BandollierB_rgr"}, // 0.31%
-			{8549.5151928986, "V_BandollierB_oli"}, // 0.31%
-			{8580.89450324343, "V_HarnessO_gry"}, // 0.31%
-			{8612.27381358826, "V_HarnessO_brn"}, // 0.31%
-			{8642.61864117447, "B_HuntingBackpack"}, // 0.30%
-			{8669.1703653124, "B_AssaultPack_khk"}, // 0.27%
-			{8695.72208945033, "B_AssaultPack_cbr"}, // 0.27%
-			{8722.27381358826, "B_AssaultPack_rgr"}, // 0.27%
-			{8748.82553772619, "B_AssaultPack_mcamo"}, // 0.27%
-			{8775.37726186412, "B_AssaultPack_sgg"}, // 0.27%
-			{8801.92898600205, "B_AssaultPack_dgtl"}, // 0.27%
-			{8828.48071013998, "B_AssaultPack_blk"}, // 0.27%
-			{8850.89450324343, "V_Chestrig_blk"}, // 0.22%
-			{8873.30829634688, "V_Chestrig_rgr"}, // 0.22%
-			{8895.72208945033, "V_Chestrig_khk"}, // 0.22%
-			{8918.13588255377, "V_Chestrig_oli"}, // 0.22%
-			{8938.82553772619, "optic_Holosight_smg"}, // 0.21%
-			{8959.5151928986, "optic_ACO_grn_smg"}, // 0.21%
-			{8980.20484807101, "optic_Aco_smg"}, // 0.21%
-			{9000.89450324343, "U_IG_leader"}, // 0.21%
-			{9021.58415841584, "optic_ACO_grn"}, // 0.21%
-			{9042.27381358825, "optic_Aco"}, // 0.21%
-			{9061.23933082963, "B_Kitbag_mcamo"}, // 0.19%
-			{9080.20484807101, "B_Kitbag_sgg"}, // 0.19%
-			{9099.17036531239, "B_Kitbag_cbr"}, // 0.19%
-			{9117.10139979515, "H_Booniehat_khk"}, // 0.18%
-			{9135.03243427791, "H_Booniehat_indp"}, // 0.18%
-			{9152.96346876066, "H_Booniehat_mcamo"}, // 0.18%
-			{9170.89450324342, "H_Booniehat_grn"}, // 0.18%
-			{9188.82553772618, "H_Booniehat_tan"}, // 0.18%
-			{9206.75657220894, "H_Booniehat_dirty"}, // 0.18%
-			{9224.6876066917, "H_Booniehat_dgtl"}, // 0.18%
-			{9242.61864117446, "H_Booniehat_khk_hs"}, // 0.18%
-			{9258.95257946847, "30Rnd_556x45_Stanag"}, // 0.16%
-			{9275.28651776248, "30Rnd_65x39_caseless_green"}, // 0.16%
-			{9290.20694216566, "optic_Holosight"}, // 0.15%
-			{9304.68970078635, "optic_MRD"}, // 0.14%
-			{9319.17245940704, "optic_Yorris"}, // 0.14%
-			{9333.09818885002, "acc_flashlight"}, // 0.14%
-			{9346.54646471208, "H_Bandanna_khk_hs"}, // 0.13%
-			{9359.99474057415, "H_Watchcap_khk"}, // 0.13%
-			{9373.44301643622, "H_Watchcap_blk"}, // 0.13%
-			{9386.89129229829, "H_Cap_khaki_specops_UK"}, // 0.13%
-			{9400.33956816036, "V_I_G_resistanceLeader_F"}, // 0.13%
-			{9413.78784402243, "H_Cap_tan_specops_US"}, // 0.13%
-			{9427.2361198845, "H_Bandanna_cbr"}, // 0.13%
-			{9440.68439574657, "H_Cap_brn_SPECOPS"}, // 0.13%
-			{9454.13267160864, "H_BandMask_blk"}, // 0.13%
-			{9467.5809474707, "H_Bandanna_mcamo"}, // 0.13%
-			{9481.02922333277, "H_Bandanna_camo"}, // 0.13%
-			{9494.47749919484, "H_Bandanna_gry"}, // 0.13%
-			{9507.92577505691, "H_Bandanna_sgg"}, // 0.13%
-			{9521.37405091898, "H_Bandanna_khk"}, // 0.13%
-			{9534.82232678105, "H_Hat_camo"}, // 0.13%
-			{9546.80054819666, "20Rnd_556x45_UW_mag"}, // 0.12%
-			{9557.83503095528, "arifle_TRG21_F"}, // 0.11%
-			{9568.8695137139, "arifle_MX_F"}, // 0.11%
-			{9579.90399647252, "arifle_TRG20_F"}, // 0.11%
-			{9590.93847923114, "arifle_MXC_F"}, // 0.11%
-			{9601.28330681735, "U_I_G_resistanceLeader_F"}, // 0.10%
-			{9611.23025641947, "optic_DMS"}, // 0.10%
-			{9621.17720602159, "optic_MRCO"}, // 0.10%
-			{9631.12415562372, "acc_pointer_IR"}, // 0.10%
-			{9641.07110522584, "optic_Hamr"}, // 0.10%
-			{9651.01805482796, "optic_Arco"}, // 0.10%
-			{9660.96500443009, "muzzle_snds_H"}, // 0.10%
-			{9670.91195403221, "muzzle_snds_M"}, // 0.10%
-			{9680.76417078098, "optic_KHS_hex"}, // 0.10%
-			{9690.61638752974, "optic_KHS_tan"}, // 0.10%
-			{9700.46860427851, "optic_KHS_blk"}, // 0.10%
-			{9710.32082102728, "optic_AMS_snd"}, // 0.10%
-			{9720.17303777605, "optic_AMS_khk"}, // 0.10%
-			{9730.02525452482, "optic_AMS"}, // 0.10%
-			{9739.87747127358, "optic_KHS_old"}, // 0.10%
-			{9749.67783424999, "30Rnd_65x39_caseless_mag_Tracer"}, // 0.10%
-			{9759.4781972264, "30Rnd_65x39_caseless_mag"}, // 0.10%
-			{9769.2785602028, "30Rnd_556x45_Stanag_Tracer_Yellow"}, // 0.10%
-			{9779.07892317921, "30Rnd_556x45_Stanag_Tracer_Red"}, // 0.10%
-			{9788.87928615562, "30Rnd_556x45_Stanag_Tracer_Green"}, // 0.10%
-			{9798.67964913202, "30Rnd_65x39_caseless_green_mag_Tracer"}, // 0.10%
-			{9808.33482154582, "arifle_Mk20_F"}, // 0.10%
-			{9817.98999395961, "arifle_Mk20C_F"}, // 0.10%
-			{9826.95551120099, "H_ShemagOpen_khk"}, // 0.09%
-			{9835.92102844237, "H_Watchcap_camo"}, // 0.09%
-			{9844.88654568374, "H_Watchcap_sgg"}, // 0.09%
-			{9853.85206292512, "H_TurbanO_blk"}, // 0.09%
-			{9862.8175801665, "H_Shemag_khk"}, // 0.09%
-			{9871.78309740788, "H_Shemag_tan"}, // 0.09%
-			{9880.74861464926, "H_Shemag_olive"}, // 0.09%
-			{9889.71413189064, "H_Shemag_olive_hs"}, // 0.09%
-			{9898.67964913202, "H_ShemagOpen_tan"}, // 0.09%
-			{9906.95551120098, "arifle_SDAR_F"}, // 0.08%
-			{9913.78378023478, "U_NikosBody"}, // 0.07%
-			{9920.61204926858, "U_OrestesBody"}, // 0.07%
-			{9927.44031830238, "U_NikosAgedBody"}, // 0.07%
-			{9932.95755968169, "arifle_TRG21_GL_F"}, // 0.06%
-			{9938.474801061, "arifle_MX_GL_F"}, // 0.06%
-			{9943.99204244031, "arifle_Mk20_GL_F"}, // 0.06%
-			{9948.96551724137, "optic_NVS"}, // 0.05%
-			{9953.44827586206, "H_Beret_Colonel"}, // 0.04%
-			{9957.93103448275, "H_Beret_02"}, // 0.04%
-			{9962.41379310344, "H_Beret_red"}, // 0.04%
-			{9966.89655172413, "H_Beret_ocamo"}, // 0.04%
-			{9971.37931034482, "H_Beret_brn_SF"}, // 0.04%
-			{9975.86206896551, "H_Beret_grn_SF"}, // 0.04%
-			{9980.3448275862, "H_Beret_blk"}, // 0.04%
-			{9984.82758620689, "H_Beret_grn"}, // 0.04%
-			{9988.96551724138, "arifle_MX_GL_Black_F"}, // 0.04%
-			{9993.10344827586, "arifle_MX_Black_F"}, // 0.04%
-			{9997.24137931034, "arifle_MXC_Black_F"}, // 0.04%
-			{9998.62068965517, "arifle_Katiba_F"}, // 0.01%
-			{10000, "arifle_Katiba_GL_F"} // 0.01%
+			{287.35632183908, "30Rnd_45ACP_Mag_SMG_01"}, // 2.87%
+			{574.712643678161, "30Rnd_45ACP_Mag_SMG_01_Tracer_Green"}, // 2.87%
+			{812.64367816092, "muzzle_snds_L"}, // 2.38%
+			{1050.57471264368, "muzzle_snds_acp"}, // 2.38%
+			{1266.09195402299, "Exile_Item_PlasticBottleDirtyWater"}, // 2.16%
+			{1461.49425287356, "SMG_01_F"}, // 1.95%
+			{1651.14942528736, "SMG_02_F"}, // 1.90%
+			{1840.80459770115, "hgun_PDW2000_F"}, // 1.90%
+			{2007.27308759413, "hgun_P07_F"}, // 1.66%
+			{2165.81450653983, "hgun_Rook40_F"}, // 1.59%
+			{2324.35592548553, "hgun_ACPC2_F"}, // 1.59%
+			{2468.03408640507, "Exile_Item_MountainDupe"}, // 1.44%
+			{2594.47086801427, "30Rnd_9x21_Mag"}, // 1.26%
+			{2720.90764962346, "11Rnd_45ACP_Mag"}, // 1.26%
+			{2847.34443123266, "9Rnd_45ACP_Mag"}, // 1.26%
+			{2969.47086801427, "Exile_Item_EnergyDrink"}, // 1.22%
+			{3072.52279032897, "hgun_Pistol_Signal_F"}, // 1.03%
+			{3175.57471264368, "hgun_Pistol_heavy_01_F"}, // 1.03%
+			{3276.72413793103, "6Rnd_45ACP_Cylinder"}, // 1.01%
+			{3377.29885057471, "Exile_Item_Beer"}, // 1.01%
+			{3473.08429118774, "Exile_Item_ToiletPaper"}, // 0.96%
+			{3568.86973180077, "Exile_Item_PlasticBottleEmpty"}, // 0.96%
+			{3664.65517241379, "Exile_Item_Can_Empty"}, // 0.96%
+			{3757.18390804598, "optic_Yorris"}, // 0.93%
+			{3849.71264367816, "optic_MRD"}, // 0.93%
+			{3935.91954022988, "ItemRadio"}, // 0.86%
+			{4022.12643678161, "Exile_Item_PlasticBottleFreshWater"}, // 0.86%
+			{4108.33333333333, "ItemWatch"}, // 0.86%
+			{4180.1724137931, "Chemlight_green"}, // 0.72%
+			{4252.01149425287, "Chemlight_blue"}, // 0.72%
+			{4323.85057471264, "Chemlight_yellow"}, // 0.72%
+			{4395.68965517241, "FlareGreen_F"}, // 0.72%
+			{4467.52873563218, "FlareRed_F"}, // 0.72%
+			{4539.36781609195, "FlareWhite_F"}, // 0.72%
+			{4611.20689655172, "FlareYellow_F"}, // 0.72%
+			{4683.04597701149, "V_Rangemaster_belt"}, // 0.72%
+			{4754.88505747127, "Chemlight_red"}, // 0.72%
+			{4823.85057471264, "U_IG_Guerilla1_1"}, // 0.69%
+			{4892.81609195402, "U_IG_Guerilla2_3"}, // 0.69%
+			{4961.7816091954, "U_IG_Guerilla2_2"}, // 0.69%
+			{5030.74712643678, "U_IG_Guerilla2_1"}, // 0.69%
+			{5095.40229885058, "U_IG_Guerilla3_1"}, // 0.65%
+			{5160.05747126437, "U_IG_Guerilla3_2"}, // 0.65%
+			{5223.27586206897, "16Rnd_9x21_Mag"}, // 0.63%
+			{5282.25952813067, "30Rnd_556x45_Stanag"}, // 0.59%
+			{5341.24319419238, "30Rnd_65x39_caseless_green"}, // 0.59%
+			{5398.7144585602, "ItemGPS"}, // 0.57%
+			{5456.18572292801, "Binocular"}, // 0.57%
+			{5512.50756200847, "B_FieldPack_oucamo"}, // 0.56%
+			{5568.82940108893, "B_FieldPack_ocamo"}, // 0.56%
+			{5625.15124016939, "B_FieldPack_cbr"}, // 0.56%
+			{5681.47307924985, "B_FieldPack_blk"}, // 0.56%
+			{5737.42192601852, "Exile_Item_InstantCoffee"}, // 0.56%
+			{5788.63394377202, "U_C_Journalist"}, // 0.51%
+			{5839.84596152552, "U_C_Scientist"}, // 0.51%
+			{5891.05797927902, "U_C_Poor_1"}, // 0.51%
+			{5942.26999703252, "U_Rangemaster"}, // 0.51%
+			{5993.48201478602, "U_C_Poor_shorts_1"}, // 0.51%
+			{6044.69403253952, "U_C_Poor_2"}, // 0.51%
+			{6095.90605029302, "U_C_HunterBody_grn"}, // 0.51%
+			{6146.52643546467, "Exile_Item_Raisins"}, // 0.51%
+			{6197.14682063632, "Exile_Item_Moobar"}, // 0.51%
+			{6247.43417695816, "Exile_Item_PowerDrink"}, // 0.50%
+			{6295.39033133131, "Exile_Item_SeedAstics"}, // 0.48%
+			{6340.68225490594, "Exile_Item_Dogfood"}, // 0.45%
+			{6385.97417848058, "Exile_Item_Noodles"}, // 0.45%
+			{6431.26610205522, "Exile_Item_Cheathas"}, // 0.45%
+			{6476.55802562985, "Exile_Item_BeefParts"}, // 0.45%
+			{6521.84994920449, "Exile_Item_CatFood"}, // 0.45%
+			{6567.14187277913, "Exile_Item_BBQSandwich"}, // 0.45%
+			{6612.43379635376, "Exile_Item_ChristmasTinner"}, // 0.45%
+			{6657.7257199284, "Exile_Item_SausageGravy"}, // 0.45%
+			{6703.01764350304, "Exile_Item_Surstromming"}, // 0.45%
+			{6747.27051706625, "B_Bergen_rgr"}, // 0.44%
+			{6791.52339062947, "6Rnd_RedSignal_F"}, // 0.44%
+			{6835.77626419269, "B_Bergen_sgg"}, // 0.44%
+			{6880.02913775591, "B_Bergen_mcamo"}, // 0.44%
+			{6924.28201131913, "6Rnd_GreenSignal_F"}, // 0.44%
+			{6968.53488488235, "B_Bergen_blk"}, // 0.44%
+			{7011.7895733276, "20Rnd_556x45_UW_mag"}, // 0.43%
+			{7054.41726610373, "Exile_Item_GloriousKnakworst"}, // 0.43%
+			{7094.38072808135, "Exile_Item_CanOpener"}, // 0.40%
+			{7134.34419005897, "Exile_Item_Matches"}, // 0.40%
+			{7174.19093335399, "arifle_TRG20_F"}, // 0.40%
+			{7214.03767664901, "arifle_TRG21_F"}, // 0.40%
+			{7253.88441994403, "arifle_MX_F"}, // 0.40%
+			{7293.73116323905, "arifle_MXC_F"}, // 0.40%
+			{7333.56273260288, "U_C_Poloshirt_burgundy"}, // 0.40%
+			{7373.39430196671, "U_C_Poloshirt_blue"}, // 0.40%
+			{7413.22587133055, "U_C_Poloshirt_stripped"}, // 0.40%
+			{7453.05744069438, "U_C_Poloshirt_tricolour"}, // 0.40%
+			{7492.88901005821, "U_C_Poloshirt_salmon"}, // 0.40%
+			{7528.8085502881, "V_TacVest_blk_POLICE"}, // 0.36%
+			{7564.72809051798, "V_Press_F"}, // 0.36%
+			{7600.118290155, "30Rnd_65x39_caseless_green_mag_Tracer"}, // 0.35%
+			{7635.50848979203, "30Rnd_65x39_caseless_mag"}, // 0.35%
+			{7670.89868942905, "30Rnd_556x45_Stanag_Tracer_Red"}, // 0.35%
+			{7706.28888906607, "30Rnd_556x45_Stanag_Tracer_Green"}, // 0.35%
+			{7741.6790887031, "30Rnd_65x39_caseless_mag_Tracer"}, // 0.35%
+			{7777.06928834012, "30Rnd_556x45_Stanag_Tracer_Yellow"}, // 0.35%
+			{7811.93518872326, "arifle_Mk20_F"}, // 0.35%
+			{7846.8010891064, "arifle_Mk20C_F"}, // 0.35%
+			{7881.43608948701, "Exile_Item_CookingPot"}, // 0.35%
+			{7916.07108986761, "Exile_Item_EMRE"}, // 0.35%
+			{7950.5538484883, "H_Hat_checker"}, // 0.34%
+			{7985.03660710899, "H_Cap_tan"}, // 0.34%
+			{8019.51936572968, "H_Hat_blue"}, // 0.34%
+			{8054.00212435037, "H_Hat_grey"}, // 0.34%
+			{8088.48488297106, "H_Hat_brown"}, // 0.34%
+			{8122.96764159175, "H_Hat_tan"}, // 0.34%
+			{8157.45040021244, "H_Cap_red"}, // 0.34%
+			{8191.93315883313, "H_StrawHat_dark"}, // 0.34%
+			{8226.41591745382, "H_Cap_press"}, // 0.34%
+			{8260.89867607451, "H_StrawHat"}, // 0.34%
+			{8292.50787147681, "B_OutdoorPack_blk"}, // 0.32%
+			{8322.39292894807, "arifle_SDAR_F"}, // 0.30%
+			{8351.12856113198, "H_Cap_oli"}, // 0.29%
+			{8379.86419331589, "H_Cap_headphones"}, // 0.29%
+			{8408.5998254998, "H_Cap_grn"}, // 0.29%
+			{8437.33545768371, "H_Cap_blu"}, // 0.29%
+			{8466.07108986762, "H_Cap_blk_Raven"}, // 0.29%
+			{8494.80672205153, "H_Bandanna_surfer"}, // 0.29%
+			{8523.54235423543, "H_Beret_blk_POLICE"}, // 0.29%
+			{8552.27798641934, "Exile_Item_ZipTie"}, // 0.29%
+			{8581.01361860325, "H_Cap_blk"}, // 0.29%
+			{8609.46189446532, "B_OutdoorPack_blu"}, // 0.28%
+			{8637.91017032739, "B_OutdoorPack_tan"}, // 0.28%
+			{8664.05959561475, "V_HarnessOSpec_gry"}, // 0.26%
+			{8690.2090209021, "V_HarnessOSpec_brn"}, // 0.26%
+			{8716.35844618946, "V_HarnessO_brn"}, // 0.26%
+			{8742.50787147682, "V_HarnessOGL_brn"}, // 0.26%
+			{8768.65729676417, "V_BandollierB_oli"}, // 0.26%
+			{8794.80672205153, "V_BandollierB_blk"}, // 0.26%
+			{8820.95614733888, "V_HarnessOGL_gry"}, // 0.26%
+			{8847.10557262624, "V_HarnessO_gry"}, // 0.26%
+			{8873.2549979136, "V_BandollierB_rgr"}, // 0.26%
+			{8899.40442320095, "V_BandollierB_cbr"}, // 0.26%
+			{8925.55384848831, "V_BandollierB_khk"}, // 0.26%
+			{8950.84120481015, "B_HuntingBackpack"}, // 0.25%
+			{8972.96764159176, "B_AssaultPack_mcamo"}, // 0.22%
+			{8995.09407837337, "B_AssaultPack_cbr"}, // 0.22%
+			{9017.22051515498, "B_AssaultPack_blk"}, // 0.22%
+			{9039.34695193659, "B_AssaultPack_sgg"}, // 0.22%
+			{9061.4733887182, "B_AssaultPack_rgr"}, // 0.22%
+			{9083.5998254998, "B_AssaultPack_dgtl"}, // 0.22%
+			{9105.72626228141, "B_AssaultPack_khk"}, // 0.22%
+			{9125.64963392892, "arifle_TRG21_GL_F"}, // 0.20%
+			{9145.57300557643, "arifle_MX_GL_F"}, // 0.20%
+			{9165.49637722394, "arifle_Mk20_GL_F"}, // 0.20%
+			{9184.17453814348, "V_Chestrig_oli"}, // 0.19%
+			{9202.85269906303, "V_Chestrig_khk"}, // 0.19%
+			{9221.53085998257, "V_Chestrig_rgr"}, // 0.19%
+			{9240.20902090211, "V_Chestrig_blk"}, // 0.19%
+			{9257.45040021245, "optic_ACO_grn"}, // 0.17%
+			{9274.69177952279, "optic_Aco_smg"}, // 0.17%
+			{9291.93315883314, "optic_ACO_grn_smg"}, // 0.17%
+			{9309.17453814348, "optic_Holosight_smg"}, // 0.17%
+			{9326.41591745383, "U_IG_leader"}, // 0.17%
+			{9343.65729676417, "optic_Aco"}, // 0.17%
+			{9359.46189446532, "B_Kitbag_mcamo"}, // 0.16%
+			{9375.26649216647, "B_Kitbag_cbr"}, // 0.16%
+			{9391.07108986762, "B_Kitbag_sgg"}, // 0.16%
+			{9406.01361860325, "H_Booniehat_tan"}, // 0.15%
+			{9420.95614733888, "H_Booniehat_dgtl"}, // 0.15%
+			{9435.89867607452, "H_Booniehat_dirty"}, // 0.15%
+			{9450.84120481015, "H_Booniehat_grn"}, // 0.15%
+			{9465.78373354578, "H_Booniehat_mcamo"}, // 0.15%
+			{9480.72626228141, "H_Booniehat_indp"}, // 0.15%
+			{9495.66879101704, "H_Booniehat_khk"}, // 0.15%
+			{9510.61131975267, "arifle_MXC_Black_F"}, // 0.15%
+			{9525.55384848831, "arifle_MX_Black_F"}, // 0.15%
+			{9540.49637722394, "arifle_MX_GL_Black_F"}, // 0.15%
+			{9555.43890595957, "H_Booniehat_khk_hs"}, // 0.15%
+			{9567.87259296222, "optic_Holosight"}, // 0.12%
+			{9579.47736749803, "acc_flashlight"}, // 0.12%
+			{9590.68426404975, "H_Hat_camo"}, // 0.11%
+			{9601.89116060148, "H_Watchcap_khk"}, // 0.11%
+			{9613.0980571532, "H_Watchcap_blk"}, // 0.11%
+			{9624.30495370493, "H_Bandanna_khk_hs"}, // 0.11%
+			{9635.51185025665, "H_Cap_khaki_specops_UK"}, // 0.11%
+			{9646.71874680838, "H_Cap_tan_specops_US"}, // 0.11%
+			{9657.9256433601, "H_Cap_brn_SPECOPS"}, // 0.11%
+			{9669.13253991183, "V_I_G_resistanceLeader_F"}, // 0.11%
+			{9680.33943646355, "H_Bandanna_cbr"}, // 0.11%
+			{9691.54633301528, "H_Bandanna_sgg"}, // 0.11%
+			{9702.753229567, "H_Bandanna_khk"}, // 0.11%
+			{9713.96012611873, "H_BandMask_blk"}, // 0.11%
+			{9725.16702267045, "H_Bandanna_mcamo"}, // 0.11%
+			{9736.37391922217, "H_Bandanna_camo"}, // 0.11%
+			{9747.5808157739, "H_Bandanna_gry"}, // 0.11%
+			{9756.20150542907, "U_I_G_resistanceLeader_F"}, // 0.09%
+			{9764.49063009751, "muzzle_snds_M"}, // 0.08%
+			{9772.77975476594, "muzzle_snds_H"}, // 0.08%
+			{9781.06887943438, "optic_Arco"}, // 0.08%
+			{9789.35800410281, "optic_Hamr"}, // 0.08%
+			{9797.64712877125, "acc_pointer_IR"}, // 0.08%
+			{9805.93625343969, "optic_MRCO"}, // 0.08%
+			{9814.22537810812, "optic_DMS"}, // 0.08%
+			{9822.4355587321, "optic_KHS_old"}, // 0.08%
+			{9830.64573935607, "optic_KHS_hex"}, // 0.08%
+			{9838.85591998004, "optic_KHS_blk"}, // 0.08%
+			{9847.06610060402, "optic_AMS_snd"}, // 0.08%
+			{9855.27628122799, "optic_AMS_khk"}, // 0.08%
+			{9863.48646185196, "optic_AMS"}, // 0.08%
+			{9871.69664247594, "optic_KHS_tan"}, // 0.08%
+			{9879.16790684375, "H_ShemagOpen_khk"}, // 0.07%
+			{9886.63917121157, "H_Shemag_olive_hs"}, // 0.07%
+			{9894.11043557938, "H_Shemag_olive"}, // 0.07%
+			{9901.5816999472, "H_Shemag_tan"}, // 0.07%
+			{9909.05296431501, "H_Shemag_khk"}, // 0.07%
+			{9916.52422868283, "H_TurbanO_blk"}, // 0.07%
+			{9923.99549305065, "H_Watchcap_sgg"}, // 0.07%
+			{9931.46675741846, "H_Watchcap_camo"}, // 0.07%
+			{9938.93802178628, "H_ShemagOpen_tan"}, // 0.07%
+			{9944.62824598111, "U_NikosAgedBody"}, // 0.06%
+			{9950.31847017595, "U_NikosBody"}, // 0.06%
+			{9956.00869437078, "U_OrestesBody"}, // 0.06%
+			{9960.98953728266, "arifle_Katiba_GL_F"}, // 0.05%
+			{9965.97038019453, "arifle_Katiba_F"}, // 0.05%
+			{9970.11494252875, "optic_NVS"}, // 0.04%
+			{9973.85057471266, "H_Beret_02"}, // 0.04%
+			{9977.58620689657, "H_Beret_ocamo"}, // 0.04%
+			{9981.32183908048, "H_Beret_brn_SF"}, // 0.04%
+			{9985.05747126438, "H_Beret_grn_SF"}, // 0.04%
+			{9988.79310344829, "H_Beret_grn"}, // 0.04%
+			{9992.5287356322, "H_Beret_red"}, // 0.04%
+			{9996.26436781611, "H_Beret_blk"}, // 0.04%
+			{10000, "H_Beret_Colonel"} // 0.04%
 		};
 	};
 
 	/**
 	  Result of 100 rounds:
 
-	  arifle_Mk20C_F
-	  arifle_SDAR_F
-	  ItemWatch
-	  H_Cap_headphones
-	  U_IG_Guerilla2_1
-	  H_Hat_blue
-	  H_Cap_blk
-	  H_Bandanna_khk
-	  SMG_02_F
-	  Exile_Item_PlasticBottleEmpty
-	  Chemlight_red
-	  SMG_01_F
-	  U_C_Poloshirt_tricolour
-	  U_C_Poloshirt_salmon
-	  H_StrawHat
-	  U_C_Journalist
-	  SMG_01_F
-	  optic_Aco_smg
-	  SMG_01_F
-	  B_FieldPack_cbr
-	  V_Chestrig_blk
-	  optic_Aco
-	  Exile_Item_Moobar
-	  Exile_Item_Raisins
-	  30Rnd_65x39_caseless_green
-	  U_IG_Guerilla1_1
-	  Exile_Item_MountainDupe
-	  H_Bandanna_camo
-	  H_Bandanna_mcamo
-	  V_BandollierB_khk
-	  B_FieldPack_blk
-	  optic_Holosight_smg
-	  U_IG_Guerilla3_2
-	  Exile_Item_PlasticBottleFreshWater
-	  optic_AMS_snd
-	  arifle_MXC_Black_F
-	  V_TacVest_blk_POLICE
-	  U_IG_Guerilla1_1
-	  H_Booniehat_dirty
-	  V_HarnessO_gry
-	  Exile_Item_Noodles
-	  acc_flashlight
-	  optic_AMS
-	  Exile_Item_SausageGravy
-	  hgun_PDW2000_F
-	  Exile_Item_Matches
-	  Exile_Item_EMRE
-	  Chemlight_yellow
-	  SMG_02_F
-	  Exile_Item_PlasticBottleEmpty
-	  Chemlight_green
-	  V_HarnessOGL_gry
-	  V_BandollierB_rgr
-	  Exile_Item_Can_Empty
-	  Exile_Item_ToiletPaper
-	  B_Bergen_rgr
-	  optic_Aco_smg
-	  V_BandollierB_oli
-	  Exile_Item_MountainDupe
-	  Exile_Item_Can_Empty
-	  Chemlight_red
-	  B_AssaultPack_mcamo
-	  H_Beret_02
+	  arifle_MX_Black_F
 	  hgun_P07_F
-	  H_Hat_grey
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  B_HuntingBackpack
-	  optic_Holosight
-	  H_Cap_blk
-	  Exile_Item_PlasticBottleFreshWater
-	  30Rnd_45ACP_Mag_SMG_01
-	  H_Booniehat_indp
-	  Chemlight_green
-	  Exile_Item_InstantCoffee
-	  H_Cap_red
-	  H_Shemag_tan
-	  U_C_Journalist
-	  H_TurbanO_blk
-	  V_Press_F
-	  muzzle_snds_L
+	  B_FieldPack_oucamo
+	  U_IG_Guerilla2_3
+	  U_Rangemaster
+	  Exile_Item_BBQSandwich
+	  hgun_PDW2000_F
 	  U_C_HunterBody_grn
 	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  11Rnd_45ACP_Mag
-	  H_Booniehat_mcamo
-	  B_FieldPack_oucamo
-	  U_C_Poloshirt_burgundy
-	  Exile_Item_Beer
-	  U_IG_Guerilla3_1
-	  H_Hat_checker
-	  Chemlight_yellow
-	  V_BandollierB_cbr
-	  H_Hat_checker
-	  optic_KHS_blk
-	  B_AssaultPack_mcamo
-	  B_FieldPack_cbr
-	  V_BandollierB_rgr
-	  acc_flashlight
-	  Chemlight_blue
-	  optic_KHS_hex
+	  Exile_Item_BeefParts
+	  Exile_Item_InstantCoffee
+	  hgun_ACPC2_F
+	  B_HuntingBackpack
+	  Exile_Item_CookingPot
+	  acc_pointer_IR
+	  H_Cap_brn_SPECOPS
+	  SMG_01_F
+	  Exile_Item_PlasticBottleDirtyWater
+	  20Rnd_556x45_UW_mag
 	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_Matches
+	  30Rnd_556x45_Stanag_Tracer_Red
+	  arifle_MX_F
+	  U_IG_Guerilla2_1
+	  U_IG_Guerilla3_1
+	  Exile_Item_ToiletPaper
+	  Exile_Item_SeedAstics
+	  V_BandollierB_oli
+	  H_Booniehat_grn
+	  30Rnd_556x45_Stanag_Tracer_Red
+	  30Rnd_556x45_Stanag
+	  Chemlight_red
+	  SMG_02_F
+	  H_Booniehat_dirty
+	  Exile_Item_Dogfood
+	  arifle_MXC_F
+	  hgun_PDW2000_F
+	  V_BandollierB_khk
+	  U_IG_Guerilla3_1
+	  Exile_Item_Raisins
+	  U_IG_Guerilla2_2
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  Exile_Item_Raisins
+	  V_TacVest_blk_POLICE
+	  U_IG_Guerilla2_2
+	  Exile_Item_PlasticBottleEmpty
+	  U_IG_Guerilla1_1
+	  optic_AMS_snd
+	  U_C_HunterBody_grn
+	  FlareYellow_F
+	  Chemlight_red
+	  V_Press_F
+	  arifle_Mk20_F
+	  Exile_Item_CookingPot
+	  optic_Yorris
+	  Exile_Item_PlasticBottleFreshWater
+	  Exile_Item_PlasticBottleDirtyWater
+	  V_Rangemaster_belt
+	  H_Watchcap_khk
+	  arifle_MXC_F
+	  SMG_01_F
+	  Chemlight_yellow
+	  U_C_Poloshirt_stripped
+	  30Rnd_65x39_caseless_mag
+	  arifle_MX_F
+	  hgun_PDW2000_F
+	  Binocular
+	  H_Bandanna_gry
+	  hgun_PDW2000_F
+	  30Rnd_556x45_Stanag_Tracer_Green
+	  V_Chestrig_khk
+	  FlareWhite_F
+	  optic_AMS
+	  B_OutdoorPack_blu
+	  optic_DMS
+	  Exile_Item_BBQSandwich
+	  H_Bandanna_cbr
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  30Rnd_45ACP_Mag_SMG_01
+	  V_Rangemaster_belt
+	  optic_DMS
+	  H_StrawHat
+	  Exile_Item_MountainDupe
+	  Exile_Item_Raisins
+	  Exile_Item_Can_Empty
+	  H_Hat_blue
+	  arifle_MX_GL_F
+	  20Rnd_556x45_UW_mag
+	  optic_Hamr
+	  U_IG_Guerilla2_1
+	  Chemlight_green
+	  U_I_G_resistanceLeader_F
+	  H_Cap_red
+	  Exile_Item_ZipTie
+	  B_Bergen_blk
+	  H_Bandanna_surfer
+	  FlareGreen_F
+	  30Rnd_45ACP_Mag_SMG_01
+	  V_I_G_resistanceLeader_F
+	  Exile_Item_Can_Empty
 	*/
 	class CivillianUpperClass
 	{
 		count = 228;
-		half = 7629.92016812907;
+		half = 7659.51359348423;
 		halfIndex = 114;
-		sum = 9999.99999999998;
+		sum = 9999.99999999999;
 		items[] = 
 		{
-			{210.304942166141, "Exile_Item_Can_Empty"}, // 2.10%
-			{420.609884332282, "Exile_Item_ToiletPaper"}, // 2.10%
-			{630.914826498423, "Exile_Item_PlasticBottleEmpty"}, // 2.10%
-			{835.96214511041, "30Rnd_45ACP_Mag_SMG_01_Tracer_Green"}, // 2.05%
-			{1041.0094637224, "30Rnd_45ACP_Mag_SMG_01"}, // 2.05%
-			{1191.16719242902, "SMG_01_F"}, // 1.50%
-			{1336.90851735016, "hgun_PDW2000_F"}, // 1.46%
-			{1482.64984227129, "SMG_02_F"}, // 1.46%
-			{1624.60567823344, "V_Rangemaster_belt"}, // 1.42%
-			{1719.2429022082, "ItemRadio"}, // 0.95%
-			{1813.88012618297, "ItemWatch"}, // 0.95%
-			{1908.51735015773, "Exile_Item_PlasticBottleDirtyWater"}, // 0.95%
-			{1999.3690851735, "U_IG_Guerilla1_1"}, // 0.91%
-			{2090.22082018927, "U_IG_Guerilla2_1"}, // 0.91%
-			{2181.07255520505, "U_IG_Guerilla2_3"}, // 0.91%
-			{2271.92429022082, "U_IG_Guerilla2_2"}, // 0.91%
-			{2357.09779179811, "U_IG_Guerilla3_1"}, // 0.85%
-			{2442.27129337539, "U_IG_Guerilla3_2"}, // 0.85%
-			{2524.29022082019, "optic_ACO_grn"}, // 0.82%
-			{2606.30914826498, "optic_Holosight_smg"}, // 0.82%
-			{2688.32807570978, "optic_ACO_grn_smg"}, // 0.82%
-			{2770.34700315457, "optic_Aco"}, // 0.82%
-			{2852.36593059937, "optic_Aco_smg"}, // 0.82%
-			{2931.86119873817, "B_FieldPack_blk"}, // 0.79%
-			{3011.35646687697, "B_FieldPack_ocamo"}, // 0.79%
-			{3090.85173501577, "B_FieldPack_oucamo"}, // 0.79%
-			{3170.34700315457, "B_FieldPack_cbr"}, // 0.79%
-			{3249.21135646688, "Chemlight_blue"}, // 0.79%
-			{3328.07570977918, "FlareWhite_F"}, // 0.79%
-			{3406.94006309148, "Chemlight_red"}, // 0.79%
-			{3485.80441640378, "Chemlight_yellow"}, // 0.79%
-			{3564.66876971609, "FlareGreen_F"}, // 0.79%
-			{3643.53312302839, "FlareRed_F"}, // 0.79%
-			{3722.39747634069, "FlareYellow_F"}, // 0.79%
-			{3801.26182965299, "Chemlight_green"}, // 0.79%
-			{3872.23974763407, "V_TacVest_blk_POLICE"}, // 0.71%
-			{3943.21766561514, "V_Press_F"}, // 0.71%
-			{4007.96945043998, "30Rnd_556x45_Stanag"}, // 0.65%
-			{4072.72123526482, "30Rnd_65x39_caseless_green"}, // 0.65%
-			{4135.81271791466, "Binocular"}, // 0.63%
-			{4198.9042005645, "ItemGPS"}, // 0.63%
-			{4261.99568321434, "Exile_Item_MountainDupe"}, // 0.63%
-			{4324.45625103769, "B_Bergen_blk"}, // 0.62%
-			{4386.91681886103, "B_Bergen_rgr"}, // 0.62%
-			{4449.37738668437, "B_Bergen_mcamo"}, // 0.62%
-			{4511.83795450772, "B_Bergen_sgg"}, // 0.62%
-			{4573.25813960392, "Exile_Item_InstantCoffee"}, // 0.61%
-			{4634.17405388653, "hgun_P07_F"}, // 0.61%
-			{4692.18921034615, "hgun_ACPC2_F"}, // 0.58%
-			{4750.20436680578, "hgun_Rook40_F"}, // 0.58%
-			{4806.42449986009, "U_C_Poor_shorts_1"}, // 0.56%
-			{4862.64463291441, "U_C_HunterBody_grn"}, // 0.56%
-			{4918.86476596872, "U_C_Journalist"}, // 0.56%
-			{4975.08489902304, "U_C_Scientist"}, // 0.56%
-			{5031.30503207735, "U_C_Poor_1"}, // 0.56%
-			{5087.52516513167, "U_Rangemaster"}, // 0.56%
-			{5143.74529818598, "U_C_Poor_2"}, // 0.56%
-			{5199.31594184445, "Exile_Item_Raisins"}, // 0.56%
-			{5254.88658550292, "Exile_Item_Moobar"}, // 0.56%
-			{5308.51434575529, "Exile_Item_EnergyDrink"}, // 0.54%
-			{5361.16021869489, "Exile_Item_SeedAstics"}, // 0.53%
-			{5410.88132091563, "Exile_Item_Cheathas"}, // 0.50%
-			{5460.60242313637, "Exile_Item_SausageGravy"}, // 0.50%
-			{5510.3235253571, "Exile_Item_ChristmasTinner"}, // 0.50%
-			{5560.04462757784, "Exile_Item_BBQSandwich"}, // 0.50%
-			{5609.76572979858, "Exile_Item_Noodles"}, // 0.50%
-			{5659.48683201931, "Exile_Item_CatFood"}, // 0.50%
-			{5709.20793424005, "Exile_Item_Surstromming"}, // 0.50%
-			{5758.92903646079, "Exile_Item_BeefParts"}, // 0.50%
-			{5808.65013868152, "Exile_Item_Dogfood"}, // 0.50%
-			{5856.1347808864, "20Rnd_556x45_UW_mag"}, // 0.47%
-			{5902.93111238827, "Exile_Item_GloriousKnakworst"}, // 0.47%
-			{5947.09515024316, "Exile_Item_Beer"}, // 0.44%
-			{5990.96671102617, "Exile_Item_Matches"}, // 0.44%
-			{6034.83827180917, "Exile_Item_CanOpener"}, // 0.44%
-			{6078.58169977973, "arifle_MX_F"}, // 0.44%
-			{6122.32512775028, "arifle_TRG20_F"}, // 0.44%
-			{6166.06855572084, "arifle_MXC_F"}, // 0.44%
-			{6209.8119836914, "arifle_TRG21_F"}, // 0.44%
-			{6253.53875384476, "U_C_Poloshirt_burgundy"}, // 0.44%
-			{6297.26552399811, "U_C_Poloshirt_salmon"}, // 0.44%
-			{6340.99229415147, "U_C_Poloshirt_stripped"}, // 0.44%
-			{6384.71906430483, "U_C_Poloshirt_tricolour"}, // 0.44%
-			{6428.44583445818, "U_C_Poloshirt_blue"}, // 0.44%
-			{6468.19346852758, "V_HarnessO_brn"}, // 0.40%
-			{6507.94110259698, "V_HarnessOGL_brn"}, // 0.40%
-			{6547.68873666638, "V_HarnessO_gry"}, // 0.40%
-			{6587.43637073578, "V_BandollierB_blk"}, // 0.40%
-			{6627.18400480518, "V_BandollierB_oli"}, // 0.40%
-			{6666.93163887458, "V_BandollierB_rgr"}, // 0.40%
-			{6706.67927294398, "V_HarnessOGL_gry"}, // 0.40%
-			{6746.42690701338, "V_HarnessOSpec_brn"}, // 0.40%
-			{6786.17454108278, "V_HarnessOSpec_gry"}, // 0.40%
-			{6825.92217515218, "V_BandollierB_khk"}, // 0.40%
-			{6865.66980922158, "V_BandollierB_cbr"}, // 0.40%
-			{6904.52088011649, "30Rnd_556x45_Stanag_Tracer_Red"}, // 0.39%
-			{6943.37195101139, "30Rnd_556x45_Stanag_Tracer_Yellow"}, // 0.39%
-			{6982.22302190629, "30Rnd_65x39_caseless_green_mag_Tracer"}, // 0.39%
-			{7021.07409280119, "30Rnd_556x45_Stanag_Tracer_Green"}, // 0.39%
-			{7059.9251636961, "30Rnd_65x39_caseless_mag"}, // 0.39%
-			{7098.776234591, "30Rnd_65x39_caseless_mag_Tracer"}, // 0.39%
-			{7137.05173406524, "arifle_Mk20C_F"}, // 0.38%
-			{7175.32723353947, "arifle_Mk20_F"}, // 0.38%
-			{7213.34925288474, "Exile_Item_EMRE"}, // 0.38%
-			{7251.37127223001, "Exile_Item_CookingPot"}, // 0.38%
-			{7289.22616181992, "H_Hat_checker"}, // 0.38%
-			{7327.08105140982, "H_Hat_brown"}, // 0.38%
-			{7364.93594099973, "H_Hat_tan"}, // 0.38%
-			{7402.79083058963, "H_StrawHat"}, // 0.38%
-			{7440.64572017954, "H_StrawHat_dark"}, // 0.38%
-			{7478.50060976945, "H_Cap_press"}, // 0.38%
-			{7516.35549935935, "H_Cap_red"}, // 0.38%
-			{7554.21038894926, "H_Hat_grey"}, // 0.38%
-			{7592.06527853916, "H_Hat_blue"}, // 0.38%
-			{7629.92016812907, "H_Cap_tan"}, // 0.38%
-			{7667.77505771897, "Exile_Item_PlasticBottleFreshWater"}, // 0.38%
-			{7705.48490941773, "hgun_Pistol_Signal_F"}, // 0.38%
-			{7743.19476111649, "hgun_Pistol_heavy_01_F"}, // 0.38%
-			{7779.2470369164, "optic_KHS_blk"}, // 0.36%
-			{7815.29931271631, "optic_AMS_snd"}, // 0.36%
-			{7851.35158851622, "optic_AMS_khk"}, // 0.36%
-			{7887.40386431612, "optic_AMS"}, // 0.36%
-			{7923.45614011603, "optic_KHS_hex"}, // 0.36%
-			{7959.50841591594, "optic_KHS_tan"}, // 0.36%
-			{7995.56069171585, "optic_KHS_old"}, // 0.36%
-			{8030.26100717327, "B_OutdoorPack_blk"}, // 0.35%
-			{8064.33040780418, "muzzle_snds_L"}, // 0.34%
-			{8098.3998084351, "muzzle_snds_acp"}, // 0.34%
-			{8131.20737941301, "arifle_SDAR_F"}, // 0.33%
-			{8162.75312073794, "11Rnd_45ACP_Mag"}, // 0.32%
-			{8194.29886206286, "30Rnd_9x21_Mag"}, // 0.32%
-			{8225.84460338778, "H_Bandanna_surfer"}, // 0.32%
-			{8257.3903447127, "H_Cap_headphones"}, // 0.32%
-			{8288.93608603762, "9Rnd_45ACP_Mag"}, // 0.32%
-			{8320.48182736254, "Exile_Item_ZipTie"}, // 0.32%
-			{8352.02756868746, "H_Cap_oli"}, // 0.32%
-			{8383.57331001238, "H_Beret_blk_POLICE"}, // 0.32%
-			{8415.1190513373, "H_Cap_blu"}, // 0.32%
-			{8446.66479266222, "H_Cap_blk_Raven"}, // 0.32%
-			{8478.21053398714, "H_Cap_grn"}, // 0.32%
-			{8509.75627531206, "H_Cap_blk"}, // 0.32%
-			{8540.98655922373, "B_OutdoorPack_blu"}, // 0.31%
-			{8572.21684313541, "B_OutdoorPack_tan"}, // 0.31%
-			{8600.60801032784, "V_Chestrig_rgr"}, // 0.28%
-			{8628.99917752027, "V_Chestrig_blk"}, // 0.28%
-			{8657.39034471269, "V_Chestrig_khk"}, // 0.28%
-			{8685.78151190512, "V_Chestrig_oli"}, // 0.28%
-			{8713.54176427105, "B_HuntingBackpack"}, // 0.28%
-			{8740.84096349454, "optic_Holosight"}, // 0.27%
-			{8766.32021610313, "acc_flashlight"}, // 0.25%
-			{8791.55680916307, "6Rnd_45ACP_Cylinder"}, // 0.25%
-			{8815.84702998326, "B_AssaultPack_dgtl"}, // 0.24%
-			{8840.13725080345, "B_AssaultPack_cbr"}, // 0.24%
-			{8864.42747162363, "B_AssaultPack_blk"}, // 0.24%
-			{8888.71769244382, "B_AssaultPack_sgg"}, // 0.24%
-			{8913.00791326401, "B_AssaultPack_rgr"}, // 0.24%
-			{8937.2981340842, "B_AssaultPack_khk"}, // 0.24%
-			{8961.58835490439, "B_AssaultPack_mcamo"}, // 0.24%
-			{8984.30128865833, "U_IG_leader"}, // 0.23%
-			{9007.01422241227, "H_Booniehat_dgtl"}, // 0.23%
-			{9029.72715616622, "H_Booniehat_khk_hs"}, // 0.23%
-			{9052.44008992016, "H_Booniehat_dirty"}, // 0.23%
-			{9075.1530236741, "H_Booniehat_tan"}, // 0.23%
-			{9097.86595742804, "H_Booniehat_grn"}, // 0.23%
-			{9120.57889118199, "H_Booniehat_mcamo"}, // 0.23%
-			{9143.29182493593, "H_Booniehat_khk"}, // 0.23%
-			{9166.00475868987, "H_Booniehat_indp"}, // 0.23%
-			{9188.08677761732, "Exile_Item_PowerDrink"}, // 0.22%
-			{9209.9584916026, "arifle_TRG21_GL_F"}, // 0.22%
-			{9231.83020558787, "arifle_Mk20_GL_F"}, // 0.22%
-			{9253.70191957315, "arifle_MX_GL_F"}, // 0.22%
-			{9271.90138572215, "muzzle_snds_M"}, // 0.18%
-			{9290.10085187114, "optic_Arco"}, // 0.18%
-			{9308.30031802013, "acc_pointer_IR"}, // 0.18%
-			{9326.49978416913, "optic_MRCO"}, // 0.18%
-			{9344.69925031812, "optic_DMS"}, // 0.18%
-			{9362.89871646711, "muzzle_snds_H"}, // 0.18%
-			{9381.09818261611, "optic_Hamr"}, // 0.18%
-			{9398.44834034481, "B_Kitbag_mcamo"}, // 0.17%
-			{9415.79849807352, "B_Kitbag_cbr"}, // 0.17%
-			{9433.14865580222, "B_Kitbag_sgg"}, // 0.17%
-			{9450.18335611768, "H_Watchcap_khk"}, // 0.17%
-			{9467.21805643314, "H_Watchcap_blk"}, // 0.17%
-			{9484.25275674859, "H_Cap_khaki_specops_UK"}, // 0.17%
-			{9501.28745706405, "H_Cap_tan_specops_US"}, // 0.17%
-			{9518.32215737951, "H_Cap_brn_SPECOPS"}, // 0.17%
-			{9535.35685769496, "H_Hat_camo"}, // 0.17%
-			{9552.39155801042, "H_BandMask_blk"}, // 0.17%
-			{9569.42625832588, "H_Bandanna_camo"}, // 0.17%
-			{9586.46095864133, "H_Bandanna_gry"}, // 0.17%
-			{9603.49565895679, "H_Bandanna_sgg"}, // 0.17%
-			{9620.53035927225, "H_Bandanna_cbr"}, // 0.17%
-			{9637.5650595877, "H_Bandanna_khk_hs"}, // 0.17%
-			{9654.59975990316, "H_Bandanna_khk"}, // 0.17%
-			{9671.63446021862, "H_Bandanna_mcamo"}, // 0.17%
-			{9688.66916053407, "V_I_G_resistanceLeader_F"}, // 0.17%
-			{9705.07294602303, "arifle_MX_GL_Black_F"}, // 0.16%
-			{9721.47673151199, "arifle_MXC_Black_F"}, // 0.16%
-			{9737.88051700095, "arifle_MX_Black_F"}, // 0.16%
-			{9753.65338766341, "16Rnd_9x21_Mag"}, // 0.16%
-			{9766.90259901988, "optic_Yorris"}, // 0.13%
-			{9780.15181037635, "optic_MRD"}, // 0.13%
-			{9791.50827725332, "H_Watchcap_camo"}, // 0.11%
-			{9802.86474413029, "H_Watchcap_sgg"}, // 0.11%
-			{9814.22121100726, "H_TurbanO_blk"}, // 0.11%
-			{9825.57767788424, "H_Shemag_khk"}, // 0.11%
-			{9836.93414476121, "U_I_G_resistanceLeader_F"}, // 0.11%
-			{9848.29061163818, "H_ShemagOpen_khk"}, // 0.11%
-			{9859.64707851515, "H_Shemag_olive"}, // 0.11%
-			{9871.00354539212, "H_Shemag_olive_hs"}, // 0.11%
-			{9882.3600122691, "H_Shemag_tan"}, // 0.11%
-			{9893.71647914607, "H_ShemagOpen_tan"}, // 0.11%
-			{9904.75748860979, "6Rnd_GreenSignal_F"}, // 0.11%
-			{9915.79849807351, "6Rnd_RedSignal_F"}, // 0.11%
-			{9924.89823114801, "optic_NVS"}, // 0.09%
-			{9931.14491259849, "U_OrestesBody"}, // 0.06%
-			{9937.39159404897, "U_NikosBody"}, // 0.06%
-			{9943.63827549945, "U_NikosAgedBody"}, // 0.06%
-			{9949.31650893793, "H_Beret_ocamo"}, // 0.06%
-			{9954.99474237642, "H_Beret_brn_SF"}, // 0.06%
-			{9960.6729758149, "H_Beret_grn_SF"}, // 0.06%
-			{9966.35120925339, "H_Beret_grn"}, // 0.06%
-			{9972.02944269188, "H_Beret_red"}, // 0.06%
-			{9977.70767613036, "H_Beret_blk"}, // 0.06%
-			{9983.38590956885, "H_Beret_Colonel"}, // 0.06%
-			{9989.06414300734, "H_Beret_02"}, // 0.06%
-			{9994.53207150366, "arifle_Katiba_GL_F"}, // 0.05%
-			{9999.99999999998, "arifle_Katiba_F"} // 0.05%
+			{195.195195195195, "30Rnd_45ACP_Mag_SMG_01"}, // 1.95%
+			{390.39039039039, "30Rnd_45ACP_Mag_SMG_01_Tracer_Green"}, // 1.95%
+			{570.570570570571, "Exile_Item_PlasticBottleDirtyWater"}, // 1.80%
+			{713.513513513514, "SMG_01_F"}, // 1.43%
+			{852.252252252252, "hgun_PDW2000_F"}, // 1.39%
+			{990.990990990991, "SMG_02_F"}, // 1.39%
+			{1126.12612612613, "V_Rangemaster_belt"}, // 1.35%
+			{1246.24624624625, "Exile_Item_MountainDupe"}, // 1.20%
+			{1348.34834834835, "Exile_Item_EnergyDrink"}, // 1.02%
+			{1448.44844844845, "Exile_Item_Can_Empty"}, // 1.00%
+			{1548.54854854855, "Exile_Item_PlasticBottleEmpty"}, // 1.00%
+			{1648.64864864865, "Exile_Item_ToiletPaper"}, // 1.00%
+			{1743.48032242769, "30Rnd_65x39_caseless_green"}, // 0.95%
+			{1838.31199620673, "30Rnd_556x45_Stanag"}, // 0.95%
+			{1928.40208629682, "ItemWatch"}, // 0.90%
+			{2018.49217638691, "ItemRadio"}, // 0.90%
+			{2104.9786628734, "U_IG_Guerilla2_3"}, // 0.86%
+			{2191.46514935989, "U_IG_Guerilla2_2"}, // 0.86%
+			{2277.95163584637, "U_IG_Guerilla2_1"}, // 0.86%
+			{2364.43812233286, "U_IG_Guerilla1_1"}, // 0.86%
+			{2448.52220641694, "Exile_Item_Beer"}, // 0.84%
+			{2529.60328749803, "U_IG_Guerilla3_2"}, // 0.81%
+			{2610.68436857911, "U_IG_Guerilla3_1"}, // 0.81%
+			{2688.76244665718, "optic_Aco_smg"}, // 0.78%
+			{2766.84052473526, "optic_ACO_grn"}, // 0.78%
+			{2844.91860281334, "optic_ACO_grn_smg"}, // 0.78%
+			{2922.99668089142, "optic_Aco"}, // 0.78%
+			{3001.0747589695, "optic_Holosight_smg"}, // 0.78%
+			{3076.75043464517, "B_FieldPack_blk"}, // 0.76%
+			{3152.42611032085, "B_FieldPack_ocamo"}, // 0.76%
+			{3228.10178599652, "B_FieldPack_cbr"}, // 0.76%
+			{3303.7774616722, "B_FieldPack_oucamo"}, // 0.76%
+			{3378.85253674727, "FlareWhite_F"}, // 0.75%
+			{3453.92761182235, "FlareRed_F"}, // 0.75%
+			{3529.00268689742, "FlareGreen_F"}, // 0.75%
+			{3604.0777619725, "Chemlight_yellow"}, // 0.75%
+			{3679.15283704757, "Chemlight_red"}, // 0.75%
+			{3754.22791212265, "Chemlight_green"}, // 0.75%
+			{3829.30298719772, "Chemlight_blue"}, // 0.75%
+			{3904.3780622728, "FlareYellow_F"}, // 0.75%
+			{3976.45013434487, "Exile_Item_PlasticBottleFreshWater"}, // 0.72%
+			{4045.99336178283, "20Rnd_556x45_UW_mag"}, // 0.70%
+			{4113.5609293504, "V_TacVest_blk_POLICE"}, // 0.68%
+			{4181.12849691797, "V_Press_F"}, // 0.68%
+			{4245.19256098203, "arifle_TRG20_F"}, // 0.64%
+			{4309.2566250461, "arifle_MXC_F"}, // 0.64%
+			{4373.32068911016, "arifle_MX_F"}, // 0.64%
+			{4437.38475317423, "arifle_TRG21_F"}, // 0.64%
+			{4500.03018005806, "Exile_Item_InstantCoffee"}, // 0.63%
+			{4560.09024011812, "Binocular"}, // 0.60%
+			{4620.15030017818, "ItemGPS"}, // 0.60%
+			{4679.60975963764, "B_Bergen_blk"}, // 0.59%
+			{4739.0692190971, "B_Bergen_rgr"}, // 0.59%
+			{4798.52867855656, "B_Bergen_sgg"}, // 0.59%
+			{4857.98813801602, "B_Bergen_mcamo"}, // 0.59%
+			{4915.97716152229, "hgun_P07_F"}, // 0.58%
+			{4972.87616578971, "30Rnd_65x39_caseless_green_mag_Tracer"}, // 0.57%
+			{5029.77517005714, "30Rnd_556x45_Stanag_Tracer_Yellow"}, // 0.57%
+			{5086.67417432456, "30Rnd_556x45_Stanag_Tracer_Red"}, // 0.57%
+			{5143.57317859199, "30Rnd_556x45_Stanag_Tracer_Green"}, // 0.57%
+			{5200.47218285941, "30Rnd_65x39_caseless_mag"}, // 0.57%
+			{5257.37118712684, "30Rnd_65x39_caseless_mag_Tracer"}, // 0.57%
+			{5314.05038287888, "Exile_Item_Moobar"}, // 0.57%
+			{5370.72957863092, "Exile_Item_Raisins"}, // 0.57%
+			{5426.78563468698, "arifle_Mk20_F"}, // 0.56%
+			{5482.84169074303, "arifle_Mk20C_F"}, // 0.56%
+			{5538.06933217757, "hgun_ACPC2_F"}, // 0.55%
+			{5593.29697361211, "hgun_Rook40_F"}, // 0.55%
+			{5646.99305379826, "Exile_Item_SeedAstics"}, // 0.54%
+			{5700.51191919831, "U_C_Poor_1"}, // 0.54%
+			{5754.03078459836, "U_C_Poor_shorts_1"}, // 0.54%
+			{5807.54964999842, "U_C_Journalist"}, // 0.54%
+			{5861.06851539847, "U_C_Scientist"}, // 0.54%
+			{5914.58738079853, "U_Rangemaster"}, // 0.54%
+			{5968.10624619858, "U_C_Poor_2"}, // 0.54%
+			{6021.62511159863, "U_C_HunterBody_grn"}, // 0.54%
+			{6072.33807621888, "Exile_Item_Noodles"}, // 0.51%
+			{6123.05104083913, "Exile_Item_Cheathas"}, // 0.51%
+			{6173.76400545938, "Exile_Item_BeefParts"}, // 0.51%
+			{6224.47697007963, "Exile_Item_Dogfood"}, // 0.51%
+			{6275.18993469988, "Exile_Item_CatFood"}, // 0.51%
+			{6325.90289932013, "Exile_Item_BBQSandwich"}, // 0.51%
+			{6376.61586394038, "Exile_Item_ChristmasTinner"}, // 0.51%
+			{6427.32882856063, "Exile_Item_SausageGravy"}, // 0.51%
+			{6478.04179318088, "Exile_Item_Surstromming"}, // 0.51%
+			{6526.08984122893, "arifle_SDAR_F"}, // 0.48%
+			{6573.81969028328, "Exile_Item_GloriousKnakworst"}, // 0.48%
+			{6618.56642377173, "Exile_Item_Matches"}, // 0.45%
+			{6663.31315726019, "Exile_Item_CanOpener"}, // 0.45%
+			{6705.35519930223, "Exile_Item_PowerDrink"}, // 0.42%
+			{6746.98098350227, "U_C_Poloshirt_salmon"}, // 0.42%
+			{6788.60676770231, "U_C_Poloshirt_tricolour"}, // 0.42%
+			{6830.23255190236, "U_C_Poloshirt_stripped"}, // 0.42%
+			{6871.8583361024, "U_C_Poloshirt_burgundy"}, // 0.42%
+			{6913.48412030244, "U_C_Poloshirt_blue"}, // 0.42%
+			{6952.2646226591, "Exile_Item_CookingPot"}, // 0.39%
+			{6991.04512501576, "Exile_Item_EMRE"}, // 0.39%
+			{7028.8829628536, "V_HarnessOGL_gry"}, // 0.38%
+			{7066.72080069144, "V_HarnessOGL_brn"}, // 0.38%
+			{7104.55863852927, "V_HarnessOSpec_gry"}, // 0.38%
+			{7142.39647636711, "V_HarnessOSpec_brn"}, // 0.38%
+			{7180.23431420495, "V_HarnessO_gry"}, // 0.38%
+			{7218.07215204279, "V_BandollierB_oli"}, // 0.38%
+			{7255.90998988062, "V_BandollierB_khk"}, // 0.38%
+			{7293.74782771846, "V_HarnessO_brn"}, // 0.38%
+			{7331.5856655563, "V_BandollierB_cbr"}, // 0.38%
+			{7369.42350339414, "V_BandollierB_rgr"}, // 0.38%
+			{7407.26134123197, "V_BandollierB_blk"}, // 0.38%
+			{7443.29737726801, "H_Cap_press"}, // 0.36%
+			{7479.33341330405, "H_StrawHat_dark"}, // 0.36%
+			{7515.36944934008, "H_Cap_tan"}, // 0.36%
+			{7551.40548537612, "H_Hat_brown"}, // 0.36%
+			{7587.44152141216, "H_Hat_checker"}, // 0.36%
+			{7623.47755744819, "H_StrawHat"}, // 0.36%
+			{7659.51359348423, "H_Hat_tan"}, // 0.36%
+			{7695.54962952026, "H_Hat_blue"}, // 0.36%
+			{7731.5856655563, "H_Hat_grey"}, // 0.36%
+			{7767.62170159234, "H_Cap_red"}, // 0.36%
+			{7803.51966852479, "hgun_Pistol_heavy_01_F"}, // 0.36%
+			{7839.41763545724, "hgun_Pistol_Signal_F"}, // 0.36%
+			{7873.73766977727, "optic_AMS_khk"}, // 0.34%
+			{7908.05770409731, "optic_AMS"}, // 0.34%
+			{7942.37773841734, "optic_KHS_hex"}, // 0.34%
+			{7976.69777273737, "optic_KHS_old"}, // 0.34%
+			{8011.01780705741, "optic_KHS_tan"}, // 0.34%
+			{8045.33784137744, "optic_AMS_snd"}, // 0.34%
+			{8079.65787569748, "optic_KHS_blk"}, // 0.34%
+			{8112.69090873051, "B_OutdoorPack_blk"}, // 0.33%
+			{8145.12334116294, "muzzle_snds_acp"}, // 0.32%
+			{8177.55577359538, "muzzle_snds_L"}, // 0.32%
+			{8209.58780562741, "arifle_Mk20_GL_F"}, // 0.32%
+			{8241.61983765944, "arifle_TRG21_GL_F"}, // 0.32%
+			{8273.65186969147, "arifle_MX_GL_F"}, // 0.32%
+			{8303.6818997215, "Exile_Item_ZipTie"}, // 0.30%
+			{8333.71192975153, "H_Cap_oli"}, // 0.30%
+			{8363.74195978156, "H_Cap_grn"}, // 0.30%
+			{8393.77198981159, "9Rnd_45ACP_Mag"}, // 0.30%
+			{8423.80201984162, "11Rnd_45ACP_Mag"}, // 0.30%
+			{8453.83204987165, "H_Cap_blu"}, // 0.30%
+			{8483.86207990168, "H_Cap_blk_Raven"}, // 0.30%
+			{8513.89210993171, "30Rnd_9x21_Mag"}, // 0.30%
+			{8543.92213996174, "H_Cap_blk"}, // 0.30%
+			{8573.95216999177, "H_Beret_blk_POLICE"}, // 0.30%
+			{8603.9822000218, "H_Bandanna_surfer"}, // 0.30%
+			{8634.01223005183, "H_Cap_headphones"}, // 0.30%
+			{8663.74195978156, "B_OutdoorPack_blu"}, // 0.30%
+			{8693.47168951129, "B_OutdoorPack_tan"}, // 0.30%
+			{8720.49871653831, "V_Chestrig_oli"}, // 0.27%
+			{8747.52574356534, "V_Chestrig_khk"}, // 0.27%
+			{8774.55277059237, "V_Chestrig_blk"}, // 0.27%
+			{8801.57979761939, "V_Chestrig_rgr"}, // 0.27%
+			{8828.00622404582, "B_HuntingBackpack"}, // 0.26%
+			{8853.99375003334, "optic_Holosight"}, // 0.26%
+			{8878.24877428837, "acc_flashlight"}, // 0.24%
+			{8902.27279831239, "arifle_MXC_Black_F"}, // 0.24%
+			{8926.29682233642, "6Rnd_45ACP_Cylinder"}, // 0.24%
+			{8950.32084636044, "arifle_MX_GL_Black_F"}, // 0.24%
+			{8974.34487038446, "arifle_MX_Black_F"}, // 0.24%
+			{8997.46799350759, "B_AssaultPack_cbr"}, // 0.23%
+			{9020.59111663071, "B_AssaultPack_blk"}, // 0.23%
+			{9043.71423975383, "B_AssaultPack_sgg"}, // 0.23%
+			{9066.83736287696, "B_AssaultPack_rgr"}, // 0.23%
+			{9089.96048600008, "B_AssaultPack_dgtl"}, // 0.23%
+			{9113.0836091232, "B_AssaultPack_khk"}, // 0.23%
+			{9136.20673224632, "B_AssaultPack_mcamo"}, // 0.23%
+			{9157.82835386795, "H_Booniehat_dgtl"}, // 0.22%
+			{9179.44997548957, "H_Booniehat_dirty"}, // 0.22%
+			{9201.07159711119, "H_Booniehat_grn"}, // 0.22%
+			{9222.69321873281, "H_Booniehat_khk"}, // 0.22%
+			{9244.31484035443, "H_Booniehat_indp"}, // 0.22%
+			{9265.93646197605, "H_Booniehat_khk_hs"}, // 0.22%
+			{9287.55808359768, "U_IG_leader"}, // 0.22%
+			{9309.1797052193, "H_Booniehat_tan"}, // 0.22%
+			{9330.80132684092, "H_Booniehat_mcamo"}, // 0.22%
+			{9348.12634416594, "optic_DMS"}, // 0.17%
+			{9365.45136149096, "optic_MRCO"}, // 0.17%
+			{9382.77637881597, "acc_pointer_IR"}, // 0.17%
+			{9400.10139614099, "optic_Hamr"}, // 0.17%
+			{9417.42641346601, "optic_Arco"}, // 0.17%
+			{9434.75143079103, "muzzle_snds_H"}, // 0.17%
+			{9452.07644811605, "muzzle_snds_M"}, // 0.17%
+			{9468.59296463256, "B_Kitbag_mcamo"}, // 0.17%
+			{9485.10948114908, "B_Kitbag_cbr"}, // 0.17%
+			{9501.62599766559, "B_Kitbag_sgg"}, // 0.17%
+			{9517.84221388181, "H_Watchcap_khk"}, // 0.16%
+			{9534.05843009803, "H_Watchcap_blk"}, // 0.16%
+			{9550.27464631424, "H_Cap_khaki_specops_UK"}, // 0.16%
+			{9566.49086253046, "H_Cap_tan_specops_US"}, // 0.16%
+			{9582.70707874668, "H_Cap_brn_SPECOPS"}, // 0.16%
+			{9598.92329496289, "H_Hat_camo"}, // 0.16%
+			{9615.13951117911, "H_Bandanna_mcamo"}, // 0.16%
+			{9631.35572739533, "H_Bandanna_camo"}, // 0.16%
+			{9647.57194361155, "H_Bandanna_gry"}, // 0.16%
+			{9663.78815982776, "H_Bandanna_sgg"}, // 0.16%
+			{9680.00437604398, "H_Bandanna_cbr"}, // 0.16%
+			{9696.2205922602, "H_Bandanna_khk_hs"}, // 0.16%
+			{9712.43680847641, "H_Bandanna_khk"}, // 0.16%
+			{9728.65302469263, "H_BandMask_blk"}, // 0.16%
+			{9744.86924090885, "V_I_G_resistanceLeader_F"}, // 0.16%
+			{9759.88425592386, "16Rnd_9x21_Mag"}, // 0.15%
+			{9772.49686853647, "optic_Yorris"}, // 0.13%
+			{9785.10948114909, "optic_MRD"}, // 0.13%
+			{9795.9202919599, "H_ShemagOpen_tan"}, // 0.11%
+			{9806.73110277071, "H_Shemag_olive_hs"}, // 0.11%
+			{9817.54191358152, "H_Shemag_olive"}, // 0.11%
+			{9828.35272439233, "H_Shemag_tan"}, // 0.11%
+			{9839.16353520314, "U_I_G_resistanceLeader_F"}, // 0.11%
+			{9849.97434601395, "H_Shemag_khk"}, // 0.11%
+			{9860.78515682476, "H_TurbanO_blk"}, // 0.11%
+			{9871.59596763557, "H_Watchcap_sgg"}, // 0.11%
+			{9882.40677844638, "H_Watchcap_camo"}, // 0.11%
+			{9893.21758925719, "H_ShemagOpen_khk"}, // 0.11%
+			{9903.7280997677, "6Rnd_GreenSignal_F"}, // 0.11%
+			{9914.23861027821, "6Rnd_RedSignal_F"}, // 0.11%
+			{9922.90111894071, "optic_NVS"}, // 0.09%
+			{9930.90912694872, "arifle_Katiba_GL_F"}, // 0.08%
+			{9938.91713495673, "arifle_Katiba_F"}, // 0.08%
+			{9944.86367555674, "U_OrestesBody"}, // 0.06%
+			{9950.81021615674, "U_NikosBody"}, // 0.06%
+			{9956.75675675675, "U_NikosAgedBody"}, // 0.06%
+			{9962.16216216215, "H_Beret_ocamo"}, // 0.05%
+			{9967.56756756756, "H_Beret_brn_SF"}, // 0.05%
+			{9972.97297297296, "H_Beret_grn_SF"}, // 0.05%
+			{9978.37837837837, "H_Beret_grn"}, // 0.05%
+			{9983.78378378377, "H_Beret_red"}, // 0.05%
+			{9989.18918918918, "H_Beret_blk"}, // 0.05%
+			{9994.59459459458, "H_Beret_02"}, // 0.05%
+			{9999.99999999999, "H_Beret_Colonel"} // 0.05%
 		};
 	};
 
 	/**
 	  Result of 100 rounds:
 
-	  Exile_Item_BBQSandwich
-	  Chemlight_yellow
-	  30Rnd_45ACP_Mag_SMG_01
-	  FlareRed_F
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  Binocular
-	  Exile_Item_CanOpener
-	  B_Kitbag_cbr
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_PlasticBottleDirtyWater
-	  SMG_02_F
-	  Exile_Item_ToiletPaper
-	  Exile_Item_Raisins
-	  Exile_Item_Moobar
-	  Exile_Item_BeefParts
-	  hgun_ACPC2_F
-	  Exile_Item_ToiletPaper
-	  Exile_Item_MountainDupe
-	  Exile_Item_ToiletPaper
-	  SMG_02_F
-	  Exile_Item_EMRE
-	  Exile_Item_MountainDupe
-	  optic_Holosight_smg
-	  ItemWatch
-	  Exile_Item_Beer
-	  30Rnd_45ACP_Mag_SMG_01
-	  Exile_Item_ZipTie
-	  6Rnd_45ACP_Cylinder
-	  V_TacVest_blk_POLICE
-	  Exile_Item_Surstromming
-	  Exile_Item_MountainDupe
-	  SMG_01_F
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  Binocular
-	  FlareWhite_F
-	  H_Cap_press
-	  Exile_Item_EnergyDrink
-	  30Rnd_45ACP_Mag_SMG_01
-	  V_Rangemaster_belt
-	  hgun_Pistol_Signal_F
-	  optic_Aco_smg
-	  Exile_Melee_Axe
-	  Chemlight_blue
-	  optic_ACO_grn_smg
-	  Exile_Item_ToiletPaper
-	  Exile_Item_Vishpirin
-	  Exile_Item_CatFood
-	  hgun_PDW2000_F
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_Can_Empty
-	  Exile_Item_EnergyDrink
-	  Exile_Item_SeedAstics
-	  Exile_Item_SeedAstics
-	  Exile_Item_PlasticBottleDirtyWater
-	  Exile_Item_PlasticBottleDirtyWater
-	  Exile_Item_ZipTie
-	  Exile_Item_MountainDupe
-	  hgun_Pistol_Signal_F
-	  Exile_Item_ZipTie
-	  Exile_Item_PlasticBottleDirtyWater
-	  hgun_PDW2000_F
 	  SmokeShellRed
-	  U_C_Poloshirt_stripped
-	  hgun_P07_F
-	  ItemGPS
+	  hgun_ACPC2_F
+	  SMG_02_F
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  Exile_Item_Vishpirin
+	  Exile_Item_Raisins
 	  Exile_Item_Can_Empty
-	  Exile_Item_Bandage
-	  Exile_Item_Bandage
-	  Exile_Item_CanOpener
-	  Exile_Item_GloriousKnakworst
+	  Exile_Item_PowerDrink
+	  Exile_Item_PlasticBottleDirtyWater
+	  Exile_Item_InstantCoffee
+	  Exile_Item_PlasticBottleFreshWater
+	  optic_ACO_grn_smg
+	  SmokeShellOrange
+	  Exile_Item_SausageGravy
+	  Exile_Item_InstaDoc
+	  Exile_Item_LightBulb
+	  Exile_Item_Can_Empty
+	  Exile_Item_PlasticBottleDirtyWater
+	  Exile_Item_Beer
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_SeedAstics
+	  ItemRadio
+	  Exile_Item_PlasticBottleFreshWater
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  SMG_01_F
+	  Exile_Item_PlasticBottleEmpty
+	  optic_ACO_grn
+	  Exile_Item_CatFood
+	  30Rnd_9x21_Mag
+	  ItemRadio
+	  30Rnd_45ACP_Mag_SMG_01
+	  hgun_PDW2000_F
 	  Exile_Item_ToiletPaper
 	  9Rnd_45ACP_Mag
-	  Exile_Item_EnergyDrink
-	  hgun_P07_F
-	  ItemGPS
-	  6Rnd_RedSignal_F
-	  hgun_ACPC2_F
-	  H_Cap_blk
-	  Exile_Item_EnergyDrink
-	  Chemlight_red
-	  hgun_Rook40_F
+	  Exile_Item_InstantCoffee
+	  Exile_Item_ZipTie
 	  Exile_Item_Can_Empty
-	  FlareGreen_F
-	  B_OutdoorPack_blu
-	  Exile_Item_MountainDupe
-	  Exile_Item_Moobar
-	  Exile_Item_Vishpirin
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
 	  Exile_Item_Dogfood
+	  SMG_01_F
+	  optic_Holosight_smg
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  Exile_Item_PlasticBottleDirtyWater
+	  optic_Holosight_smg
+	  Exile_Item_Beer
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  Exile_Item_PlasticBottleEmpty
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  Chemlight_red
+	  Exile_Item_Vishpirin
+	  Exile_Item_EnergyDrink
+	  hgun_PDW2000_F
+	  Exile_Item_Beer
+	  optic_ACO_grn_smg
+	  Exile_Item_SausageGravy
+	  H_Cap_tan
+	  Exile_Item_EnergyDrink
+	  Exile_Item_Can_Empty
+	  Exile_Item_ToiletPaper
+	  B_AssaultPack_dgtl
+	  Exile_Item_ZipTie
+	  Exile_Item_Can_Empty
 	  hgun_PDW2000_F
 	  Exile_Item_Surstromming
-	  Exile_Item_Dogfood
-	  FlareWhite_F
-	  SmokeShellGreen
-	  SMG_02_F
-	  Exile_Item_SeedAstics
-	  SmokeShellBlue
-	  SMG_02_F
-	  Chemlight_green
+	  ItemWatch
+	  Exile_Item_ZipTie
 	  Exile_Item_Can_Empty
+	  Exile_Item_PlasticBottleFreshWater
+	  B_Kitbag_cbr
+	  Exile_Item_Can_Empty
+	  ItemRadio
+	  Exile_Melee_Axe
+	  hgun_PDW2000_F
+	  Chemlight_blue
+	  Exile_Item_EMRE
+	  muzzle_snds_L
+	  Exile_Item_Moobar
+	  H_StrawHat_dark
+	  Exile_Item_PlasticBottleDirtyWater
+	  Exile_Item_PlasticBottleDirtyWater
+	  Exile_Item_ToiletPaper
+	  muzzle_snds_L
+	  Binocular
+	  Exile_Item_ToiletPaper
+	  optic_Holosight_smg
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_GloriousKnakworst
+	  FlareRed_F
+	  Exile_Item_Beer
+	  B_AssaultPack_sgg
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  Exile_Item_EnergyDrink
+	  H_Cap_blu
+	  Exile_Item_GloriousKnakworst
+	  FlareRed_F
+	  hgun_P07_F
+	  Exile_Item_CookingPot
+	  hgun_PDW2000_F
+	  Exile_Item_PlasticBottleDirtyWater
+	  H_Hat_brown
+	  Exile_Item_PlasticBottleEmpty
 	*/
 	class Shop
 	{
@@ -942,106 +942,106 @@ class CfgLootTables
 	/**
 	  Result of 100 rounds:
 
-	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_Rope
+	  Exile_Item_ExtensionCord
+	  Exile_Item_ToiletPaper
 	  Exile_Melee_Axe
-	  hgun_Rook40_F
-	  Exile_Item_Can_Empty
-	  Exile_Item_FuelCanisterEmpty
-	  Exile_Item_FuelCanisterFull
 	  FlareGreen_F
+	  FlareYellow_F
+	  Exile_Item_FuelCanisterEmpty
+	  FlareGreen_F
+	  Exile_Item_FuelCanisterEmpty
+	  FlareYellow_F
+	  Exile_Item_Handsaw
+	  Exile_Item_JunkMetal
 	  Exile_Item_MetalBoard
-	  hgun_PDW2000_F
-	  Exile_Item_FuelCanisterFull
-	  Exile_Item_DuctTape
-	  Exile_Item_Handsaw
-	  FlareGreen_F
-	  Exile_Item_Pliers
-	  Exile_Item_ToiletPaper
 	  Exile_Item_LightBulb
-	  Exile_Item_ToiletPaper
-	  Exile_Item_Rope
-	  Exile_Item_ExtensionCord
-	  Exile_Item_DuctTape
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Melee_Axe
-	  Exile_Item_DuctTape
-	  FlareGreen_F
-	  Exile_Item_ZipTie
-	  30Rnd_45ACP_Mag_SMG_01
-	  Exile_Item_FuelCanisterFull
-	  FlareYellow_F
-	  Exile_Item_ToiletPaper
-	  Exile_Item_Can_Empty
-	  Exile_Item_JunkMetal
-	  Exile_Item_JunkMetal
-	  Exile_Item_Can_Empty
-	  Exile_Item_FuelCanisterFull
-	  Exile_Item_FuelCanisterEmpty
-	  Exile_Item_LightBulb
-	  optic_ACO_grn_smg
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_ToiletPaper
-	  Exile_Item_Can_Empty
-	  hgun_ACPC2_F
-	  Exile_Item_Can_Empty
-	  Exile_Item_FuelCanisterEmpty
-	  Exile_Item_ExtensionCord
-	  SMG_01_F
-	  FlareRed_F
-	  Exile_Item_FuelCanisterFull
-	  FlareRed_F
-	  Exile_Item_LightBulb
-	  Exile_Item_FuelCanisterEmpty
-	  Exile_Item_Pliers
-	  FlareYellow_F
-	  Exile_Melee_Axe
-	  SMG_01_F
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_FuelCanisterFull
-	  Exile_Item_ExtensionCord
-	  Exile_Melee_Axe
-	  Exile_Item_DuctTape
-	  Exile_Item_ToiletPaper
-	  Exile_Item_FuelCanisterEmpty
-	  optic_ACO_grn_smg
-	  FlareGreen_F
-	  Exile_Item_JunkMetal
-	  FlareYellow_F
-	  Exile_Melee_Axe
-	  Exile_Melee_Axe
-	  Exile_Item_Handsaw
-	  Exile_Item_Pliers
-	  FlareGreen_F
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  Exile_Item_PortableGeneratorKit
 	  optic_Holosight_smg
-	  Exile_Item_JunkMetal
-	  Exile_Item_Can_Empty
-	  hgun_Pistol_heavy_01_F
 	  Exile_Item_FuelCanisterEmpty
-	  Exile_Item_FuelCanisterFull
-	  Exile_Item_Can_Empty
-	  30Rnd_45ACP_Mag_SMG_01
-	  hgun_PDW2000_F
-	  FlareGreen_F
+	  Exile_Item_FuelCanisterEmpty
 	  Exile_Item_Pliers
-	  hgun_Pistol_Signal_F
+	  Exile_Item_FuelCanisterFull
+	  FlareWhite_F
+	  Exile_Item_ExtensionCord
+	  Exile_Item_Handsaw
+	  Exile_Melee_Axe
 	  Exile_Item_Can_Empty
-	  Exile_Item_Rope
-	  Exile_Item_FloodLightKit
+	  Exile_Item_FuelCanisterFull
+	  Exile_Item_JunkMetal
+	  Exile_Item_DuctTape
+	  hgun_Pistol_heavy_01_F
+	  Exile_Item_ExtensionCord
+	  Exile_Melee_Axe
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_FuelCanisterFull
+	  hgun_Pistol_heavy_01_F
+	  FlareYellow_F
+	  Exile_Item_Pliers
+	  Exile_Item_FuelCanisterEmpty
+	  Exile_Item_DuctTape
+	  Exile_Item_Can_Empty
+	  Exile_Item_ZipTie
+	  Exile_Melee_Axe
+	  Exile_Item_FuelCanisterEmpty
+	  Exile_Item_ZipTie
+	  Exile_Item_Pliers
+	  Exile_Melee_Axe
+	  Exile_Item_FuelCanisterFull
+	  Exile_Melee_Axe
+	  hgun_ACPC2_F
+	  FlareGreen_F
+	  Exile_Item_PlasticBottleEmpty
 	  Exile_Item_PlasticBottleEmpty
 	  Exile_Item_Pliers
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  Exile_Item_CamoTentKit
-	  Exile_Melee_Axe
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  FlareWhite_F
+	  Exile_Item_ZipTie
+	  Exile_Item_LightBulb
+	  optic_Aco
+	  Exile_Item_Pliers
 	  Exile_Item_FuelCanisterEmpty
-	  Exile_Melee_Axe
-	  SMG_01_F
+	  Exile_Item_FuelCanisterFull
+	  optic_ACO_grn
+	  Exile_Item_Pliers
+	  Exile_Item_FuelCanisterEmpty
+	  Exile_Item_PlasticBottleEmpty
 	  FlareRed_F
 	  Exile_Item_ZipTie
+	  Exile_Item_Handsaw
+	  Exile_Item_FuelCanisterEmpty
+	  Exile_Item_Handsaw
+	  optic_ACO_grn_smg
+	  Exile_Item_FuelCanisterEmpty
+	  Exile_Item_ZipTie
+	  Exile_Item_CamoTentKit
+	  Exile_Item_ToiletPaper
+	  hgun_P07_F
 	  SMG_02_F
-	  FlareRed_F
+	  Exile_Item_FloodLightKit
+	  FlareYellow_F
+	  optic_Aco_smg
+	  Exile_Item_FuelCanisterEmpty
+	  Exile_Item_FuelCanisterEmpty
+	  Exile_Item_FuelCanisterFull
+	  Exile_Item_FloodLightKit
+	  30Rnd_45ACP_Mag_SMG_01
+	  Exile_Item_FuelCanisterFull
+	  Exile_Item_ZipTie
+	  Exile_Item_FuelCanisterFull
+	  30Rnd_45ACP_Mag_SMG_01
+	  hgun_Rook40_F
+	  Exile_Item_Pliers
+	  Exile_Item_PortableGeneratorKit
+	  Exile_Melee_Axe
+	  Exile_Item_PlasticBottleEmpty
+	  30Rnd_9x21_Mag
+	  30Rnd_45ACP_Mag_SMG_01
+	  SMG_01_F
+	  Exile_Item_Handsaw
+	  SMG_02_F
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_FuelCanisterEmpty
+	  optic_Aco
+	  Exile_Item_FuelCanisterFull
 	*/
 	class Industrial
 	{
@@ -1102,106 +1102,106 @@ class CfgLootTables
 	/**
 	  Result of 100 rounds:
 
-	  Exile_Melee_Axe
-	  Exile_Item_ToiletPaper
-	  SMG_02_F
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_Can_Empty
-	  Exile_Item_ToiletPaper
-	  Exile_Item_Pliers
-	  Exile_Item_CamoTentKit
-	  Exile_Item_LightBulb
-	  Exile_Item_ToiletPaper
-	  Exile_Item_JunkMetal
-	  Exile_Item_Handsaw
-	  Exile_Item_Pliers
-	  Exile_Item_BaseCameraKit
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_JunkMetal
-	  Exile_Melee_Axe
 	  Exile_Item_Laptop
 	  Exile_Item_Handsaw
-	  Exile_Item_JunkMetal
 	  Exile_Melee_Axe
 	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_JunkMetal
 	  Exile_Item_Pliers
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  Exile_Item_Can_Empty
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  Exile_Item_Can_Empty
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  Exile_Item_BaseCameraKit
 	  Exile_Item_ExtensionCord
-	  SMG_01_F
-	  Exile_Item_ToiletPaper
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  Exile_Melee_Axe
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_ExtensionCord
-	  Exile_Item_Pliers
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_ToiletPaper
-	  Exile_Item_Can_Empty
+	  Exile_Item_CamoTentKit
 	  Exile_Item_JunkMetal
-	  optic_Holosight_smg
-	  Exile_Melee_Axe
-	  Exile_Melee_Axe
-	  Exile_Item_PlasticBottleEmpty
-	  SMG_02_F
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_Can_Empty
-	  Exile_Item_Handsaw
-	  SMG_02_F
-	  30Rnd_45ACP_Mag_SMG_01
-	  Exile_Item_ToiletPaper
-	  Exile_Item_JunkMetal
-	  Exile_Item_JunkMetal
-	  Exile_Item_Can_Empty
-	  Exile_Item_BaseCameraKit
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  Exile_Item_ToiletPaper
-	  SMG_02_F
-	  Exile_Melee_Axe
-	  Exile_Item_ToiletPaper
-	  Exile_Item_Handsaw
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_JunkMetal
-	  Exile_Melee_Axe
-	  Exile_Item_Can_Empty
-	  optic_ACO_grn_smg
-	  Exile_Item_Pliers
-	  Exile_Item_Pliers
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  Exile_Item_ToiletPaper
-	  Exile_Item_ToiletPaper
-	  Exile_Item_BaseCameraKit
-	  Exile_Item_BaseCameraKit
-	  Exile_Item_Pliers
-	  SMG_01_F
+	  Exile_Item_PortableGeneratorKit
 	  Exile_Item_FloodLightKit
-	  Exile_Item_Pliers
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_Rope
 	  Exile_Item_Can_Empty
+	  Exile_Item_Can_Empty
+	  Exile_Item_BaseCameraKit
+	  Exile_Item_ToiletPaper
+	  30Rnd_45ACP_Mag_SMG_01
+	  Exile_Item_ExtensionCord
+	  Exile_Item_BaseCameraKit
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_ToiletPaper
+	  Exile_Item_Pliers
+	  Exile_Item_JunkMetal
+	  Exile_Item_Rope
+	  Exile_Item_ExtensionCord
+	  Exile_Item_ToiletPaper
+	  Exile_Melee_Axe
+	  Exile_Item_Can_Empty
+	  Exile_Item_Rope
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  Exile_Item_BaseCameraKit
+	  Exile_Item_Can_Empty
+	  Exile_Item_JunkMetal
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_ExtensionCord
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_Can_Empty
+	  Exile_Item_ExtensionCord
+	  Exile_Item_BaseCameraKit
+	  Exile_Item_PlasticBottleEmpty
 	  Exile_Item_ToiletPaper
 	  Exile_Item_PlasticBottleEmpty
+	  SMG_02_F
+	  Exile_Item_Pliers
+	  Exile_Melee_Axe
+	  Exile_Melee_Axe
+	  Exile_Item_BaseCameraKit
+	  Exile_Item_ExtensionCord
+	  Exile_Item_JunkMetal
+	  optic_Aco_smg
+	  Exile_Item_BaseCameraKit
+	  Exile_Item_Can_Empty
+	  Exile_Item_Can_Empty
+	  Exile_Item_FloodLightKit
+	  Exile_Item_BaseCameraKit
+	  Exile_Item_Can_Empty
+	  Exile_Melee_Axe
+	  30Rnd_45ACP_Mag_SMG_01
+	  Exile_Item_ExtensionCord
+	  Exile_Item_BaseCameraKit
+	  Exile_Item_Can_Empty
+	  Exile_Item_Handsaw
+	  optic_Holosight_smg
+	  Exile_Item_Can_Empty
+	  Exile_Item_ExtensionCord
+	  Exile_Item_LightBulb
+	  Exile_Melee_Axe
 	  hgun_PDW2000_F
 	  Exile_Item_LightBulb
-	  Exile_Item_Pliers
-	  Exile_Item_BaseCameraKit
-	  Exile_Item_Rope
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_Laptop
 	  Exile_Item_MetalBoard
-	  Exile_Melee_Axe
-	  Exile_Item_BaseCameraKit
-	  SMG_01_F
-	  Exile_Item_LightBulb
-	  Exile_Item_PlasticBottleEmpty
-	  SMG_01_F
-	  30Rnd_45ACP_Mag_SMG_01
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  optic_ACO_grn_smg
 	  Exile_Item_Can_Empty
-	  Exile_Item_PlasticBottleEmpty
-	  SMG_02_F
-	  Exile_Item_JunkMetal
+	  Exile_Item_Can_Empty
+	  Exile_Item_ToiletPaper
+	  Exile_Item_MetalBoard
+	  SMG_01_F
+	  Exile_Item_ToiletPaper
 	  Exile_Item_ExtensionCord
+	  Exile_Item_ToiletPaper
+	  hgun_PDW2000_F
+	  SMG_02_F
+	  Exile_Item_BaseCameraKit
+	  Exile_Item_PortableGeneratorKit
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Melee_Axe
+	  optic_ACO_grn
+	  hgun_PDW2000_F
+	  SMG_02_F
+	  Exile_Item_Handsaw
 	  Exile_Item_LightBulb
-	  30Rnd_45ACP_Mag_SMG_01
+	  Exile_Melee_Axe
+	  Exile_Item_Can_Empty
+	  optic_Aco_smg
+	  Exile_Item_ToiletPaper
 	*/
 	class Factories
 	{
@@ -1244,629 +1244,629 @@ class CfgLootTables
 	/**
 	  Result of 100 rounds:
 
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  Exile_Item_FuelCanisterFull
-	  30Rnd_65x39_caseless_green
-	  Exile_Item_ToiletPaper
-	  Exile_Item_FuelCanisterEmpty
-	  Exile_Item_FuelCanisterFull
-	  FlareYellow_F
 	  Exile_Item_Rope
-	  20Rnd_556x45_UW_mag
-	  Exile_Item_FuelCanisterFull
-	  Exile_Item_JunkMetal
-	  Exile_Item_ZipTie
+	  Exile_Melee_Axe
+	  Exile_Item_ToiletPaper
+	  30Rnd_45ACP_Mag_SMG_01
 	  FlareYellow_F
-	  Exile_Melee_Axe
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_JunkMetal
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  Exile_Item_CamoTentKit
-	  SMG_02_F
-	  Exile_Item_JunkMetal
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  Exile_Item_FuelCanisterFull
-	  Exile_Item_JunkMetal
 	  FlareWhite_F
-	  hgun_PDW2000_F
-	  optic_ACO_grn_smg
 	  Exile_Item_FuelCanisterEmpty
-	  FlareGreen_F
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_ToiletPaper
-	  Exile_Item_DuctTape
-	  Exile_Item_DuctTape
-	  Exile_Item_ToiletPaper
-	  Exile_Item_FuelCanisterFull
-	  Exile_Item_FuelCanisterEmpty
-	  Exile_Item_Handsaw
-	  SmokeShellBlue
-	  30Rnd_45ACP_Mag_SMG_01
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  Exile_Item_Can_Empty
-	  30Rnd_556x45_Stanag
-	  Exile_Item_ToiletPaper
-	  Exile_Item_FuelCanisterEmpty
-	  Exile_Item_ZipTie
-	  Chemlight_blue
-	  Exile_Item_ExtensionCord
-	  Exile_Item_FuelCanisterFull
-	  Exile_Item_ExtensionCord
-	  Exile_Item_Handsaw
-	  Exile_Item_FuelCanisterEmpty
-	  30Rnd_45ACP_Mag_SMG_01
-	  FlareGreen_F
-	  Exile_Item_FuelCanisterFull
-	  Chemlight_green
-	  30Rnd_45ACP_Mag_SMG_01
-	  Exile_Item_FuelCanisterFull
-	  Exile_Item_ZipTie
-	  Exile_Item_Can_Empty
-	  Exile_Item_JunkMetal
-	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
-	  Exile_Item_FuelCanisterEmpty
-	  SmokeShell
 	  FlareYellow_F
-	  Exile_Item_DuctTape
+	  Exile_Item_FuelCanisterEmpty
 	  FlareGreen_F
-	  Exile_Item_FuelCanisterFull
-	  Exile_Item_FuelCanisterFull
-	  SMG_01_F
-	  Exile_Melee_Axe
-	  FlareWhite_F
-	  optic_Holosight_smg
-	  Exile_Item_PortableGeneratorKit
-	  Exile_Item_DuctTape
-	  Exile_Item_ToiletPaper
-	  30Rnd_556x45_Stanag_Tracer_Green
-	  Exile_Item_FuelCanisterEmpty
-	  Exile_Item_FuelCanisterEmpty
-	  Exile_Item_Can_Empty
-	  optic_ACO_grn_smg
-	  20Rnd_556x45_UW_mag
-	  FlareWhite_F
-	  Exile_Melee_Axe
-	  30Rnd_556x45_Stanag_Tracer_Red
-	  Exile_Item_ToiletPaper
-	  Exile_Item_CamoTentKit
-	  30Rnd_65x39_caseless_green_mag_Tracer
-	  30Rnd_45ACP_Mag_SMG_01
-	  Exile_Melee_Axe
-	  optic_ACO_grn_smg
-	  arifle_MX_F
-	  Exile_Item_Can_Empty
-	  Exile_Item_LightBulb
-	  FlareRed_F
-	  Exile_Item_FuelCanisterEmpty
-	  Exile_Item_Can_Empty
-	  Chemlight_green
-	  Exile_Item_ExtensionCord
 	  hgun_PDW2000_F
+	  Exile_Item_DuctTape
 	  arifle_TRG21_F
-	  Exile_Item_Pliers
+	  optic_Aco_smg
+	  30Rnd_556x45_Stanag_Tracer_Green
+	  Exile_Item_PortableGeneratorKit
+	  Exile_Item_FuelCanisterEmpty
+	  Exile_Item_FuelCanisterEmpty
+	  SMG_01_F
+	  Exile_Item_FuelCanisterFull
+	  optic_ACO_grn
+	  Exile_Melee_Axe
+	  hgun_PDW2000_F
+	  30Rnd_45ACP_Mag_SMG_01
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  Exile_Item_FuelCanisterFull
+	  Exile_Item_DuctTape
+	  optic_Aco
+	  30Rnd_65x39_caseless_green_mag_Tracer
+	  Exile_Melee_Axe
+	  Exile_Item_FuelCanisterFull
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_FuelCanisterEmpty
+	  30Rnd_65x39_caseless_mag
+	  FlareGreen_F
+	  hgun_PDW2000_F
+	  Exile_Item_FuelCanisterEmpty
+	  optic_Aco
+	  30Rnd_45ACP_Mag_SMG_01_Tracer_Green
+	  Exile_Item_ZipTie
+	  30Rnd_45ACP_Mag_SMG_01
+	  Exile_Item_FuelCanisterEmpty
+	  Exile_Item_ZipTie
+	  SMG_01_F
+	  30Rnd_45ACP_Mag_SMG_01
+	  Exile_Item_FuelCanisterFull
+	  30Rnd_45ACP_Mag_SMG_01
+	  Exile_Item_JunkMetal
+	  FlareYellow_F
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_PlasticBottleEmpty
+	  SMG_01_F
+	  Exile_Item_ZipTie
+	  optic_Aco_smg
+	  SmokeShellRed
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_FuelCanisterEmpty
+	  Exile_Item_FuelCanisterEmpty
+	  arifle_SDAR_F
+	  hgun_PDW2000_F
+	  Exile_Item_FuelCanisterEmpty
+	  Exile_Item_ToiletPaper
+	  optic_ACO_grn_smg
+	  Exile_Item_ZipTie
+	  hgun_PDW2000_F
+	  Exile_Item_FuelCanisterEmpty
+	  hgun_PDW2000_F
+	  SmokeShellBlue
+	  Exile_Item_FuelCanisterEmpty
+	  Exile_Melee_Axe
+	  arifle_MXC_F
+	  Exile_Item_ToiletPaper
+	  Exile_Item_Handsaw
+	  20Rnd_556x45_UW_mag
+	  30Rnd_556x45_Stanag_Tracer_Green
+	  FlareWhite_F
+	  SmokeShellPurple
+	  Exile_Item_FuelCanisterEmpty
+	  Exile_Item_FuelCanisterEmpty
+	  Exile_Item_FuelCanisterEmpty
+	  30Rnd_556x45_Stanag_Tracer_Green
+	  Exile_Item_ExtensionCord
+	  Exile_Item_FuelCanisterFull
+	  Exile_Item_ZipTie
+	  Exile_Item_FuelCanisterFull
+	  Exile_Item_ExtensionCord
+	  30Rnd_556x45_Stanag
+	  SMG_01_F
+	  arifle_Mk20C_F
+	  30Rnd_45ACP_Mag_SMG_01
+	  Exile_Item_PlasticBottleEmpty
+	  arifle_Mk20_GL_F
+	  Exile_Item_Handsaw
+	  30Rnd_556x45_Stanag
+	  SMG_02_F
+	  Chemlight_blue
+	  Exile_Item_ToiletPaper
+	  Exile_Item_FuelCanisterEmpty
+	  SmokeShellGreen
+	  Exile_Item_FuelCanisterFull
 	*/
 	class VehicleService
 	{
 		count = 68;
-		half = 8625.43859649123;
+		half = 8736.88952110005;
 		halfIndex = 34;
-		sum = 9999.99999999999;
+		sum = 10000;
 		items[] = 
 		{
-			{1176.47058823529, "Exile_Item_FuelCanisterEmpty"}, // 11.76%
-			{2117.64705882353, "Exile_Item_FuelCanisterFull"}, // 9.41%
-			{2509.80392156863, "Exile_Item_Can_Empty"}, // 3.92%
-			{2901.96078431373, "Exile_Item_ToiletPaper"}, // 3.92%
-			{3294.11764705882, "Exile_Item_PlasticBottleEmpty"}, // 3.92%
-			{3617.64705882353, "30Rnd_45ACP_Mag_SMG_01_Tracer_Green"}, // 3.24%
-			{3941.17647058824, "30Rnd_45ACP_Mag_SMG_01"}, // 3.24%
-			{4264.70588235294, "Exile_Melee_Axe"}, // 3.24%
-			{4564.70588235294, "SMG_01_F"}, // 3.00%
-			{4858.82352941176, "Exile_Item_ZipTie"}, // 2.94%
-			{5150, "SMG_02_F"}, // 2.91%
-			{5441.17647058824, "hgun_PDW2000_F"}, // 2.91%
-			{5676.47058823529, "Exile_Item_DuctTape"}, // 2.35%
-			{5897.05882352941, "FlareYellow_F"}, // 2.21%
-			{6117.64705882353, "FlareWhite_F"}, // 2.21%
-			{6338.23529411765, "FlareGreen_F"}, // 2.21%
-			{6558.82352941177, "FlareRed_F"}, // 2.21%
-			{6750, "Exile_Item_Pliers"}, // 1.91%
-			{6941.17647058824, "Exile_Item_ExtensionCord"}, // 1.91%
-			{7132.35294117647, "Exile_Item_Handsaw"}, // 1.91%
-			{7294.11764705882, "Exile_Item_JunkMetal"}, // 1.62%
-			{7426.47058823529, "Exile_Item_LightBulb"}, // 1.32%
-			{7544.11764705882, "optic_Holosight_smg"}, // 1.18%
-			{7661.76470588235, "optic_ACO_grn_smg"}, // 1.18%
-			{7779.41176470588, "optic_Aco_smg"}, // 1.18%
-			{7897.05882352941, "optic_ACO_grn"}, // 1.18%
-			{8014.70588235294, "optic_Aco"}, // 1.18%
-			{8107.58513931889, "30Rnd_556x45_Stanag"}, // 0.93%
-			{8200.46439628483, "30Rnd_65x39_caseless_green"}, // 0.93%
-			{8273.99380804954, "Chemlight_yellow"}, // 0.74%
-			{8347.52321981424, "Chemlight_blue"}, // 0.74%
-			{8421.05263157895, "Chemlight_green"}, // 0.74%
-			{8494.58204334366, "Chemlight_red"}, // 0.74%
-			{8562.69349845202, "20Rnd_556x45_UW_mag"}, // 0.68%
-			{8625.43859649123, "arifle_TRG21_F"}, // 0.63%
-			{8688.18369453045, "arifle_MX_F"}, // 0.63%
-			{8750.92879256966, "arifle_TRG20_F"}, // 0.63%
-			{8813.67389060888, "arifle_MXC_F"}, // 0.63%
-			{8872.49742002064, "Exile_Item_MetalBoard"}, // 0.59%
-			{8931.3209494324, "Exile_Item_Rope"}, // 0.59%
-			{8990.14447884417, "Exile_Item_CamoTentKit"}, // 0.59%
-			{9045.87203302373, "30Rnd_556x45_Stanag_Tracer_Yellow"}, // 0.56%
-			{9101.5995872033, "30Rnd_556x45_Stanag_Tracer_Red"}, // 0.56%
-			{9157.32714138287, "30Rnd_556x45_Stanag_Tracer_Green"}, // 0.56%
-			{9213.05469556243, "30Rnd_65x39_caseless_mag"}, // 0.56%
-			{9268.782249742, "30Rnd_65x39_caseless_mag_Tracer"}, // 0.56%
-			{9324.50980392156, "30Rnd_65x39_caseless_green_mag_Tracer"}, // 0.56%
-			{9379.41176470588, "arifle_Mk20C_F"}, // 0.55%
-			{9434.31372549019, "arifle_Mk20_F"}, // 0.55%
-			{9481.3725490196, "arifle_SDAR_F"}, // 0.47%
-			{9525.49019607843, "Exile_Item_FloodLightKit"}, // 0.44%
-			{9569.60784313725, "Exile_Item_PortableGeneratorKit"}, // 0.44%
-			{9604.90196078431, "SmokeShellOrange"}, // 0.35%
-			{9640.19607843137, "SmokeShellBlue"}, // 0.35%
-			{9673.13725490196, "SmokeShell"}, // 0.33%
-			{9706.07843137254, "SmokeShellRed"}, // 0.33%
-			{9739.01960784313, "SmokeShellPurple"}, // 0.33%
-			{9771.96078431372, "SmokeShellYellow"}, // 0.33%
-			{9804.90196078431, "SmokeShellGreen"}, // 0.33%
-			{9836.27450980391, "arifle_Mk20_GL_F"}, // 0.31%
-			{9867.64705882352, "arifle_TRG21_GL_F"}, // 0.31%
-			{9899.01960784313, "arifle_MX_GL_F"}, // 0.31%
-			{9922.54901960784, "arifle_MXC_Black_F"}, // 0.24%
-			{9946.07843137254, "arifle_MX_GL_Black_F"}, // 0.24%
-			{9969.60784313725, "arifle_MX_Black_F"}, // 0.24%
-			{9984.31372549019, "Exile_Item_ThermalScannerPro"}, // 0.15%
-			{9992.15686274509, "arifle_Katiba_GL_F"}, // 0.08%
-			{9999.99999999999, "arifle_Katiba_F"} // 0.08%
+			{1081.08108108108, "Exile_Item_FuelCanisterEmpty"}, // 10.81%
+			{1945.94594594595, "Exile_Item_FuelCanisterFull"}, // 8.65%
+			{2405.40540540541, "30Rnd_45ACP_Mag_SMG_01"}, // 4.59%
+			{2864.86486486487, "30Rnd_45ACP_Mag_SMG_01_Tracer_Green"}, // 4.59%
+			{3225.22522522523, "Exile_Item_Can_Empty"}, // 3.60%
+			{3585.58558558559, "Exile_Item_ToiletPaper"}, // 3.60%
+			{3945.94594594595, "Exile_Item_PlasticBottleEmpty"}, // 3.60%
+			{4258.37837837838, "SMG_01_F"}, // 3.12%
+			{4561.62162162162, "hgun_PDW2000_F"}, // 3.03%
+			{4864.86486486487, "SMG_02_F"}, // 3.03%
+			{5162.16216216216, "Exile_Melee_Axe"}, // 2.97%
+			{5432.43243243243, "Exile_Item_ZipTie"}, // 2.70%
+			{5648.64864864865, "Exile_Item_DuctTape"}, // 2.16%
+			{5851.35135135135, "FlareRed_F"}, // 2.03%
+			{6054.05405405405, "FlareYellow_F"}, // 2.03%
+			{6256.75675675676, "FlareGreen_F"}, // 2.03%
+			{6459.45945945946, "FlareWhite_F"}, // 2.03%
+			{6643.24324324324, "optic_ACO_grn"}, // 1.84%
+			{6827.02702702703, "optic_ACO_grn_smg"}, // 1.84%
+			{7010.81081081081, "optic_Aco_smg"}, // 1.84%
+			{7194.5945945946, "optic_Holosight_smg"}, // 1.84%
+			{7378.37837837838, "optic_Aco"}, // 1.84%
+			{7554.05405405406, "Exile_Item_Pliers"}, // 1.76%
+			{7729.72972972973, "Exile_Item_ExtensionCord"}, // 1.76%
+			{7905.40540540541, "Exile_Item_Handsaw"}, // 1.76%
+			{8054.05405405406, "Exile_Item_JunkMetal"}, // 1.49%
+			{8175.67567567568, "Exile_Item_LightBulb"}, // 1.22%
+			{8261.02418207682, "30Rnd_65x39_caseless_green"}, // 0.85%
+			{8346.37268847795, "30Rnd_556x45_Stanag"}, // 0.85%
+			{8413.94025604552, "Chemlight_red"}, // 0.68%
+			{8481.50782361309, "Chemlight_green"}, // 0.68%
+			{8549.07539118066, "Chemlight_yellow"}, // 0.68%
+			{8616.64295874823, "Chemlight_blue"}, // 0.68%
+			{8679.2318634424, "20Rnd_556x45_UW_mag"}, // 0.63%
+			{8736.88952110005, "arifle_MXC_F"}, // 0.58%
+			{8794.54717875771, "arifle_MX_F"}, // 0.58%
+			{8852.20483641537, "arifle_TRG21_F"}, // 0.58%
+			{8909.86249407302, "arifle_TRG20_F"}, // 0.58%
+			{8963.91654812708, "Exile_Item_MetalBoard"}, // 0.54%
+			{9017.97060218113, "Exile_Item_Rope"}, // 0.54%
+			{9072.02465623518, "Exile_Item_CamoTentKit"}, // 0.54%
+			{9123.23376007587, "30Rnd_65x39_caseless_mag_Tracer"}, // 0.51%
+			{9174.44286391655, "30Rnd_65x39_caseless_mag"}, // 0.51%
+			{9225.65196775723, "30Rnd_65x39_caseless_green_mag_Tracer"}, // 0.51%
+			{9276.86107159792, "30Rnd_556x45_Stanag_Tracer_Yellow"}, // 0.51%
+			{9328.0701754386, "30Rnd_556x45_Stanag_Tracer_Red"}, // 0.51%
+			{9379.27927927928, "30Rnd_556x45_Stanag_Tracer_Green"}, // 0.51%
+			{9429.72972972974, "arifle_Mk20C_F"}, // 0.50%
+			{9480.18018018019, "arifle_Mk20_F"}, // 0.50%
+			{9523.42342342343, "arifle_SDAR_F"}, // 0.43%
+			{9563.96396396397, "Exile_Item_FloodLightKit"}, // 0.41%
+			{9604.50450450451, "Exile_Item_PortableGeneratorKit"}, // 0.41%
+			{9636.93693693694, "SmokeShellOrange"}, // 0.32%
+			{9669.36936936937, "SmokeShellBlue"}, // 0.32%
+			{9699.63963963964, "SmokeShellPurple"}, // 0.30%
+			{9729.90990990991, "SmokeShellYellow"}, // 0.30%
+			{9760.18018018018, "SmokeShellGreen"}, // 0.30%
+			{9790.45045045045, "SmokeShellRed"}, // 0.30%
+			{9820.72072072072, "SmokeShell"}, // 0.30%
+			{9849.54954954955, "arifle_Mk20_GL_F"}, // 0.29%
+			{9878.37837837838, "arifle_TRG21_GL_F"}, // 0.29%
+			{9907.20720720721, "arifle_MX_GL_F"}, // 0.29%
+			{9928.82882882883, "arifle_MX_GL_Black_F"}, // 0.22%
+			{9950.45045045045, "arifle_MX_Black_F"}, // 0.22%
+			{9972.07207207208, "arifle_MXC_Black_F"}, // 0.22%
+			{9985.58558558559, "Exile_Item_ThermalScannerPro"}, // 0.14%
+			{9992.7927927928, "arifle_Katiba_F"}, // 0.07%
+			{10000, "arifle_Katiba_GL_F"} // 0.07%
 		};
 	};
 
 	/**
 	  Result of 100 rounds:
 
-	  V_PlateCarrierGL_rgr
+	  U_O_FullGhillie_lsh
+	  muzzle_snds_93mmg_tan
+	  V_PlateCarrierSpec_blk
 	  B_Carryall_oli
-	  V_HarnessO_brn
-	  B_Carryall_oucamo
-	  Exile_Item_PlasticBottleEmpty
-	  MiniGrenade
-	  SmokeShell
-	  V_Chestrig_blk
-	  U_O_PilotCoveralls
-	  NVGoggles
-	  optic_AMS
-	  muzzle_snds_93mmg
-	  SmokeShellPurple
-	  arifle_MX_F
-	  150Rnd_762x54_Box_Tracer
-	  U_B_CombatUniform_mcam_tshirt
-	  U_IG_Guerilla2_3
-	  U_I_FullGhillie_ard
-	  B_FieldPack_cbr
-	  optic_AMS
-	  V_PlateCarrierGL_blk
-	  LMG_Mk200_F
-	  U_B_CTRG_3
-	  optic_MRCO
-	  V_PlateCarrier1_rgr
-	  1Rnd_SmokeOrange_Grenade_shell
-	  arifle_MXM_Black_F
-	  muzzle_snds_H
-	  100Rnd_65x39_caseless_mag_Tracer
-	  acc_flashlight
-	  V_PlateCarrierSpec_rgr
 	  V_PlateCarrier1_blk
-	  B_Carryall_ocamo
-	  20Rnd_762x51_Mag
-	  1Rnd_HE_Grenade_shell
-	  U_B_CombatUniform_mcam_worn
-	  H_Cap_tan_specops_US
-	  UGL_FlareRed_F
-	  U_IG_Guerilla2_2
-	  100Rnd_65x39_caseless_mag
-	  3Rnd_UGL_FlareWhite_F
-	  20Rnd_762x51_Mag
-	  arifle_MXM_F
-	  SmokeShellOrange
-	  V_BandollierB_rgr
-	  B_Bergen_sgg
-	  srifle_EBR_F
-	  bipod_01_F_snd
-	  U_B_CTRG_1
-	  10Rnd_93x64_DMR_05_Mag
-	  UGL_FlareWhite_F
-	  muzzle_snds_M
-	  Rangefinder
-	  optic_NVS
-	  UGL_FlareYellow_F
-	  10Rnd_127x54_Mag
-	  SmokeShellOrange
-	  30Rnd_556x45_Stanag
-	  optic_AMS_snd
-	  U_IG_Guerilla2_3
-	  ItemCompass
-	  H_HelmetB_light_black
-	  SmokeShellPurple
-	  SmokeShellRed
-	  muzzle_snds_M
-	  NVGoggles
-	  LMG_Zafir_F
-	  arifle_TRG21_F
-	  20Rnd_556x45_UW_mag
-	  optic_LRPS
-	  srifle_DMR_04_Tan_F
-	  H_Bandanna_sgg
-	  SmokeShellRed
-	  B_Carryall_oucamo
-	  H_HelmetB_plain_blk
+	  optic_Hamr
 	  Exile_Item_ToiletPaper
-	  HandGrenade
-	  Exile_Item_ZipTie
-	  1Rnd_SmokeRed_Grenade_shell
-	  U_O_PilotCoveralls
-	  optic_LRPS
-	  5Rnd_127x108_Mag
-	  srifle_DMR_03_F
-	  20Rnd_762x51_Mag
-	  U_O_FullGhillie_ard
-	  3Rnd_SmokeRed_Grenade_shell
-	  UGL_FlareRed_F
-	  7Rnd_408_Mag
-	  1Rnd_SmokeOrange_Grenade_shell
-	  U_I_CombatUniform_shortsleeve
-	  150Rnd_762x54_Box
-	  optic_KHS_tan
-	  Exile_Item_Vishpirin
-	  ItemCompass
-	  30Rnd_65x39_caseless_green
-	  optic_NVS
+	  SmokeShellGreen
+	  1Rnd_HE_Grenade_shell
+	  optic_SOS
+	  30Rnd_556x45_Stanag_Tracer_Green
+	  V_PlateCarrier2_rgr
+	  H_MilCap_ocamo
 	  bipod_01_F_blk
-	  V_PlateCarrier1_rgr
-	  arifle_MX_Black_F
+	  H_Booniehat_dirty
+	  H_Cap_khaki_specops_UK
+	  arifle_MX_SW_F
+	  10Rnd_338_Mag
+	  UGL_FlareYellow_F
+	  30Rnd_556x45_Stanag
 	  srifle_DMR_05_tan_F
+	  muzzle_snds_338_black
+	  7Rnd_408_Mag
+	  LMG_Mk200_F
+	  B_Carryall_ocamo
+	  30Rnd_65x39_caseless_green
+	  V_PlateCarrierIA2_dgtl
+	  U_B_CTRG_3
+	  H_HelmetB_light
+	  muzzle_snds_338_sand
+	  NVGoggles
+	  U_IG_Guerilla2_1
+	  arifle_MXM_F
+	  H_HelmetSpecB_paint1
+	  optic_LRPS
+	  U_IG_Guerilla3_1
+	  Exile_Item_PlasticBottleEmpty
+	  optic_AMS
+	  B_Carryall_ocamo
+	  B_FieldPack_blk
+	  LMG_Zafir_F
+	  10Rnd_93x64_DMR_05_Mag
+	  B_FieldPack_ocamo
+	  UGL_FlareWhite_F
+	  LMG_Zafir_F
+	  30Rnd_556x45_Stanag
+	  150Rnd_762x54_Box
+	  3Rnd_UGL_FlareRed_F
+	  SmokeShellRed
+	  V_PlateCarrierGL_blk
+	  U_IG_Guerilla2_3
+	  UGL_FlareGreen_F
+	  optic_DMS
+	  bipod_01_F_snd
+	  H_HelmetB_desert
+	  V_PlateCarrierGL_rgr
+	  arifle_MX_SW_Black_F
+	  arifle_MXM_Black_F
+	  U_O_CombatUniform_oucamo
+	  U_IG_Guerilla3_1
+	  Exile_Item_Can_Empty
+	  U_IG_Guerilla2_2
+	  B_Bergen_sgg
+	  SmokeShellBlue
+	  U_IG_Guerilla3_2
+	  Exile_Item_PlasticBottleEmpty
+	  30Rnd_556x45_Stanag_Tracer_Green
+	  H_Bandanna_camo
+	  Exile_Item_ToiletPaper
+	  SmokeShellOrange
+	  H_MilCap_rucamo
+	  arifle_MXC_F
+	  arifle_TRG21_GL_F
+	  U_I_CombatUniform
+	  H_Booniehat_tan
+	  optic_DMS
+	  H_HelmetB_light_sand
+	  10Rnd_93x64_DMR_05_Mag
+	  ItemCompass
+	  HandGrenade
+	  H_Booniehat_mcamo
+	  1Rnd_Smoke_Grenade_shell
+	  MiniGrenade
+	  B_FieldPack_blk
+	  10Rnd_762x51_Mag
+	  1Rnd_SmokePurple_Grenade_shell
+	  V_BandollierB_rgr
+	  UGL_FlareWhite_F
+	  H_Booniehat_khk
+	  150Rnd_762x54_Box
+	  V_PlateCarrierIAGL_oli
+	  H_TurbanO_blk
+	  1Rnd_SmokeOrange_Grenade_shell
+	  V_BandollierB_blk
+	  30Rnd_556x45_Stanag_Tracer_Yellow
+	  U_I_CombatUniform_tshirt
+	  arifle_TRG21_F
+	  1Rnd_HE_Grenade_shell
+	  H_HelmetIA_camo
+	  20Rnd_762x51_Mag
 	*/
 	class Military
 	{
 		count = 332;
-		half = 8171.52457595975;
+		half = 8187.77861728663;
 		halfIndex = 166;
 		sum = 10000;
 		items[] = 
 		{
-			{159.151193633952, "ItemCompass"}, // 1.59%
-			{274.668435013263, "1Rnd_HE_Grenade_shell"}, // 1.16%
-			{367.73930848341, "10Rnd_93x64_DMR_05_Mag"}, // 0.93%
-			{460.810181953558, "10Rnd_338_Mag"}, // 0.93%
-			{552.911567158391, "arifle_MX_SW_Black_F"}, // 0.92%
-			{645.012952363225, "arifle_MX_SW_F"}, // 0.92%
-			{733.430282159865, "Exile_Item_Can_Empty"}, // 0.88%
-			{821.847611956505, "Exile_Item_ToiletPaper"}, // 0.88%
-			{910.264941753145, "Exile_Item_PlasticBottleEmpty"}, // 0.88%
-			{996.596957167789, "arifle_MXM_F"}, // 0.86%
-			{1082.92897258243, "arifle_MXM_Black_F"}, // 0.86%
-			{1169.13586913416, "HandGrenade"}, // 0.86%
-			{1255.34276568588, "MiniGrenade"}, // 0.86%
-			{1338.49926435962, "B_Carryall_cbr"}, // 0.83%
-			{1420.19687709172, "10Rnd_762x51_Mag"}, // 0.82%
-			{1501.89448982381, "20Rnd_762x51_Mag"}, // 0.82%
-			{1583.33150411019, "10Rnd_127x54_Mag"}, // 0.81%
-			{1663.90805183053, "srifle_EBR_F"}, // 0.81%
-			{1743.4836486475, "NVGoggles"}, // 0.80%
-			{1823.05924546448, "Rangefinder"}, // 0.80%
-			{1901.83908631328, "B_Carryall_khk"}, // 0.79%
-			{1980.61892716209, "B_Carryall_oli"}, // 0.79%
-			{2054.30003532596, "LMG_Zafir_F"}, // 0.74%
-			{2127.98114348982, "LMG_Mk200_F"}, // 0.74%
-			{2197.08626704141, "30Rnd_556x45_Stanag"}, // 0.69%
-			{2266.19139059299, "30Rnd_65x39_caseless_green"}, // 0.69%
-			{2334.79104302142, "150Rnd_762x54_Box"}, // 0.69%
-			{2403.39069544985, "100Rnd_65x39_caseless_mag"}, // 0.69%
-			{2469.70369279733, "Exile_Item_ZipTie"}, // 0.66%
-			{2535.35356017133, "B_Carryall_oucamo"}, // 0.66%
-			{2601.00342754534, "B_Carryall_ocamo"}, // 0.66%
-			{2666.65329491934, "B_Carryall_mcamo"}, // 0.66%
-			{2730.63952043007, "20Rnd_762x51_Mag"}, // 0.64%
-			{2793.76439290508, "optic_Holosight"}, // 0.63%
-			{2855.03760245415, "V_PlateCarrierSpec_rgr"}, // 0.61%
-			{2913.95415009749, "acc_flashlight"}, // 0.59%
-			{2971.12052712118, "150Rnd_762x54_Box_Tracer"}, // 0.57%
-			{3028.28690414486, "200Rnd_65x39_Belt_Tracer_Red"}, // 0.57%
-			{3085.45328116855, "100Rnd_65x39_caseless_mag_Tracer"}, // 0.57%
-			{3142.34983289269, "V_PlateCarrierSpec_mtp"}, // 0.57%
-			{3199.24638461683, "V_PlateCarrierSpec_blk"}, // 0.57%
-			{3256.14293634097, "3Rnd_HE_Grenade_shell"}, // 0.57%
-			{3309.19333421895, "U_IG_Guerilla2_3"}, // 0.53%
-			{3362.24373209694, "U_IG_Guerilla2_2"}, // 0.53%
-			{3415.29412997492, "U_IG_Guerilla1_1"}, // 0.53%
-			{3468.3445278529, "U_IG_Guerilla2_1"}, // 0.53%
-			{3520.86442175211, "V_PlateCarrierGL_blk"}, // 0.53%
-			{3573.38431565131, "V_PlateCarrierGL_mtp"}, // 0.53%
-			{3625.90420955052, "V_PlateCarrierGL_rgr"}, // 0.53%
-			{3678.42410344972, "V_PlateCarrierIAGL_oli"}, // 0.53%
-			{3730.94399734893, "V_PlateCarrierIAGL_dgtl"}, // 0.53%
-			{3782.80076127466, "UGL_FlareRed_F"}, // 0.52%
-			{3834.65752520039, "UGL_FlareGreen_F"}, // 0.52%
-			{3886.51428912611, "UGL_FlareYellow_F"}, // 0.52%
-			{3938.37105305184, "UGL_FlareWhite_F"}, // 0.52%
-			{3990.17026230063, "srifle_DMR_01_F"}, // 0.52%
-			{4040.84735290513, "20Rnd_556x45_UW_mag"}, // 0.51%
-			{4090.58210091574, "U_IG_Guerilla3_2"}, // 0.50%
-			{4140.31684892635, "U_IG_Guerilla3_1"}, // 0.50%
-			{4189.91897094226, "5Rnd_127x108_Mag"}, // 0.50%
-			{4239.52109295818, "7Rnd_408_Mag"}, // 0.50%
-			{4289.03479764429, "arifle_MX_F"}, // 0.50%
-			{4338.54850233041, "arifle_TRG20_F"}, // 0.50%
-			{4388.06220701653, "arifle_TRG21_F"}, // 0.50%
-			{4437.57591170265, "arifle_MXC_F"}, // 0.50%
-			{4483.99500984588, "muzzle_snds_93mmg_tan"}, // 0.46%
-			{4530.41410798912, "muzzle_snds_B"}, // 0.46%
-			{4576.83320613236, "muzzle_snds_93mmg"}, // 0.46%
-			{4623.25230427559, "muzzle_snds_338_green"}, // 0.46%
-			{4669.67140241883, "muzzle_snds_338_black"}, // 0.46%
-			{4716.09050056206, "muzzle_snds_338_sand"}, // 0.46%
-			{4761.84646873182, "SmokeShellBlue"}, // 0.46%
-			{4807.60243690159, "SmokeShellOrange"}, // 0.46%
-			{4852.69527509787, "U_I_GhillieSuit"}, // 0.45%
-			{4897.25760931538, "B_FieldPack_cbr"}, // 0.45%
-			{4941.81994353289, "B_FieldPack_blk"}, // 0.45%
-			{4986.38227775039, "B_FieldPack_ocamo"}, // 0.45%
-			{5030.9446119679, "B_FieldPack_oucamo"}, // 0.45%
-			{5074.79238980583, "optic_DMS"}, // 0.44%
-			{5118.55896805516, "V_PlateCarrierGL_rgr"}, // 0.44%
-			{5162.3255463045, "V_PlateCarrierIA1_dgtl"}, // 0.44%
-			{5206.09212455384, "V_PlateCarrierIA2_dgtl"}, // 0.44%
-			{5249.85870280317, "V_PlateCarrierIAGL_dgtl"}, // 0.44%
-			{5293.62528105251, "V_PlateCarrier1_rgr"}, // 0.44%
-			{5337.39185930185, "U_O_GhillieSuit"}, // 0.44%
-			{5381.15843755118, "U_B_GhillieSuit"}, // 0.44%
-			{5424.92501580052, "V_PlateCarrier2_rgr"}, // 0.44%
-			{5468.69159404986, "V_PlateCarrier3_rgr"}, // 0.44%
-			{5512.45817229919, "V_PlateCarrierSpec_rgr"}, // 0.44%
-			{5556.22475054853, "V_PlateCarrier1_blk"}, // 0.44%
-			{5599.54924214888, "arifle_Mk20_F"}, // 0.43%
-			{5642.87373374924, "arifle_Mk20C_F"}, // 0.43%
-			{5685.57930404101, "SmokeShellRed"}, // 0.43%
-			{5728.28487433279, "SmokeShellGreen"}, // 0.43%
-			{5770.99044462457, "SmokeShellYellow"}, // 0.43%
-			{5813.69601491634, "SmokeShellPurple"}, // 0.43%
-			{5856.40158520812, "SmokeShell"}, // 0.43%
-			{5898.62537127427, "optic_SOS"}, // 0.42%
-			{5940.84915734042, "optic_LRPS"}, // 0.42%
-			{5982.93240565709, "acc_pointer_IR"}, // 0.42%
-			{6025.01565397376, "optic_MRCO"}, // 0.42%
-			{6067.09890229043, "optic_DMS"}, // 0.42%
-			{6109.1821506071, "optic_Hamr"}, // 0.42%
-			{6151.26539892378, "muzzle_snds_H"}, // 0.42%
-			{6193.34864724045, "optic_Arco"}, // 0.42%
-			{6235.43189555712, "muzzle_snds_M"}, // 0.42%
-			{6276.89496968807, "30Rnd_65x39_caseless_mag"}, // 0.41%
-			{6318.35804381902, "30Rnd_556x45_Stanag_Tracer_Yellow"}, // 0.41%
-			{6359.82111794997, "30Rnd_556x45_Stanag_Tracer_Red"}, // 0.41%
-			{6401.28419208092, "30Rnd_556x45_Stanag_Tracer_Green"}, // 0.41%
-			{6442.74726621187, "30Rnd_65x39_caseless_mag_Tracer"}, // 0.41%
-			{6484.21034034282, "30Rnd_65x39_caseless_green_mag_Tracer"}, // 0.41%
-			{6523.21798584134, "Exile_Item_Vishpirin"}, // 0.39%
-			{6560.35326435593, "arifle_SDAR_F"}, // 0.37%
-			{6596.26430291949, "srifle_DMR_05_blk_F"}, // 0.36%
-			{6632.17534148305, "srifle_DMR_05_hex_F"}, // 0.36%
-			{6668.08638004661, "srifle_DMR_05_tan_F"}, // 0.36%
-			{6703.09964264607, "B_Bergen_blk"}, // 0.35%
-			{6738.11290524554, "B_Bergen_rgr"}, // 0.35%
-			{6773.12616784501, "B_Bergen_mcamo"}, // 0.35%
-			{6808.13943044448, "B_Bergen_sgg"}, // 0.35%
-			{6841.79080223276, "bipod_02_F_tan"}, // 0.34%
-			{6875.44217402103, "bipod_01_F_snd"}, // 0.34%
-			{6909.0935458093, "bipod_01_F_blk"}, // 0.34%
-			{6942.74491759758, "bipod_03_F_oli"}, // 0.34%
-			{6976.39628938585, "bipod_03_F_blk"}, // 0.34%
-			{7010.04766117412, "bipod_02_F_blk"}, // 0.34%
-			{7042.54102987439, "U_B_CombatUniform_mcam_worn"}, // 0.32%
-			{7075.03439857465, "U_B_CombatUniform_mcam_vest"}, // 0.32%
-			{7107.52776727492, "U_B_CTRG_1"}, // 0.32%
-			{7140.02113597518, "U_B_CTRG_2"}, // 0.32%
-			{7172.51450467545, "U_B_CombatUniform_mcam_tshirt"}, // 0.32%
-			{7205.00787337571, "U_B_CTRG_3"}, // 0.32%
-			{7237.21704351592, "optic_AMS"}, // 0.32%
-			{7269.42621365612, "optic_AMS_snd"}, // 0.32%
-			{7301.63538379633, "optic_KHS_blk"}, // 0.32%
-			{7333.84455393653, "optic_KHS_hex"}, // 0.32%
-			{7366.05372407674, "optic_KHS_old"}, // 0.32%
-			{7398.26289421694, "optic_AMS_khk"}, // 0.32%
-			{7430.47206435715, "optic_KHS_tan"}, // 0.32%
-			{7462.14394368729, "bipod_02_F_hex"}, // 0.32%
-			{7493.81582301743, "bipod_01_F_mtp"}, // 0.32%
-			{7525.23798176054, "srifle_DMR_04_F"}, // 0.31%
-			{7556.66014050366, "srifle_DMR_04_Tan_F"}, // 0.31%
-			{7587.78664946268, "1Rnd_SmokeOrange_Grenade_shell"}, // 0.31%
-			{7618.9131584217, "1Rnd_SmokePurple_Grenade_shell"}, // 0.31%
-			{7650.03966738072, "1Rnd_SmokeRed_Grenade_shell"}, // 0.31%
-			{7681.16617633974, "1Rnd_SmokeYellow_Grenade_shell"}, // 0.31%
-			{7712.29268529876, "1Rnd_Smoke_Grenade_shell"}, // 0.31%
-			{7743.41919425778, "1Rnd_SmokeBlue_Grenade_shell"}, // 0.31%
-			{7774.54570321681, "1Rnd_SmokeGreen_Grenade_shell"}, // 0.31%
-			{7805.40154688053, "muzzle_snds_B"}, // 0.31%
-			{7834.57926571342, "5Rnd_127x108_APDS_Mag"}, // 0.29%
-			{7861.51254463609, "srifle_DMR_06_camo_F"}, // 0.27%
-			{7888.44582355876, "srifle_DMR_06_olive_F"}, // 0.27%
-			{7913.20267590182, "arifle_MX_GL_F"}, // 0.25%
-			{7937.95952824488, "arifle_Mk20_GL_F"}, // 0.25%
-			{7962.71638058794, "arifle_TRG21_GL_F"}, // 0.25%
-			{7987.11956361181, "3Rnd_UGL_FlareYellow_F"}, // 0.24%
-			{8011.52274663568, "3Rnd_UGL_FlareGreen_F"}, // 0.24%
-			{8035.92592965956, "3Rnd_UGL_FlareRed_F"}, // 0.24%
-			{8060.32911268343, "3Rnd_UGL_FlareWhite_F"}, // 0.24%
-			{8083.53866175505, "U_B_CombatUniform_mcam"}, // 0.23%
-			{8106.40521256452, "200Rnd_65x39_Belt"}, // 0.23%
-			{8128.28850168919, "V_PlateCarrierL_CTRG"}, // 0.22%
-			{8150.17179081386, "V_PlateCarrierH_CTRG"}, // 0.22%
-			{8171.52457595975, "V_HarnessOSpec_gry"}, // 0.21%
-			{8192.87736110564, "V_HarnessO_brn"}, // 0.21%
-			{8214.23014625153, "V_BandollierB_blk"}, // 0.21%
-			{8235.58293139742, "V_BandollierB_oli"}, // 0.21%
-			{8256.93571654331, "V_BandollierB_cbr"}, // 0.21%
-			{8278.2885016892, "V_HarnessOSpec_brn"}, // 0.21%
-			{8299.64128683509, "V_HarnessO_gry"}, // 0.21%
-			{8320.99407198097, "V_HarnessOGL_brn"}, // 0.21%
-			{8342.34685712686, "V_BandollierB_rgr"}, // 0.21%
-			{8363.69964227275, "V_BandollierB_khk"}, // 0.21%
-			{8385.05242741864, "V_HarnessOGL_gry"}, // 0.21%
-			{8406.09405157698, "optic_NVS"}, // 0.21%
-			{8426.81686324806, "APERSMine_Range_Mag"}, // 0.21%
-			{8447.53967491915, "APERSBoundingMine_Range_Mag"}, // 0.21%
-			{8468.26248659024, "APERSTripMine_Wire_Mag"}, // 0.21%
-			{8487.7663093395, "Exile_Item_Bandage"}, // 0.20%
-			{8506.33394859679, "U_I_CombatUniform_tshirt"}, // 0.19%
-			{8524.90158785409, "U_O_PilotCoveralls"}, // 0.19%
-			{8543.46922711138, "U_I_pilotCoveralls"}, // 0.19%
-			{8562.03686636868, "arifle_MXC_Black_F"}, // 0.19%
-			{8580.60450562597, "arifle_MX_Black_F"}, // 0.19%
-			{8599.17214488327, "arifle_MX_GL_Black_F"}, // 0.19%
-			{8617.73978414056, "U_B_PilotCoveralls"}, // 0.19%
-			{8636.30742339786, "U_B_HeliPilotCoveralls"}, // 0.19%
-			{8654.87506265515, "U_I_HeliPilotCoveralls"}, // 0.19%
-			{8673.44270191245, "U_I_CombatUniform"}, // 0.19%
-			{8692.01034116974, "U_I_CombatUniform_shortsleeve"}, // 0.19%
-			{8709.51697246948, "H_MilCap_ocamo"}, // 0.18%
-			{8727.02360376921, "H_MilCap_mcamo"}, // 0.18%
-			{8744.53023506895, "H_MilCap_oucamo"}, // 0.18%
-			{8762.03686636868, "H_MilCap_blue"}, // 0.18%
-			{8779.54349766842, "H_MilCap_rucamo"}, // 0.18%
-			{8797.05012896815, "H_MilCap_dgtl"}, // 0.18%
-			{8812.96524833155, "ItemWatch"}, // 0.16%
-			{8828.88036769494, "U_I_FullGhillie_sard"}, // 0.16%
-			{8844.79548705834, "ItemRadio"}, // 0.16%
-			{8860.04747644826, "V_Chestrig_khk"}, // 0.15%
-			{8875.29946583818, "V_Chestrig_rgr"}, // 0.15%
-			{8890.5514552281, "V_Chestrig_blk"}, // 0.15%
-			{8905.80344461802, "V_Chestrig_oli"}, // 0.15%
-			{8920.39230403447, "U_I_FullGhillie_lsh"}, // 0.15%
-			{8934.98116345091, "U_B_FullGhillie_sard"}, // 0.15%
-			{8949.57002286736, "U_O_FullGhillie_ard"}, // 0.15%
-			{8964.15888228381, "U_O_FullGhillie_lsh"}, // 0.15%
-			{8978.74774170025, "U_O_FullGhillie_sard"}, // 0.15%
-			{8993.3366011167, "U_I_FullGhillie_ard"}, // 0.15%
-			{9007.92546053314, "U_B_FullGhillie_ard"}, // 0.15%
-			{9022.51431994959, "U_B_FullGhillie_lsh"}, // 0.15%
-			{9036.44004939256, "U_B_SpecopsUniform_sgg"}, // 0.14%
-			{9049.9066888539, "srifle_DMR_03_tan_F"}, // 0.13%
-			{9063.37332831523, "srifle_DMR_03_khaki_F"}, // 0.13%
-			{9076.83996777656, "srifle_DMR_03_F"}, // 0.13%
-			{9090.3066072379, "srifle_DMR_03_woodland_F"}, // 0.13%
-			{9103.56920670739, "U_IG_leader"}, // 0.13%
-			{9116.6991801822, "H_HelmetB_light"}, // 0.13%
-			{9129.829153657, "H_HelmetSpecB_blk"}, // 0.13%
-			{9142.9591271318, "H_HelmetB"}, // 0.13%
-			{9156.0891006066, "H_HelmetB_paint"}, // 0.13%
-			{9169.2190740814, "H_HelmetB_plain_blk"}, // 0.13%
-			{9182.3490475562, "H_HelmetSpecB"}, // 0.13%
-			{9195.479021031, "H_HelmetSpecB_paint1"}, // 0.13%
-			{9208.6089945058, "H_HelmetSpecB_paint2"}, // 0.13%
-			{9221.7389679806, "H_HelmetIA"}, // 0.13%
-			{9234.18957156421, "3Rnd_SmokeBlue_Grenade_shell"}, // 0.12%
-			{9246.64017514782, "3Rnd_Smoke_Grenade_shell"}, // 0.12%
-			{9259.09077873143, "3Rnd_SmokeYellow_Grenade_shell"}, // 0.12%
-			{9271.54138231504, "3Rnd_SmokePurple_Grenade_shell"}, // 0.12%
-			{9283.99198589865, "3Rnd_SmokeRed_Grenade_shell"}, // 0.12%
-			{9296.44258948226, "3Rnd_SmokeOrange_Grenade_shell"}, // 0.12%
-			{9308.89319306587, "3Rnd_SmokeGreen_Grenade_shell"}, // 0.12%
-			{9321.0947845778, "H_Booniehat_indp"}, // 0.12%
-			{9333.29637608974, "H_Booniehat_khk"}, // 0.12%
-			{9345.49796760167, "H_Booniehat_khk_hs"}, // 0.12%
-			{9357.69955911361, "H_Booniehat_tan"}, // 0.12%
-			{9369.90115062554, "H_Booniehat_dirty"}, // 0.12%
-			{9382.10274213748, "H_Booniehat_dgtl"}, // 0.12%
-			{9394.30433364942, "H_Booniehat_grn"}, // 0.12%
-			{9406.50592516135, "H_Booniehat_mcamo"}, // 0.12%
-			{9417.11600473695, "ItemGPS"}, // 0.11%
-			{9427.72608431255, "Binocular"}, // 0.11%
-			{9437.00990394119, "U_O_CombatUniform_oucamo"}, // 0.09%
-			{9446.29372356984, "U_O_SpecopsUniform_ocamo"}, // 0.09%
-			{9455.57754319849, "U_O_SpecopsUniform_blk"}, // 0.09%
-			{9464.86136282713, "U_I_Wetsuit"}, // 0.09%
-			{9474.14518245578, "U_O_Wetsuit"}, // 0.09%
-			{9483.42900208443, "U_B_Wetsuit"}, // 0.09%
-			{9492.71282171307, "U_O_OfficerUniform_ocamo"}, // 0.09%
-			{9501.99664134172, "U_O_CombatUniform_ocamo"}, // 0.09%
-			{9511.28046097037, "U_I_OfficerUniform"}, // 0.09%
-			{9520.43165460432, "H_BandMask_blk"}, // 0.09%
-			{9529.58284823827, "V_I_G_resistanceLeader_F"}, // 0.09%
-			{9538.73404187222, "H_Bandanna_khk"}, // 0.09%
-			{9547.88523550617, "H_Bandanna_khk_hs"}, // 0.09%
-			{9557.03642914013, "H_Bandanna_cbr"}, // 0.09%
-			{9566.18762277408, "H_Bandanna_sgg"}, // 0.09%
-			{9575.33881640803, "H_Bandanna_gry"}, // 0.09%
-			{9584.49001004198, "H_Bandanna_camo"}, // 0.09%
-			{9593.64120367593, "H_Bandanna_mcamo"}, // 0.09%
-			{9602.79239730989, "H_Hat_camo"}, // 0.09%
-			{9611.94359094384, "H_Cap_brn_SPECOPS"}, // 0.09%
-			{9621.09478457779, "H_Cap_tan_specops_US"}, // 0.09%
-			{9630.24597821174, "H_Cap_khaki_specops_UK"}, // 0.09%
-			{9639.39717184569, "H_Watchcap_blk"}, // 0.09%
-			{9648.54836547965, "H_Watchcap_khk"}, // 0.09%
-			{9657.30168112951, "H_HelmetIA_net"}, // 0.09%
-			{9666.05499677938, "H_HelmetB_light_black"}, // 0.09%
-			{9674.80831242925, "H_HelmetB_light_desert"}, // 0.09%
-			{9683.56162807911, "H_HelmetB_grass"}, // 0.09%
-			{9692.31494372898, "H_HelmetB_snakeskin"}, // 0.09%
-			{9701.06825937885, "H_HelmetB_desert"}, // 0.09%
-			{9709.82157502871, "H_HelmetB_black"}, // 0.09%
-			{9718.57489067858, "H_HelmetB_sand"}, // 0.09%
-			{9727.32820632845, "H_HelmetB_light_grass"}, // 0.09%
-			{9736.08152197831, "H_HelmetB_light_snakeskin"}, // 0.09%
-			{9744.83483762818, "H_HelmetIA_camo"}, // 0.09%
-			{9753.58815327805, "H_HelmetB_light_sand"}, // 0.09%
-			{9762.34146892791, "H_BandMask_khk"}, // 0.09%
-			{9771.09478457778, "H_BandMask_reaper"}, // 0.09%
-			{9779.84810022765, "H_BandMask_demon"}, // 0.09%
-			{9787.64962932735, "Exile_Item_InstaDoc"}, // 0.08%
-			{9794.2809290621, "U_I_G_resistanceLeader_F"}, // 0.07%
-			{9800.47014214786, "arifle_Katiba_F"}, // 0.06%
-			{9806.65935523363, "arifle_Katiba_GL_F"}, // 0.06%
-			{9812.7601509896, "H_Shemag_olive_hs"}, // 0.06%
-			{9818.86094674556, "H_Shemag_olive"}, // 0.06%
-			{9824.96174250153, "H_Watchcap_camo"}, // 0.06%
-			{9831.0625382575, "H_Watchcap_sgg"}, // 0.06%
-			{9837.16333401347, "H_TurbanO_blk"}, // 0.06%
-			{9843.26412976944, "H_Shemag_khk"}, // 0.06%
-			{9849.36492552541, "H_Shemag_tan"}, // 0.06%
-			{9855.46572128138, "H_ShemagOpen_tan"}, // 0.06%
-			{9861.56651703735, "H_ShemagOpen_khk"}, // 0.06%
-			{9866.07580085697, "V_RebreatherIA"}, // 0.05%
-			{9870.56468067742, "srifle_DMR_02_camo_F"}, // 0.04%
-			{9875.05356049786, "srifle_DMR_02_F"}, // 0.04%
-			{9879.54244031831, "srifle_DMR_02_sniper_F"}, // 0.04%
-			{9883.91909814324, "H_HelmetCrew_B"}, // 0.04%
-			{9888.29575596818, "H_HelmetCrew_O"}, // 0.04%
-			{9892.67241379311, "H_HelmetCrew_I"}, // 0.04%
-			{9897.04907161804, "H_PilotHelmetFighter_O"}, // 0.04%
-			{9901.42572944298, "H_PilotHelmetFighter_I"}, // 0.04%
-			{9905.80238726791, "H_PilotHelmetFighter_B"}, // 0.04%
-			{9910.17904509285, "H_PilotHelmetHeli_O"}, // 0.04%
-			{9914.55570291778, "V_RebreatherIR"}, // 0.04%
-			{9918.93236074272, "V_RebreatherB"}, // 0.04%
-			{9923.30901856765, "H_PilotHelmetHeli_B"}, // 0.04%
-			{9927.68567639258, "H_HelmetO_ocamo"}, // 0.04%
-			{9932.06233421752, "H_HelmetSpecO_blk"}, // 0.04%
-			{9936.43899204245, "H_HelmetSpecO_ocamo"}, // 0.04%
-			{9940.81564986739, "H_HelmetLeaderO_ocamo"}, // 0.04%
-			{9945.19230769232, "H_HelmetO_oucamo"}, // 0.04%
-			{9949.56896551726, "H_CrewHelmetHeli_I"}, // 0.04%
-			{9953.94562334219, "H_CrewHelmetHeli_O"}, // 0.04%
-			{9958.32228116712, "H_CrewHelmetHeli_B"}, // 0.04%
-			{9962.69893899206, "H_HelmetB_camo"}, // 0.04%
-			{9967.07559681699, "H_PilotHelmetHeli_I"}, // 0.04%
-			{9971.45225464193, "H_HelmetLeaderO_oucamo"}, // 0.04%
-			{9975.59681697614, "SatchelCharge_Remote_Mag"}, // 0.04%
-			{9978.64721485413, "H_Beret_Colonel"}, // 0.03%
-			{9981.69761273211, "H_Beret_02"}, // 0.03%
-			{9984.74801061009, "H_Beret_ocamo"}, // 0.03%
-			{9987.79840848808, "H_Beret_brn_SF"}, // 0.03%
-			{9990.84880636606, "H_Beret_grn_SF"}, // 0.03%
-			{9993.89920424404, "H_Beret_grn"}, // 0.03%
-			{9996.94960212203, "H_Beret_red"}, // 0.03%
+			{157.068062827225, "ItemCompass"}, // 1.57%
+			{271.073298429319, "1Rnd_HE_Grenade_shell"}, // 1.14%
+			{362.925966749334, "10Rnd_93x64_DMR_05_Mag"}, // 0.92%
+			{454.778635069349, "10Rnd_338_Mag"}, // 0.92%
+			{545.67450476103, "arifle_MX_SW_Black_F"}, // 0.91%
+			{636.570374452711, "arifle_MX_SW_F"}, // 0.91%
+			{723.830409356725, "Exile_Item_Can_Empty"}, // 0.87%
+			{811.090444260739, "Exile_Item_ToiletPaper"}, // 0.87%
+			{898.350479164753, "Exile_Item_PlasticBottleEmpty"}, // 0.87%
+			{983.552494377635, "arifle_MXM_F"}, // 0.85%
+			{1068.75450959052, "arifle_MXM_Black_F"}, // 0.85%
+			{1153.83304362193, "HandGrenade"}, // 0.85%
+			{1238.91157765334, "MiniGrenade"}, // 0.85%
+			{1320.97964048057, "B_Carryall_cbr"}, // 0.82%
+			{1401.60791273188, "20Rnd_762x51_Mag"}, // 0.81%
+			{1482.23618498319, "10Rnd_762x51_Mag"}, // 0.81%
+			{1562.836901434, "30Rnd_556x45_Stanag"}, // 0.81%
+			{1643.43761788481, "30Rnd_65x39_caseless_green"}, // 0.81%
+			{1723.80870266483, "10Rnd_127x54_Mag"}, // 0.80%
+			{1803.33058353018, "srifle_EBR_F"}, // 0.80%
+			{1881.86461494379, "NVGoggles"}, // 0.79%
+			{1960.39864635741, "Rangefinder"}, // 0.79%
+			{2038.14733745688, "B_Carryall_khk"}, // 0.78%
+			{2115.89602855636, "B_Carryall_oli"}, // 0.78%
+			{2188.6127243097, "LMG_Zafir_F"}, // 0.73%
+			{2261.32942006305, "LMG_Mk200_F"}, // 0.73%
+			{2329.03117128168, "150Rnd_762x54_Box"}, // 0.68%
+			{2396.73292250031, "100Rnd_65x39_caseless_mag"}, // 0.68%
+			{2462.17794867832, "Exile_Item_ZipTie"}, // 0.65%
+			{2526.96852459455, "B_Carryall_mcamo"}, // 0.65%
+			{2591.75910051078, "B_Carryall_ocamo"}, // 0.65%
+			{2656.54967642701, "B_Carryall_oucamo"}, // 0.65%
+			{2719.69838589702, "20Rnd_762x51_Mag"}, // 0.63%
+			{2781.99701658571, "optic_Holosight"}, // 0.62%
+			{2842.46822077419, "V_PlateCarrierSpec_rgr"}, // 0.60%
+			{2901.57541283812, "20Rnd_556x45_UW_mag"}, // 0.59%
+			{2959.72080148089, "acc_flashlight"}, // 0.58%
+			{3016.13892749642, "100Rnd_65x39_caseless_mag_Tracer"}, // 0.56%
+			{3072.55705351194, "150Rnd_762x54_Box_Tracer"}, // 0.56%
+			{3128.97517952747, "200Rnd_65x39_Belt_Tracer_Red"}, // 0.56%
+			{3185.1270119882, "3Rnd_HE_Grenade_shell"}, // 0.56%
+			{3241.27884444894, "V_PlateCarrierSpec_blk"}, // 0.56%
+			{3297.43067690967, "V_PlateCarrierSpec_mtp"}, // 0.56%
+			{3351.88093868977, "arifle_MX_F"}, // 0.54%
+			{3406.33120046988, "arifle_MXC_F"}, // 0.54%
+			{3460.78146224998, "arifle_TRG20_F"}, // 0.54%
+			{3515.23172403009, "arifle_TRG21_F"}, // 0.54%
+			{3567.58774497249, "U_IG_Guerilla1_1"}, // 0.52%
+			{3619.9437659149, "U_IG_Guerilla2_2"}, // 0.52%
+			{3672.29978685731, "U_IG_Guerilla2_3"}, // 0.52%
+			{3724.65580779972, "U_IG_Guerilla2_1"}, // 0.52%
+			{3776.4882685327, "V_PlateCarrierIAGL_oli"}, // 0.52%
+			{3828.32072926569, "V_PlateCarrierIAGL_dgtl"}, // 0.52%
+			{3880.15318999867, "V_PlateCarrierGL_blk"}, // 0.52%
+			{3931.98565073166, "V_PlateCarrierGL_rgr"}, // 0.52%
+			{3983.81811146464, "V_PlateCarrierGL_mtp"}, // 0.52%
+			{4034.99612193585, "UGL_FlareYellow_F"}, // 0.51%
+			{4086.17413240705, "UGL_FlareWhite_F"}, // 0.51%
+			{4137.35214287825, "UGL_FlareRed_F"}, // 0.51%
+			{4188.53015334946, "UGL_FlareGreen_F"}, // 0.51%
+			{4239.65136247719, "srifle_DMR_01_F"}, // 0.51%
+			{4288.7351321107, "U_IG_Guerilla3_1"}, // 0.49%
+			{4337.8189017442, "U_IG_Guerilla3_2"}, // 0.49%
+			{4386.77178132535, "7Rnd_408_Mag"}, // 0.49%
+			{4435.72466090651, "5Rnd_127x108_Mag"}, // 0.49%
+			{4484.08509077699, "30Rnd_65x39_caseless_green_mag_Tracer"}, // 0.48%
+			{4532.44552064748, "30Rnd_556x45_Stanag_Tracer_Green"}, // 0.48%
+			{4580.80595051797, "30Rnd_556x45_Stanag_Tracer_Red"}, // 0.48%
+			{4629.16638038846, "30Rnd_65x39_caseless_mag_Tracer"}, // 0.48%
+			{4677.52681025895, "30Rnd_556x45_Stanag_Tracer_Yellow"}, // 0.48%
+			{4725.88724012943, "30Rnd_65x39_caseless_mag"}, // 0.48%
+			{4773.53121918702, "arifle_Mk20C_F"}, // 0.48%
+			{4821.17519824462, "arifle_Mk20_F"}, // 0.48%
+			{4866.98671656922, "muzzle_snds_93mmg"}, // 0.46%
+			{4912.79823489383, "muzzle_snds_93mmg_tan"}, // 0.46%
+			{4958.60975321844, "muzzle_snds_B"}, // 0.46%
+			{5004.42127154304, "muzzle_snds_338_green"}, // 0.46%
+			{5050.23278986765, "muzzle_snds_338_black"}, // 0.46%
+			{5096.04430819226, "muzzle_snds_338_sand"}, // 0.46%
+			{5141.20137625509, "SmokeShellOrange"}, // 0.45%
+			{5186.35844431791, "SmokeShellBlue"}, // 0.45%
+			{5230.86106211896, "U_I_GhillieSuit"}, // 0.45%
+			{5274.84011971059, "B_FieldPack_cbr"}, // 0.44%
+			{5318.81917730221, "B_FieldPack_oucamo"}, // 0.44%
+			{5362.79823489383, "B_FieldPack_blk"}, // 0.44%
+			{5406.77729248545, "B_FieldPack_ocamo"}, // 0.44%
+			{5450.05114652969, "optic_DMS"}, // 0.43%
+			{5493.24486380718, "V_PlateCarrier2_rgr"}, // 0.43%
+			{5536.43858108466, "V_PlateCarrier3_rgr"}, // 0.43%
+			{5579.63229836215, "V_PlateCarrierGL_rgr"}, // 0.43%
+			{5622.82601563964, "V_PlateCarrierIA1_dgtl"}, // 0.43%
+			{5666.01973291712, "V_PlateCarrierIA2_dgtl"}, // 0.43%
+			{5709.21345019461, "V_PlateCarrierIAGL_dgtl"}, // 0.43%
+			{5752.4071674721, "V_PlateCarrierSpec_rgr"}, // 0.43%
+			{5795.60088474959, "U_O_GhillieSuit"}, // 0.43%
+			{5838.79460202707, "V_PlateCarrier1_rgr"}, // 0.43%
+			{5881.98831930456, "U_B_GhillieSuit"}, // 0.43%
+			{5925.18203658205, "V_PlateCarrier1_blk"}, // 0.43%
+			{5967.32863344068, "SmokeShell"}, // 0.42%
+			{6009.47523029932, "SmokeShellRed"}, // 0.42%
+			{6051.62182715796, "SmokeShellGreen"}, // 0.42%
+			{6093.7684240166, "SmokeShellYellow"}, // 0.42%
+			{6135.91502087524, "SmokeShellPurple"}, // 0.42%
+			{6177.58613958451, "optic_SOS"}, // 0.42%
+			{6219.25725829377, "optic_LRPS"}, // 0.42%
+			{6260.78967875289, "acc_pointer_IR"}, // 0.42%
+			{6302.32209921201, "optic_DMS"}, // 0.42%
+			{6343.85451967114, "optic_Hamr"}, // 0.42%
+			{6385.38694013026, "optic_Arco"}, // 0.42%
+			{6426.91936058938, "muzzle_snds_M"}, // 0.42%
+			{6468.4517810485, "optic_MRCO"}, // 0.42%
+			{6509.98420150763, "muzzle_snds_H"}, // 0.42%
+			{6550.8218978427, "arifle_SDAR_F"}, // 0.41%
+			{6589.31897206506, "Exile_Item_Vishpirin"}, // 0.38%
+			{6624.75997085685, "srifle_DMR_05_tan_F"}, // 0.35%
+			{6660.20096964863, "srifle_DMR_05_hex_F"}, // 0.35%
+			{6695.64196844042, "srifle_DMR_05_blk_F"}, // 0.35%
+			{6730.19694226241, "B_Bergen_blk"}, // 0.35%
+			{6764.7519160844, "B_Bergen_rgr"}, // 0.35%
+			{6799.30688990639, "B_Bergen_mcamo"}, // 0.35%
+			{6833.86186372838, "B_Bergen_sgg"}, // 0.35%
+			{6867.07277253513, "bipod_03_F_oli"}, // 0.33%
+			{6900.28368134188, "bipod_02_F_blk"}, // 0.33%
+			{6933.49459014863, "bipod_01_F_snd"}, // 0.33%
+			{6966.70549895538, "bipod_01_F_blk"}, // 0.33%
+			{6999.91640776214, "bipod_03_F_blk"}, // 0.33%
+			{7033.12731656889, "bipod_02_F_tan"}, // 0.33%
+			{7065.19537939611, "U_B_CTRG_1"}, // 0.32%
+			{7097.26344222334, "U_B_CombatUniform_mcam_vest"}, // 0.32%
+			{7129.33150505056, "U_B_CTRG_2"}, // 0.32%
+			{7161.39956787779, "U_B_CombatUniform_mcam_worn"}, // 0.32%
+			{7193.46763070501, "U_B_CombatUniform_mcam_tshirt"}, // 0.32%
+			{7225.53569353224, "U_B_CTRG_3"}, // 0.32%
+			{7257.32327767584, "optic_AMS"}, // 0.32%
+			{7289.11086181945, "optic_AMS_khk"}, // 0.32%
+			{7320.89844596305, "optic_AMS_snd"}, // 0.32%
+			{7352.68603010666, "optic_KHS_blk"}, // 0.32%
+			{7384.47361425026, "optic_KHS_hex"}, // 0.32%
+			{7416.26119839387, "optic_KHS_old"}, // 0.32%
+			{7448.04878253747, "optic_KHS_tan"}, // 0.32%
+			{7479.30610847324, "bipod_02_F_hex"}, // 0.31%
+			{7510.563434409, "bipod_01_F_mtp"}, // 0.31%
+			{7541.57430835182, "srifle_DMR_04_F"}, // 0.31%
+			{7572.58518229463, "srifle_DMR_04_Tan_F"}, // 0.31%
+			{7603.30427621492, "1Rnd_Smoke_Grenade_shell"}, // 0.31%
+			{7634.02337013521, "1Rnd_SmokeBlue_Grenade_shell"}, // 0.31%
+			{7664.7424640555, "1Rnd_SmokeGreen_Grenade_shell"}, // 0.31%
+			{7695.46155797579, "1Rnd_SmokePurple_Grenade_shell"}, // 0.31%
+			{7726.18065189608, "1Rnd_SmokeRed_Grenade_shell"}, // 0.31%
+			{7756.89974581637, "1Rnd_SmokeOrange_Grenade_shell"}, // 0.31%
+			{7787.61883973667, "1Rnd_SmokeYellow_Grenade_shell"}, // 0.31%
+			{7818.07081110113, "muzzle_snds_B"}, // 0.30%
+			{7846.86662261945, "5Rnd_127x108_APDS_Mag"}, // 0.29%
+			{7874.0917535095, "arifle_Mk20_GL_F"}, // 0.27%
+			{7901.31688439956, "arifle_TRG21_GL_F"}, // 0.27%
+			{7928.54201528961, "arifle_MX_GL_F"}, // 0.27%
+			{7955.12276438345, "srifle_DMR_06_camo_F"}, // 0.27%
+			{7981.70351347728, "srifle_DMR_06_olive_F"}, // 0.27%
+			{8005.78728311079, "3Rnd_UGL_FlareYellow_F"}, // 0.24%
+			{8029.8710527443, "3Rnd_UGL_FlareWhite_F"}, // 0.24%
+			{8053.95482237781, "3Rnd_UGL_FlareRed_F"}, // 0.24%
+			{8078.03859201131, "3Rnd_UGL_FlareGreen_F"}, // 0.24%
+			{8100.94435117362, "U_B_CombatUniform_mcam"}, // 0.23%
+			{8123.51160157983, "200Rnd_65x39_Belt"}, // 0.23%
+			{8145.10846021857, "V_PlateCarrierL_CTRG"}, // 0.22%
+			{8166.70531885732, "V_PlateCarrierH_CTRG"}, // 0.22%
+			{8187.77861728663, "V_HarnessOGL_brn"}, // 0.21%
+			{8208.85191571595, "V_HarnessO_gry"}, // 0.21%
+			{8229.92521414527, "V_BandollierB_khk"}, // 0.21%
+			{8250.99851257459, "V_BandollierB_cbr"}, // 0.21%
+			{8272.07181100391, "V_BandollierB_rgr"}, // 0.21%
+			{8293.14510943323, "V_BandollierB_blk"}, // 0.21%
+			{8314.21840786255, "V_BandollierB_oli"}, // 0.21%
+			{8335.29170629187, "V_HarnessO_brn"}, // 0.21%
+			{8356.36500472119, "V_HarnessOSpec_brn"}, // 0.21%
+			{8377.43830315051, "V_HarnessOSpec_gry"}, // 0.21%
+			{8398.51160157982, "V_HarnessOGL_gry"}, // 0.21%
+			{8419.27781180939, "optic_NVS"}, // 0.21%
+			{8439.72938249002, "APERSMine_Range_Mag"}, // 0.20%
+			{8460.18095317064, "APERSBoundingMine_Range_Mag"}, // 0.20%
+			{8480.63252385127, "APERSTripMine_Wire_Mag"}, // 0.20%
+			{8501.05137201881, "arifle_MX_Black_F"}, // 0.20%
+			{8521.47022018635, "arifle_MX_GL_Black_F"}, // 0.20%
+			{8541.88906835389, "arifle_MXC_Black_F"}, // 0.20%
+			{8561.13760546507, "Exile_Item_Bandage"}, // 0.19%
+			{8579.46221279491, "U_I_CombatUniform_tshirt"}, // 0.18%
+			{8597.78682012476, "U_I_pilotCoveralls"}, // 0.18%
+			{8616.1114274546, "U_I_HeliPilotCoveralls"}, // 0.18%
+			{8634.43603478444, "U_I_CombatUniform_shortsleeve"}, // 0.18%
+			{8652.76064211429, "U_I_CombatUniform"}, // 0.18%
+			{8671.08524944413, "U_O_PilotCoveralls"}, // 0.18%
+			{8689.40985677397, "U_B_HeliPilotCoveralls"}, // 0.18%
+			{8707.73446410382, "U_B_PilotCoveralls"}, // 0.18%
+			{8725.01195101481, "H_MilCap_dgtl"}, // 0.17%
+			{8742.28943792581, "H_MilCap_rucamo"}, // 0.17%
+			{8759.5669248368, "H_MilCap_blue"}, // 0.17%
+			{8776.84441174779, "H_MilCap_oucamo"}, // 0.17%
+			{8794.12189865879, "H_MilCap_mcamo"}, // 0.17%
+			{8811.39938556978, "H_MilCap_ocamo"}, // 0.17%
+			{8827.1061918525, "ItemRadio"}, // 0.16%
+			{8842.81299813523, "ItemWatch"}, // 0.16%
+			{8858.51980441795, "U_I_FullGhillie_sard"}, // 0.16%
+			{8873.57216043889, "V_Chestrig_khk"}, // 0.15%
+			{8888.62451645983, "V_Chestrig_blk"}, // 0.15%
+			{8903.67687248078, "V_Chestrig_oli"}, // 0.15%
+			{8918.72922850172, "V_Chestrig_rgr"}, // 0.15%
+			{8933.12713426088, "U_I_FullGhillie_lsh"}, // 0.14%
+			{8947.52504002004, "U_I_FullGhillie_ard"}, // 0.14%
+			{8961.9229457792, "U_O_FullGhillie_sard"}, // 0.14%
+			{8976.32085153837, "U_O_FullGhillie_lsh"}, // 0.14%
+			{8990.71875729753, "U_O_FullGhillie_ard"}, // 0.14%
+			{9005.11666305669, "U_B_FullGhillie_sard"}, // 0.14%
+			{9019.51456881585, "U_B_FullGhillie_lsh"}, // 0.14%
+			{9033.91247457502, "U_B_FullGhillie_ard"}, // 0.14%
+			{9047.6559300724, "U_B_SpecopsUniform_sgg"}, // 0.14%
+			{9060.94630461932, "srifle_DMR_03_F"}, // 0.13%
+			{9074.23667916624, "srifle_DMR_03_khaki_F"}, // 0.13%
+			{9087.52705371316, "srifle_DMR_03_tan_F"}, // 0.13%
+			{9100.81742826008, "srifle_DMR_03_woodland_F"}, // 0.13%
+			{9113.90643349568, "U_IG_leader"}, // 0.13%
+			{9126.86454867892, "H_HelmetB_paint"}, // 0.13%
+			{9139.82266386217, "H_HelmetIA"}, // 0.13%
+			{9152.78077904542, "H_HelmetSpecB_paint2"}, // 0.13%
+			{9165.73889422866, "H_HelmetSpecB_paint1"}, // 0.13%
+			{9178.69700941191, "H_HelmetSpecB"}, // 0.13%
+			{9191.65512459516, "H_HelmetB_plain_blk"}, // 0.13%
+			{9204.6132397784, "H_HelmetB_light"}, // 0.13%
+			{9217.57135496165, "H_HelmetB"}, // 0.13%
+			{9230.52947014489, "H_HelmetSpecB_blk"}, // 0.13%
+			{9242.81710771301, "3Rnd_Smoke_Grenade_shell"}, // 0.12%
+			{9255.10474528113, "3Rnd_SmokePurple_Grenade_shell"}, // 0.12%
+			{9267.39238284925, "3Rnd_SmokeBlue_Grenade_shell"}, // 0.12%
+			{9279.68002041736, "3Rnd_SmokeGreen_Grenade_shell"}, // 0.12%
+			{9291.96765798548, "3Rnd_SmokeOrange_Grenade_shell"}, // 0.12%
+			{9304.2552955536, "3Rnd_SmokeRed_Grenade_shell"}, // 0.12%
+			{9316.54293312171, "3Rnd_SmokeYellow_Grenade_shell"}, // 0.12%
+			{9328.58481793847, "H_Booniehat_grn"}, // 0.12%
+			{9340.62670275522, "H_Booniehat_mcamo"}, // 0.12%
+			{9352.66858757198, "H_Booniehat_tan"}, // 0.12%
+			{9364.71047238873, "H_Booniehat_indp"}, // 0.12%
+			{9376.75235720548, "H_Booniehat_dirty"}, // 0.12%
+			{9388.79424202224, "H_Booniehat_khk_hs"}, // 0.12%
+			{9400.83612683899, "H_Booniehat_khk"}, // 0.12%
+			{9412.87801165574, "H_Booniehat_dgtl"}, // 0.12%
+			{9423.34921584423, "Binocular"}, // 0.10%
+			{9433.82042003271, "ItemGPS"}, // 0.10%
+			{9442.98272369763, "U_O_CombatUniform_ocamo"}, // 0.09%
+			{9452.14502736255, "U_O_Wetsuit"}, // 0.09%
+			{9461.30733102747, "U_B_Wetsuit"}, // 0.09%
+			{9470.46963469239, "U_O_SpecopsUniform_ocamo"}, // 0.09%
+			{9479.63193835732, "U_O_SpecopsUniform_blk"}, // 0.09%
+			{9488.79424202224, "U_I_OfficerUniform"}, // 0.09%
+			{9497.95654568716, "U_O_OfficerUniform_ocamo"}, // 0.09%
+			{9507.11884935208, "U_O_CombatUniform_oucamo"}, // 0.09%
+			{9516.281153017, "U_I_Wetsuit"}, // 0.09%
+			{9525.31256662957, "V_I_G_resistanceLeader_F"}, // 0.09%
+			{9534.34398024213, "H_BandMask_blk"}, // 0.09%
+			{9543.3753938547, "H_Bandanna_sgg"}, // 0.09%
+			{9552.40680746726, "H_Cap_brn_SPECOPS"}, // 0.09%
+			{9561.43822107983, "H_Watchcap_blk"}, // 0.09%
+			{9570.46963469239, "H_Watchcap_khk"}, // 0.09%
+			{9579.50104830496, "H_Cap_khaki_specops_UK"}, // 0.09%
+			{9588.53246191752, "H_Bandanna_khk"}, // 0.09%
+			{9597.56387553009, "H_Bandanna_khk_hs"}, // 0.09%
+			{9606.59528914266, "H_Bandanna_cbr"}, // 0.09%
+			{9615.62670275522, "H_Cap_tan_specops_US"}, // 0.09%
+			{9624.65811636779, "H_Hat_camo"}, // 0.09%
+			{9633.68952998035, "H_Bandanna_gry"}, // 0.09%
+			{9642.72094359292, "H_Bandanna_camo"}, // 0.09%
+			{9651.75235720548, "H_Bandanna_mcamo"}, // 0.09%
+			{9660.39110066098, "H_HelmetB_snakeskin"}, // 0.09%
+			{9669.02984411648, "H_BandMask_reaper"}, // 0.09%
+			{9677.66858757198, "H_BandMask_khk"}, // 0.09%
+			{9686.30733102747, "H_HelmetB_light_sand"}, // 0.09%
+			{9694.94607448297, "H_BandMask_demon"}, // 0.09%
+			{9703.58481793847, "H_HelmetB_light_black"}, // 0.09%
+			{9712.22356139397, "H_HelmetB_black"}, // 0.09%
+			{9720.86230484947, "H_HelmetB_light_snakeskin"}, // 0.09%
+			{9729.50104830496, "H_HelmetB_light_grass"}, // 0.09%
+			{9738.13979176046, "H_HelmetIA_net"}, // 0.09%
+			{9746.77853521596, "H_HelmetIA_camo"}, // 0.09%
+			{9755.41727867146, "H_HelmetB_grass"}, // 0.09%
+			{9764.05602212696, "H_HelmetB_sand"}, // 0.09%
+			{9772.69476558246, "H_HelmetB_desert"}, // 0.09%
+			{9781.33350903795, "H_HelmetB_light_desert"}, // 0.09%
+			{9789.03292388243, "Exile_Item_InstaDoc"}, // 0.08%
+			{9795.83920660494, "arifle_Katiba_F"}, // 0.07%
+			{9802.64548932745, "arifle_Katiba_GL_F"}, // 0.07%
+			{9809.18999194525, "U_I_G_resistanceLeader_F"}, // 0.07%
+			{9815.21093435363, "H_Shemag_olive_hs"}, // 0.06%
+			{9821.23187676201, "H_Shemag_olive"}, // 0.06%
+			{9827.25281917038, "H_Watchcap_camo"}, // 0.06%
+			{9833.27376157876, "H_Watchcap_sgg"}, // 0.06%
+			{9839.29470398714, "H_TurbanO_blk"}, // 0.06%
+			{9845.31564639551, "H_Shemag_khk"}, // 0.06%
+			{9851.33658880389, "H_Shemag_tan"}, // 0.06%
+			{9857.35753121227, "H_ShemagOpen_tan"}, // 0.06%
+			{9863.37847362064, "H_ShemagOpen_khk"}, // 0.06%
+			{9867.82873540075, "V_RebreatherIA"}, // 0.04%
+			{9872.25886024972, "srifle_DMR_02_camo_F"}, // 0.04%
+			{9876.6889850987, "srifle_DMR_02_F"}, // 0.04%
+			{9881.11910994767, "srifle_DMR_02_sniper_F"}, // 0.04%
+			{9885.43848167542, "H_HelmetCrew_B"}, // 0.04%
+			{9889.75785340317, "H_HelmetCrew_O"}, // 0.04%
+			{9894.07722513091, "H_HelmetCrew_I"}, // 0.04%
+			{9898.39659685866, "H_PilotHelmetFighter_O"}, // 0.04%
+			{9902.71596858641, "H_PilotHelmetFighter_I"}, // 0.04%
+			{9907.03534031416, "H_PilotHelmetFighter_B"}, // 0.04%
+			{9911.35471204191, "H_PilotHelmetHeli_O"}, // 0.04%
+			{9915.67408376965, "V_RebreatherIR"}, // 0.04%
+			{9919.9934554974, "V_RebreatherB"}, // 0.04%
+			{9924.31282722515, "H_PilotHelmetHeli_B"}, // 0.04%
+			{9928.6321989529, "H_HelmetO_ocamo"}, // 0.04%
+			{9932.95157068065, "H_HelmetSpecO_blk"}, // 0.04%
+			{9937.2709424084, "H_HelmetSpecO_ocamo"}, // 0.04%
+			{9941.59031413614, "H_HelmetLeaderO_ocamo"}, // 0.04%
+			{9945.90968586389, "H_HelmetO_oucamo"}, // 0.04%
+			{9950.22905759164, "H_CrewHelmetHeli_I"}, // 0.04%
+			{9954.54842931939, "H_CrewHelmetHeli_O"}, // 0.04%
+			{9958.86780104714, "H_CrewHelmetHeli_B"}, // 0.04%
+			{9963.18717277488, "H_HelmetB_camo"}, // 0.04%
+			{9967.50654450263, "H_PilotHelmetHeli_I"}, // 0.04%
+			{9971.82591623038, "H_HelmetLeaderO_oucamo"}, // 0.04%
+			{9975.91623036651, "SatchelCharge_Remote_Mag"}, // 0.04%
+			{9978.92670157069, "H_Beret_Colonel"}, // 0.03%
+			{9981.93717277488, "H_Beret_02"}, // 0.03%
+			{9984.94764397907, "H_Beret_ocamo"}, // 0.03%
+			{9987.95811518326, "H_Beret_brn_SF"}, // 0.03%
+			{9990.96858638745, "H_Beret_grn_SF"}, // 0.03%
+			{9993.97905759164, "H_Beret_grn"}, // 0.03%
+			{9996.98952879582, "H_Beret_red"}, // 0.03%
 			{10000, "H_Beret_blk"} // 0.03%
 		};
 	};
@@ -1876,104 +1876,104 @@ class CfgLootTables
 
 	  Exile_Item_Vishpirin
 	  Exile_Item_Vishpirin
+	  Exile_Item_Can_Empty
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_InstaDoc
 	  Exile_Item_PlasticBottleEmpty
 	  Exile_Item_Vishpirin
 	  Exile_Item_Vishpirin
+	  Exile_Item_PlasticBottleEmpty
 	  Exile_Item_Vishpirin
 	  Exile_Item_Bandage
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_Can_Empty
+	  Exile_Item_Bandage
+	  Exile_Item_Vishpirin
 	  Exile_Item_Vishpirin
 	  Exile_Item_ToiletPaper
-	  Exile_Item_Bandage
-	  Exile_Item_Bandage
-	  Exile_Item_Bandage
-	  Exile_Item_Vishpirin
 	  Exile_Item_Can_Empty
 	  Exile_Item_Vishpirin
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_Bandage
 	  Exile_Item_ToiletPaper
-	  Exile_Item_Vishpirin
-	  Exile_Item_Vishpirin
-	  Exile_Item_ToiletPaper
-	  Exile_Item_Bandage
-	  Exile_Item_Bandage
-	  Exile_Item_ToiletPaper
-	  Exile_Item_Vishpirin
-	  Exile_Item_Bandage
-	  Exile_Item_Vishpirin
-	  Exile_Item_Vishpirin
-	  Exile_Item_Bandage
-	  Exile_Item_Bandage
-	  Exile_Item_Vishpirin
-	  Exile_Item_Vishpirin
-	  Exile_Item_Vishpirin
-	  Exile_Item_Can_Empty
 	  Exile_Item_InstaDoc
 	  Exile_Item_Vishpirin
-	  Exile_Item_Vishpirin
-	  Exile_Item_Vishpirin
+	  Exile_Item_Can_Empty
 	  Exile_Item_ToiletPaper
-	  Exile_Item_Vishpirin
-	  Exile_Item_Vishpirin
+	  Exile_Item_Can_Empty
 	  Exile_Item_Bandage
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_Can_Empty
-	  Exile_Item_Vishpirin
-	  Exile_Item_Can_Empty
-	  Exile_Item_Can_Empty
-	  Exile_Item_Vishpirin
-	  Exile_Item_Vishpirin
-	  Exile_Item_Can_Empty
-	  Exile_Item_Vishpirin
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_Vishpirin
-	  Exile_Item_Vishpirin
-	  Exile_Item_Bandage
-	  Exile_Item_Vishpirin
-	  Exile_Item_ToiletPaper
 	  Exile_Item_Vishpirin
 	  Exile_Item_Vishpirin
 	  Exile_Item_InstaDoc
 	  Exile_Item_Bandage
-	  Exile_Item_Bandage
-	  Exile_Item_Can_Empty
-	  Exile_Item_Vishpirin
-	  Exile_Item_Vishpirin
-	  Exile_Item_Bandage
-	  Exile_Item_Vishpirin
-	  Exile_Item_Bandage
+	  Exile_Item_PlasticBottleEmpty
 	  Exile_Item_ToiletPaper
 	  Exile_Item_InstaDoc
 	  Exile_Item_Bandage
 	  Exile_Item_Vishpirin
-	  Exile_Item_PlasticBottleEmpty
 	  Exile_Item_Vishpirin
+	  Exile_Item_Vishpirin
+	  Exile_Item_Bandage
+	  Exile_Item_Bandage
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_Can_Empty
+	  Exile_Item_Vishpirin
+	  Exile_Item_Can_Empty
+	  Exile_Item_Bandage
+	  Exile_Item_Bandage
+	  Exile_Item_Bandage
+	  Exile_Item_Vishpirin
+	  Exile_Item_Vishpirin
+	  Exile_Item_Vishpirin
+	  Exile_Item_Vishpirin
+	  Exile_Item_Bandage
+	  Exile_Item_Bandage
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_ToiletPaper
+	  Exile_Item_ToiletPaper
+	  Exile_Item_Bandage
+	  Exile_Item_Vishpirin
+	  Exile_Item_Vishpirin
+	  Exile_Item_Vishpirin
+	  Exile_Item_Vishpirin
+	  Exile_Item_Bandage
+	  Exile_Item_ToiletPaper
+	  Exile_Item_Vishpirin
+	  Exile_Item_Bandage
+	  Exile_Item_InstaDoc
+	  Exile_Item_Vishpirin
+	  Exile_Item_Can_Empty
 	  Exile_Item_Vishpirin
 	  Exile_Item_Vishpirin
 	  Exile_Item_ToiletPaper
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_Bandage
-	  Exile_Item_Bandage
-	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_InstaDoc
 	  Exile_Item_Vishpirin
+	  Exile_Item_Vishpirin
+	  Exile_Item_Bandage
+	  Exile_Item_Vishpirin
+	  Exile_Item_ToiletPaper
+	  Exile_Item_Bandage
+	  Exile_Item_Vishpirin
+	  Exile_Item_Vishpirin
+	  Exile_Item_Vishpirin
+	  Exile_Item_Vishpirin
+	  Exile_Item_Vishpirin
+	  Exile_Item_InstaDoc
+	  Exile_Item_ToiletPaper
+	  Exile_Item_Vishpirin
+	  Exile_Item_Bandage
+	  Exile_Item_InstaDoc
+	  Exile_Item_Vishpirin
+	  Exile_Item_ToiletPaper
+	  Exile_Item_ToiletPaper
 	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_PlasticBottleEmpty
+	  Exile_Item_Bandage
+	  Exile_Item_Vishpirin
+	  Exile_Item_Vishpirin
+	  Exile_Item_InstaDoc
 	  Exile_Item_InstaDoc
 	  Exile_Item_Vishpirin
 	  Exile_Item_Bandage
-	  Exile_Item_ToiletPaper
-	  Exile_Item_PlasticBottleEmpty
 	  Exile_Item_Vishpirin
 	  Exile_Item_ToiletPaper
-	  Exile_Item_Can_Empty
-	  Exile_Item_Vishpirin
-	  Exile_Item_Vishpirin
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_Can_Empty
-	  Exile_Item_Bandage
-	  Exile_Item_PlasticBottleEmpty
-	  Exile_Item_Can_Empty
 	*/
 	class Medical
 	{
@@ -1995,106 +1995,106 @@ class CfgLootTables
 	/**
 	  Result of 100 rounds:
 
-	  U_IG_Guerilla2_3
-	  Exile_Item_Bandage
-	  U_IG_leader
-	  Binocular
-	  ItemCompass
-	  ItemRadio
-	  B_Carryall_oucamo
-	  H_Bandanna_gry
-	  H_Booniehat_tan
+	  Exile_Item_PlasticBottleDirtyWater
 	  Exile_Item_MountainDupe
-	  30Rnd_65x39_caseless_mag
-	  B_FieldPack_ocamo
-	  B_Carryall_oucamo
-	  MiniGrenade
-	  Exile_Item_Beer
-	  arifle_TRG20_F
+	  Exile_Item_Cheathas
+	  H_Booniehat_khk
+	  muzzle_snds_338_green
+	  arifle_MXC_Black_F
+	  Binocular
+	  Exile_Item_Vishpirin
+	  H_Booniehat_tan
+	  ItemCompass
+	  B_Bergen_rgr
+	  Exile_Item_Matches
+	  Exile_Item_PowerDrink
+	  Exile_Item_Vishpirin
+	  Exile_Item_Bandage
+	  V_Chestrig_blk
+	  Exile_Item_EMRE
+	  ItemGPS
+	  V_Chestrig_rgr
+	  optic_AMS_snd
+	  ItemGPS
+	  Exile_Item_Matches
+	  V_HarnessOGL_gry
+	  Exile_Item_Noodles
+	  B_Carryall_oli
+	  U_IG_Guerilla2_2
+	  ItemCompass
+	  H_HelmetB_camo
+	  Exile_Item_Moobar
+	  20Rnd_762x51_Mag
+	  V_Chestrig_khk
+	  APERSTripMine_Wire_Mag
+	  30Rnd_556x45_Stanag
 	  NVGoggles
-	  H_Cap_khaki_specops_UK
+	  Exile_Item_EnergyDrink
+	  Exile_Item_Bandage
 	  B_Carryall_khk
+	  B_Carryall_oucamo
+	  H_Booniehat_dgtl
+	  20Rnd_556x45_UW_mag
+	  Exile_Item_ZipTie
+	  arifle_MX_F
+	  HandGrenade
+	  B_FieldPack_ocamo
+	  B_FieldPack_ocamo
+	  ItemRadio
+	  Exile_Item_Vishpirin
+	  ItemWatch
+	  Binocular
+	  Exile_Item_InstaDoc
+	  B_Carryall_khk
+	  10Rnd_338_Mag
+	  V_HarnessOSpec_brn
+	  30Rnd_556x45_Stanag_Tracer_Red
+	  30Rnd_556x45_Stanag
+	  U_IG_Guerilla1_1
+	  U_IG_Guerilla2_2
+	  Exile_Item_Vishpirin
+	  U_IG_Guerilla2_2
+	  B_Bergen_sgg
+	  V_BandollierB_blk
+	  Binocular
+	  B_Carryall_khk
+	  H_HelmetSpecB_blk
+	  Exile_Item_Beer
+	  Exile_Item_Noodles
+	  ItemWatch
+	  Exile_Item_Bandage
+	  arifle_SDAR_F
+	  H_HelmetCrew_I
+	  NVGoggles
+	  ItemRadio
+	  HandGrenade
+	  ItemRadio
 	  30Rnd_65x39_caseless_mag_Tracer
+	  B_Bergen_rgr
+	  Binocular
 	  Exile_Item_PlasticBottleFreshWater
 	  Exile_Item_Bandage
-	  30Rnd_65x39_caseless_mag_Tracer
-	  B_Carryall_ocamo
-	  30Rnd_65x39_caseless_green
-	  V_BandollierB_blk
-	  ItemCompass
-	  Exile_Item_CatFood
-	  Rangefinder
-	  Exile_Item_Beer
-	  Exile_Item_Raisins
-	  B_Bergen_blk
-	  Binocular
-	  ItemWatch
-	  Exile_Item_Vishpirin
-	  arifle_MX_F
-	  H_TurbanO_blk
 	  U_IG_Guerilla2_1
-	  NVGoggles
-	  Exile_Item_ZipTie
-	  V_Chestrig_rgr
-	  ItemGPS
-	  ItemCompass
-	  B_Carryall_cbr
+	  Exile_Item_PlasticBottleFreshWater
+	  U_I_G_resistanceLeader_F
+	  30Rnd_556x45_Stanag_Tracer_Green
+	  Exile_Item_Vishpirin
+	  HandGrenade
+	  U_I_FullGhillie_ard
+	  ItemWatch
+	  V_HarnessOSpec_gry
+	  V_HarnessOGL_brn
+	  10Rnd_338_Mag
 	  arifle_Mk20_GL_F
-	  Exile_Item_Matches
-	  Exile_Item_MountainDupe
-	  20Rnd_556x45_UW_mag
-	  arifle_MX_F
-	  Exile_Item_Vishpirin
-	  U_IG_Guerilla1_1
-	  Exile_Item_BBQSandwich
-	  Exile_Item_MountainDupe
-	  arifle_TRG21_GL_F
-	  U_IG_Guerilla1_1
-	  ItemWatch
 	  B_Carryall_cbr
 	  Exile_Item_EnergyDrink
-	  30Rnd_65x39_caseless_mag
-	  NVGoggles
-	  Exile_Item_Vishpirin
-	  H_HelmetIA_net
-	  B_Carryall_oucamo
-	  B_Bergen_mcamo
-	  Exile_Item_BBQSandwich
-	  Exile_Item_MountainDupe
-	  Exile_Item_Bandage
-	  B_FieldPack_blk
-	  U_IG_Guerilla3_1
-	  B_Carryall_ocamo
-	  V_BandollierB_oli
-	  H_Shemag_olive_hs
-	  B_Bergen_mcamo
-	  Binocular
-	  5Rnd_127x108_Mag
-	  Exile_Item_PlasticBottleDirtyWater
-	  ItemRadio
-	  Exile_Item_ZipTie
-	  V_BandollierB_rgr
-	  H_Booniehat_khk
-	  B_Carryall_ocamo
-	  HandGrenade
-	  H_Cap_brn_SPECOPS
-	  ItemGPS
-	  H_Bandanna_khk
-	  APERSTripMine_Wire_Mag
-	  U_IG_Guerilla2_1
-	  HandGrenade
-	  V_BandollierB_oli
-	  arifle_MXC_Black_F
+	  Exile_Item_Beer
+	  muzzle_snds_B
+	  H_HelmetB_light_snakeskin
 	  Exile_Item_EnergyDrink
-	  30Rnd_556x45_Stanag_Tracer_Yellow
-	  Exile_Item_Noodles
-	  Exile_Item_Vishpirin
-	  Exile_Item_EnergyDrink
-	  optic_LRPS
-	  Exile_Item_CookingPot
-	  30Rnd_556x45_Stanag
-	  H_Booniehat_dgtl
-	  Exile_Item_Cheathas
+	  B_Carryall_cbr
+	  ItemWatch
+	  V_Chestrig_rgr
 	*/
 	class Tourist
 	{

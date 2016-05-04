@@ -64,17 +64,17 @@
 // Spawn Guerilla things :)
 ///////////////////////////////////////////////////////////////////////////////
 > CivillianLowerClass
-20, Trash
+10, Trash
 28, Food
 25, Drinks
-16, Pistols
-15, PistolAmmo
-3, PistolAttachments
-14, SMG
-13, SMGAmmo
+24, Pistols
+22, PistolAmmo
+23, PistolAttachments
+20, SMG
+20, SMGAmmo
 3, SMGAttachments
-3, Rifles
-3, RifleAmmo
+13, Rifles
+13, RifleAmmo
 3, RifleAttachments
 20, CivilianClothing
 11, CivilianBackpacks
@@ -94,17 +94,17 @@
 // Apartments, Offices etc.
 ///////////////////////////////////////////////////////////////////////////////
 > CivillianUpperClass
-20, Trash
-28, Food
-10, Drinks
+10, Trash
+30, Food
+20, Drinks
 8, Pistols
 5, PistolAmmo
 3, PistolAttachments
 14, SMG
 13, SMGAmmo
 13, SMGAttachments
-13, Rifles
-13, RifleAmmo
+20, Rifles
+20, RifleAmmo
 6, RifleAttachments
 20, CivilianClothing
 11, CivilianBackpacks
@@ -184,9 +184,9 @@
 5, Chemlights
 10, Rifles
 10, RifleAmmo
-15, SMG
-11, SMGAmmo
-10, SMGAttachments
+17, SMG
+17, SMGAmmo
+17, SMGAttachments
 
 ///////////////////////////////////////////////////////////////////////////////
 // Towers, Barracks, Hangars etc.
@@ -214,8 +214,8 @@
 10, Ghillies
 10, DLCGhillies
 1, Rebreathers
-35, Rifles
-33, RifleAmmo
+39, Rifles
+39, RifleAmmo
 33, RifleAttachments
 25, LMG
 25, LMGAmmo
