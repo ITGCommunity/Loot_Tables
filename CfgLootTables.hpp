@@ -2334,3 +2334,4 @@ class CfgLootTables
 	};
 
 };
+//// might possibly separate everything up
