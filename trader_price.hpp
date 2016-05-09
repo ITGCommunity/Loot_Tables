@@ -5,16 +5,16 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Civillian Clothing
 	///////////////////////////////////////////////////////////////////////////////
-	class U_C_Journalist 							{ quality = 1; price = 20; };
-	class U_C_Poloshirt_blue 						{ quality = 1; price = 20; };
-	class U_C_Poloshirt_burgundy 					{ quality = 1; price = 20; };
-	class U_C_Poloshirt_salmon 						{ quality = 1; price = 20; };
-	class U_C_Poloshirt_stripped 					{ quality = 1; price = 20; };
-	class U_C_Poloshirt_tricolour 					{ quality = 1; price = 20; };
-	class U_C_Poor_1 								{ quality = 1; price = 20; };
-	class U_C_Poor_2 								{ quality = 1; price = 20; };
-	class U_C_Poor_shorts_1 						{ quality = 1; price = 20; };
-	class U_C_Scientist 							{ quality = 1; price = 20; };
+	class U_C_Journalist 							{ quality = 1; price = 40; };
+	class U_C_Poloshirt_blue 						{ quality = 1; price = 40; };
+	class U_C_Poloshirt_burgundy 					{ quality = 1; price = 40; };
+	class U_C_Poloshirt_salmon 						{ quality = 1; price = 40; };
+	class U_C_Poloshirt_stripped 					{ quality = 1; price = 40; };
+	class U_C_Poloshirt_tricolour 					{ quality = 1; price = 40; };
+	class U_C_Poor_1 								{ quality = 1; price = 40; };
+	class U_C_Poor_2 								{ quality = 1; price = 40; };
+	class U_C_Poor_shorts_1 						{ quality = 1; price = 40; };
+	class U_C_Scientist 							{ quality = 1; price = 40; };
 	class U_OrestesBody 							{ quality = 3; price = 40; };
 	class U_Rangemaster 							{ quality = 1; price = 40; };
 	class U_NikosAgedBody 							{ quality = 3; price = 40; };
@@ -28,15 +28,15 @@ class CfgExileArsenal
 	class U_B_CombatUniform_mcam_tshirt 			{ quality = 1; price = 40; };
 	class U_B_CombatUniform_mcam_vest 				{ quality = 1; price = 40; };
 	class U_B_CombatUniform_mcam_worn 				{ quality = 1; price = 40; };
-	class U_B_CTRG_1 								{ quality = 2; price = 40; };
-	class U_B_CTRG_2 								{ quality = 2; price = 40; };
-	class U_B_CTRG_3								{ quality = 2; price = 40; };
+	class U_B_CTRG_1 								{ quality = 2; price = 60; };
+	class U_B_CTRG_2 								{ quality = 2; price = 60; };
+	class U_B_CTRG_3								{ quality = 2; price = 60; };
 	class U_I_CombatUniform 						{ quality = 1; price = 40; };
-	class U_I_CombatUniform_shortsleeve				{ quality = 1; price = 40; };
-	class U_I_CombatUniform_tshirt					{ quality = 1; price = 40; };
-	class U_I_OfficerUniform						{ quality = 1; price = 40; };
-	class U_O_CombatUniform_ocamo 					{ quality = 1; price = 40; };
-	class U_O_CombatUniform_oucamo 					{ quality = 1; price = 40; };
+	class U_I_CombatUniform_shortsleeve				{ quality = 1; price = 60; };
+	class U_I_CombatUniform_tshirt					{ quality = 1; price = 50; };
+	class U_I_OfficerUniform						{ quality = 1; price = 50; };
+	class U_O_CombatUniform_ocamo 					{ quality = 1; price = 70; };
+	class U_O_CombatUniform_oucamo 					{ quality = 1; price = 70; };
 	class U_O_OfficerUniform_ocamo 					{ quality = 3; price = 80; };
 	class U_B_SpecopsUniform_sgg 					{ quality = 3; price = 80; };
 	class U_O_SpecopsUniform_blk 					{ quality = 3; price = 80; };
@@ -47,8 +47,8 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Guerilla Uniforms
 	///////////////////////////////////////////////////////////////////////////////
-	class U_C_HunterBody_grn						{ quality = 1; price = 40; };
-	class U_IG_Guerilla1_1							{ quality = 1; price = 40; };
+	class U_C_HunterBody_grn						{ quality = 1; price = 45; };
+	class U_IG_Guerilla1_1							{ quality = 1; price = 45; };
 	class U_IG_Guerilla2_1							{ quality = 2; price = 60; };
 	class U_IG_Guerilla2_2							{ quality = 1; price = 40; };
 	class U_IG_Guerilla2_3							{ quality = 1; price = 40; };
@@ -355,9 +355,9 @@ class CfgExileArsenal
 	class optic_KHS_hex								{ quality = 3; price = 300; };
 	class optic_KHS_old								{ quality = 3; price = 300; };
 	class optic_KHS_tan								{ quality = 3; price = 300; };
-	class optic_LRPS								{ quality = 2; price = 300; };
+	class optic_LRPS								{ quality = 2; price = 500; };
 	class optic_MRCO								{ quality = 1; price = 100; };
-	class optic_MRD									{ quality = 1; price = 10; };
+	class optic_MRD									{ quality = 1; price = 20; };
 	class optic_Nightstalker						{ quality = 3; price = 1000; };
 	class optic_NVS									{ quality = 2; price = 500; };
 	class optic_SOS									{ quality = 2; price = 200; };
@@ -377,7 +377,7 @@ class CfgExileArsenal
 	class Exile_Item_MetalBoard						{ quality = 1; price = 600; };
 	//class Exile_Item_MetalHedgehogKit				{ quality = 1; price = 1200; };
 	class Exile_Item_SafeKit						{ quality = 3; price = 10000; };
-	class Exile_Item_CodeLock						{ quality = 2; price = 5000; };
+	class Exile_Item_CodeLock						{ quality = 2; price = 4500; };
 	//class Exile_Item_Laptop						{ quality = 2; price = 9000; };
 	//class Exile_Item_BaseCameraKit				{ quality = 2; price = 5000; };
 	class Exile_Item_CamoTentKit					{ quality = 1; price = 250; };
@@ -411,9 +411,9 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Drinks
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Item_PlasticBottleCoffee	 		{ quality = 3; price = 40; }; //100, 60
+	class Exile_Item_PlasticBottleCoffee	 		{ quality = 3; price = 50; }; //100, 60
 	class Exile_Item_PowerDrink						{ quality = 3; price = 60; }; //95, 10
-	class Exile_Item_PlasticBottleFreshWater 		{ quality = 2; price = 50; sellPrice = 4; }; //80, 15
+	class Exile_Item_PlasticBottleFreshWater 		{ quality = 2; price = 40; sellPrice = 4; }; //80, 15
 	class Exile_Item_Beer 							{ quality = 1; price = 50; }; //75, 30
 	class Exile_Item_EnergyDrink					{ quality = 1; price = 40; }; //75, 20
 	class Exile_Item_MountainDupe					{ quality = 1; price = 30; }; //50, 20
@@ -749,28 +749,28 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// QUAD BIKES
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Bike_QuadBike_Black					{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_Blue					{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_Red					{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_White					{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_Nato					{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_Csat					{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_Fia					{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_Guerilla01			{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_Guerilla02			{ quality = 1; price = 2500; };
+	class Exile_Bike_QuadBike_Black					{ quality = 1; price = 1200; };
+	class Exile_Bike_QuadBike_Blue					{ quality = 1; price = 1200; };
+	class Exile_Bike_QuadBike_Red					{ quality = 1; price = 1200; };
+	class Exile_Bike_QuadBike_White					{ quality = 1; price = 1200; };
+	class Exile_Bike_QuadBike_Nato					{ quality = 1; price = 1200; };
+	class Exile_Bike_QuadBike_Csat					{ quality = 1; price = 1200; };
+	class Exile_Bike_QuadBike_Fia					{ quality = 1; price = 1200; };
+	class Exile_Bike_QuadBike_Guerilla01			{ quality = 1; price = 1200; };
+	class Exile_Bike_QuadBike_Guerilla02			{ quality = 1; price = 1200; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// KARTS
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Kart_BluKing					{ quality = 1; price = 1100; };
-	class Exile_Car_Kart_RedStone					{ quality = 1; price = 1100; };
-	class Exile_Car_Kart_Vrana						{ quality = 1; price = 1100; };
-	class Exile_Car_Kart_Green						{ quality = 1; price = 1100; };
-	class Exile_Car_Kart_Blue						{ quality = 1; price = 1100; };
-	class Exile_Car_Kart_Orange						{ quality = 1; price = 1100; };
-	class Exile_Car_Kart_White						{ quality = 1; price = 1100; };
-	class Exile_Car_Kart_Yellow						{ quality = 1; price = 1100; };
-	class Exile_Car_Kart_Black						{ quality = 1; price = 1100; };
+	class Exile_Car_Kart_BluKing					{ quality = 1; price = 900; };
+	class Exile_Car_Kart_RedStone					{ quality = 1; price = 900; };
+	class Exile_Car_Kart_Vrana						{ quality = 1; price = 900; };
+	class Exile_Car_Kart_Green						{ quality = 1; price = 900; };
+	class Exile_Car_Kart_Blue						{ quality = 1; price = 900; };
+	class Exile_Car_Kart_Orange						{ quality = 1; price = 900; };
+	class Exile_Car_Kart_White						{ quality = 1; price = 900; };
+	class Exile_Car_Kart_Yellow						{ quality = 1; price = 900; };
+	class Exile_Car_Kart_Black						{ quality = 1; price = 900; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// MOTOR BOATS
@@ -938,59 +938,59 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// UAZ
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_UAZ_Green				{ quality = 1; price = 7000; };
+	class Exile_Car_UAZ_Green				{ quality = 1; price = 3000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// UAZ (Open)
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_UAZ_Open_Green			{ quality = 1; price = 8000; };
+	class Exile_Car_UAZ_Open_Green			{ quality = 1; price = 3500; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Land Rover
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_LandRover_Red 				{ quality = 1; price = 11000; };
-	class Exile_Car_LandRover_Urban 			{ quality = 1; price = 11000; };
-	class Exile_Car_LandRover_Green 			{ quality = 1; price = 11000; };
-	class Exile_Car_LandRover_Sand 				{ quality = 1; price = 11000; };
-	class Exile_Car_LandRover_Desert 			{ quality = 1; price = 11000; };
+	class Exile_Car_LandRover_Red 				{ quality = 1; price = 9000; };
+	class Exile_Car_LandRover_Urban 			{ quality = 1; price = 9000; };
+	class Exile_Car_LandRover_Green 			{ quality = 1; price = 9000; };
+	class Exile_Car_LandRover_Sand 				{ quality = 1; price = 9000; };
+	class Exile_Car_LandRover_Desert 			{ quality = 1; price = 9000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Land Rover (Ambulance)
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_LandRover_Ambulance_Green		{ quality = 1; price = 12000; };
-	class Exile_Car_LandRover_Ambulance_Desert		{ quality = 1; price = 12000; };
-	class Exile_Car_LandRover_Ambulance_Sand		{ quality = 1; price = 12000; };
+	class Exile_Car_LandRover_Ambulance_Green		{ quality = 1; price = 8000; };
+	class Exile_Car_LandRover_Ambulance_Desert		{ quality = 1; price = 8000; };
+	class Exile_Car_LandRover_Ambulance_Sand		{ quality = 1; price = 8000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Lada
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Lada_Green 				{ quality = 1; price = 6000; };
-	class Exile_Car_Lada_Taxi 				{ quality = 1; price = 6000; };
-	class Exile_Car_Lada_Red 				{ quality = 1; price = 6000; };
-	class Exile_Car_Lada_White 				{ quality = 1; price = 6000; };
-	class Exile_Car_Lada_Hipster 			{ quality = 1; price = 6000; };
+	class Exile_Car_Lada_Green 				{ quality = 1; price = 4500; };
+	class Exile_Car_Lada_Taxi 				{ quality = 1; price = 4500; };
+	class Exile_Car_Lada_Red 				{ quality = 1; price = 4500; };
+	class Exile_Car_Lada_White 				{ quality = 1; price = 4500; };
+	class Exile_Car_Lada_Hipster 			{ quality = 1; price = 4500; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Volha
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Volha_Blue				{ quality = 1; price = 6000; };
-	class Exile_Car_Volha_White				{ quality = 1; price = 6000; };
-	class Exile_Car_Volha_Black				{ quality = 1; price = 6000; };
+	class Exile_Car_Volha_Blue				{ quality = 1; price = 4500; };
+	class Exile_Car_Volha_White				{ quality = 1; price = 4500; };
+	class Exile_Car_Volha_Black				{ quality = 1; price = 4500; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Hatchback (Sport)
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Hatchback_Sport_Red					{ quality = 1; price = 14000; };
-	class Exile_Car_Hatchback_Sport_Blue				{ quality = 1; price = 14000; };
-	class Exile_Car_Hatchback_Sport_Orange				{ quality = 1; price = 14000; };
-	class Exile_Car_Hatchback_Sport_White				{ quality = 1; price = 14000; };
-	class Exile_Car_Hatchback_Sport_Beige				{ quality = 1; price = 14000; };
-	class Exile_Car_Hatchback_Sport_Green				{ quality = 1; price = 14000; };
+	class Exile_Car_Hatchback_Sport_Red					{ quality = 1; price = 9000; };
+	class Exile_Car_Hatchback_Sport_Blue				{ quality = 1; price = 9000; };
+	class Exile_Car_Hatchback_Sport_Orange				{ quality = 1; price = 9000; };
+	class Exile_Car_Hatchback_Sport_White				{ quality = 1; price = 9000; };
+	class Exile_Car_Hatchback_Sport_Beige				{ quality = 1; price = 9000; };
+	class Exile_Car_Hatchback_Sport_Green				{ quality = 1; price = 9000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// HEMMT
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_HEMMT 								{ quality = 1; price = 48000; };
+	class Exile_Car_HEMMT 								{ quality = 1; price = 35000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Hunter
@@ -1000,89 +1000,88 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Ifrit
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Ifrit 								{ quality = 1; price = 23000; };
+	class Exile_Car_Ifrit 								{ quality = 1; price = 20000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Offroad
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Offroad_Red							{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Beige						{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_White						{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Blue						{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_DarkRed						{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_BlueCustom					{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Guerilla01					{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Guerilla02					{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Guerilla03					{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Guerilla04					{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Guerilla05					{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Guerilla06					{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Guerilla07					{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Guerilla08					{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Guerilla09					{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Guerilla10					{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Guerilla11					{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Guerilla12					{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Rusty1						{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Rusty2						{ quality = 1; price = 16000; };
-	class Exile_Car_Offroad_Rusty3						{ quality = 1; price = 16000; };
+	class Exile_Car_Offroad_Red							{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Beige						{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_White						{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Blue						{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_DarkRed						{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_BlueCustom					{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Guerilla01					{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Guerilla02					{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Guerilla03					{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Guerilla04					{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Guerilla05					{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Guerilla06					{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Guerilla07					{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Guerilla08					{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Guerilla09					{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Guerilla10					{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Guerilla11					{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Guerilla12					{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Rusty1						{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Rusty2						{ quality = 1; price = 9500; };
+	class Exile_Car_Offroad_Rusty3						{ quality = 1; price = 9500; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Offroad (Armed)
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Offroad_Armed_Guerilla01 			{ quality = 1; price = 25000; };
-	class Exile_Car_Offroad_Armed_Guerilla02 			{ quality = 1; price = 25000; };
-	class Exile_Car_Offroad_Armed_Guerilla03 			{ quality = 1; price = 25000; };
-	class Exile_Car_Offroad_Armed_Guerilla04 			{ quality = 1; price = 25000; };
-	class Exile_Car_Offroad_Armed_Guerilla05 			{ quality = 1; price = 25000; };
-	class Exile_Car_Offroad_Armed_Guerilla06 			{ quality = 1; price = 25000; };
-	class Exile_Car_Offroad_Armed_Guerilla07 			{ quality = 1; price = 25000; };
-	class Exile_Car_Offroad_Armed_Guerilla08 			{ quality = 1; price = 25000; };
-	class Exile_Car_Offroad_Armed_Guerilla09 			{ quality = 1; price = 25000; };
-	class Exile_Car_Offroad_Armed_Guerilla10 			{ quality = 1; price = 25000; };
-	class Exile_Car_Offroad_Armed_Guerilla11 			{ quality = 1; price = 25000; };
-	class Exile_Car_Offroad_Armed_Guerilla12 			{ quality = 1; price = 25000; };
+	class Exile_Car_Offroad_Armed_Guerilla01 			{ quality = 1; price = 15000; };
+	class Exile_Car_Offroad_Armed_Guerilla02 			{ quality = 1; price = 15000; };
+	class Exile_Car_Offroad_Armed_Guerilla03 			{ quality = 1; price = 15000; };
+	class Exile_Car_Offroad_Armed_Guerilla04 			{ quality = 1; price = 15000; };
+	class Exile_Car_Offroad_Armed_Guerilla05 			{ quality = 1; price = 15000; };
+	class Exile_Car_Offroad_Armed_Guerilla06 			{ quality = 1; price = 15000; };
+	class Exile_Car_Offroad_Armed_Guerilla07 			{ quality = 1; price = 15000; };
+	class Exile_Car_Offroad_Armed_Guerilla08 			{ quality = 1; price = 15000; };
+	class Exile_Car_Offroad_Armed_Guerilla09 			{ quality = 1; price = 15000; };
+	class Exile_Car_Offroad_Armed_Guerilla10 			{ quality = 1; price = 15000; };
+	class Exile_Car_Offroad_Armed_Guerilla11 			{ quality = 1; price = 15000; };
+	class Exile_Car_Offroad_Armed_Guerilla12 			{ quality = 1; price = 15000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Offroad (Repair)
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Offroad_Repair_Civillian 			{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_Red 					{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_Beige 				{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_White 				{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_Blue 				{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_DarkRed 				{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_BlueCustom 			{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_Guerilla01 			{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_Guerilla02 			{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_Guerilla03 			{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_Guerilla04 			{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_Guerilla05 			{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_Guerilla06 			{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_Guerilla07 			{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_Guerilla08 			{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_Guerilla09 			{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_Guerilla10 			{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_Guerilla11 			{ quality = 1; price = 12500; };
-	class Exile_Car_Offroad_Repair_Guerilla12 			{ quality = 1; price = 12500; };
-
+	class Exile_Car_Offroad_Repair_Civillian 			{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_Red 					{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_Beige 				{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_White 				{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_Blue 				{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_DarkRed 				{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_BlueCustom 			{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_Guerilla01 			{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_Guerilla02 			{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_Guerilla03 			{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_Guerilla04 			{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_Guerilla05 			{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_Guerilla06 			{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_Guerilla07 			{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_Guerilla08 			{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_Guerilla09 			{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_Guerilla10 			{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_Guerilla11 			{ quality = 1; price = 10500; };
+	class Exile_Car_Offroad_Repair_Guerilla12 			{ quality = 1; price = 10500; };0
 	///////////////////////////////////////////////////////////////////////////////
 	// Strider
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Strider 							{ quality = 1; price = 44000; };
+	class Exile_Car_Strider 							{ quality = 1; price = 35000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// SUV
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_SUV_Red 							{ quality = 1; price = 14000; };
-	class Exile_Car_SUV_Black 							{ quality = 1; price = 14000; };
-	class Exile_Car_SUV_Grey 							{ quality = 1; price = 14000; };
-	class Exile_Car_SUV_Orange 							{ quality = 1; price = 14000; };
+	class Exile_Car_SUV_Red 							{ quality = 1; price = 7500; };
+	class Exile_Car_SUV_Black 							{ quality = 1; price = 7500; };
+	class Exile_Car_SUV_Grey 							{ quality = 1; price = 7500; };
+	class Exile_Car_SUV_Orange 							{ quality = 1; price = 7500; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Tempest
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Tempest 							{ quality = 1; price = 48300; };
+	class Exile_Car_Tempest 							{ quality = 1; price = 36300; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Van 
@@ -1127,5 +1126,5 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Zamak
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Zamak 								{ quality = 1; price = 43000; };
+	class Exile_Car_Zamak 								{ quality = 1; price = 38000; };
 };
