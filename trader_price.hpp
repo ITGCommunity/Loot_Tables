@@ -62,22 +62,22 @@ class CfgExileArsenal
 	class U_BG_Guerilla3_1							{ quality = 1; price = 40; };
 	class U_BG_leader								{ quality = 1; price = 40; };
 	class U_IG_leader								{ quality = 1; price = 40; };
-	class U_I_G_resistanceLeader_F					{ quality = 3; price = 100; };
+	class U_I_G_resistanceLeader_F					{ quality = 3; price = 90; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Ghillie Suits
 	///////////////////////////////////////////////////////////////////////////////
-	class U_B_FullGhillie_ard						{ quality = 3; price = 1500; };
-	class U_B_FullGhillie_lsh						{ quality = 3; price = 1500; };
-	class U_B_FullGhillie_sard						{ quality = 3; price = 1500; };
-	class U_B_GhillieSuit							{ quality = 2; price = 1000; };
-	class U_I_FullGhillie_ard						{ quality = 3; price = 1500; };
-	class U_I_FullGhillie_lsh						{ quality = 3; price = 1500; };
-	class U_I_FullGhillie_sard						{ quality = 3; price = 1500; };
+	class U_B_FullGhillie_ard						{ quality = 3; price = 1200; };
+	class U_B_FullGhillie_lsh						{ quality = 3; price = 1200; };
+	class U_B_FullGhillie_sard						{ quality = 3; price = 1200; };
+	class U_B_GhillieSuit							{ quality = 2; price = 1200; };
+	class U_I_FullGhillie_ard						{ quality = 3; price = 1200; };
+	class U_I_FullGhillie_lsh						{ quality = 3; price = 1200; };
+	class U_I_FullGhillie_sard						{ quality = 3; price = 1200; };
 	class U_I_GhillieSuit							{ quality = 2; price = 1000; };
-	class U_O_FullGhillie_ard						{ quality = 3; price = 1500; };
-	class U_O_FullGhillie_lsh						{ quality = 3; price = 1500; };
-	class U_O_FullGhillie_sard						{ quality = 3; price = 1500; };
+	class U_O_FullGhillie_ard						{ quality = 3; price = 1200; };
+	class U_O_FullGhillie_lsh						{ quality = 3; price = 1200; };
+	class U_O_FullGhillie_sard						{ quality = 3; price = 1200; };
 	class U_O_GhillieSuit							{ quality = 2; price = 1000; };
 
 	///////////////////////////////////////////////////////////////////////////////
@@ -100,16 +100,16 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Chestrigs
 	///////////////////////////////////////////////////////////////////////////////
-	class V_Chestrig_blk 							{ quality = 1; price = 30; };
-	class V_Chestrig_khk 							{ quality = 1; price = 30; };
-	class V_Chestrig_oli 							{ quality = 1; price = 30; };
-	class V_Chestrig_rgr 							{ quality = 1; price = 30; };
+	class V_Chestrig_blk 							{ quality = 1; price = 40; };
+	class V_Chestrig_khk 							{ quality = 1; price = 40; };
+	class V_Chestrig_oli 							{ quality = 1; price = 40; };
+	class V_Chestrig_rgr 							{ quality = 1; price = 40; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Vests
 	///////////////////////////////////////////////////////////////////////////////
-	class V_Press_F									{ quality = 1; price = 10; };
-	class V_Rangemaster_belt						{ quality = 1; price = 6; };
+	class V_Press_F									{ quality = 1; price = 20; };
+	class V_Rangemaster_belt						{ quality = 1; price = 10; };
 	class V_TacVest_blk								{ quality = 2; price = 50; };
 	class V_TacVest_blk_POLICE						{ quality = 3; price = 50; };
 	class V_TacVest_brn								{ quality = 2; price = 50; };
@@ -291,20 +291,20 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Pointer Attachments
 	///////////////////////////////////////////////////////////////////////////////
-	class acc_flashlight 							{ quality = 1; price = 4; };
+	class acc_flashlight 							{ quality = 1; price = 6; };
 	class acc_pointer_IR 							{ quality = 1; price = 10; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Bitpod Attachments
 	///////////////////////////////////////////////////////////////////////////////
-	class bipod_01_F_blk	 						{ quality = 1; price = 10; };
-	class bipod_01_F_mtp	 						{ quality = 1; price = 10; };
-	class bipod_01_F_snd	 						{ quality = 1; price = 10; };
-	class bipod_02_F_blk	 						{ quality = 1; price = 10; };
-	class bipod_02_F_hex	 						{ quality = 1; price = 10; };
-	class bipod_02_F_tan	 						{ quality = 1; price = 10; };
-	class bipod_03_F_blk	 						{ quality = 1; price = 10; };
-	class bipod_03_F_oli	 						{ quality = 1; price = 10; };
+	class bipod_01_F_blk	 						{ quality = 1; price = 15; };
+	class bipod_01_F_mtp	 						{ quality = 1; price = 15; };
+	class bipod_01_F_snd	 						{ quality = 1; price = 15; };
+	class bipod_02_F_blk	 						{ quality = 1; price = 15; };
+	class bipod_02_F_hex	 						{ quality = 1; price = 15; };
+	class bipod_02_F_tan	 						{ quality = 1; price = 15; };
+	class bipod_03_F_blk	 						{ quality = 1; price = 15; };
+	class bipod_03_F_oli	 						{ quality = 1; price = 15; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Muzzle Attachments
@@ -319,8 +319,8 @@ class CfgExileArsenal
 	class muzzle_snds_H 							{ quality = 2; price = 20; };
 	class muzzle_snds_H_MG 							{ quality = 2; price = 20; };
 	class muzzle_snds_H_SW 							{ quality = 2; price = 20; };
-	class muzzle_snds_L 							{ quality = 1; price = 10; };
-	class muzzle_snds_M 							{ quality = 1; price = 10; };
+	class muzzle_snds_L 							{ quality = 1; price = 15; };
+	class muzzle_snds_M 							{ quality = 1; price = 15; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// UAVS
@@ -422,8 +422,8 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// First Aid
 	///////////////////////////////////////////////////////////////////////////////	
-	class Exile_Item_InstaDoc                       { quality = 1; price = 1250; };
-	class Exile_Item_Vishpirin						{ quality = 1; price = 300; };
+	class Exile_Item_InstaDoc                       { quality = 1; price = 950; };
+	class Exile_Item_Vishpirin						{ quality = 1; price = 250; };
 	class Exile_Item_Bandage	                    { quality = 1; price = 100; };
 	class Exile_Item_Heatpack	                    { quality = 1; price = 50; };
 
@@ -435,7 +435,7 @@ class CfgExileArsenal
 	class Exile_Item_Matches 						{ quality = 1; price = 60; };
 	class Exile_Item_CookingPot						{ quality = 2; price = 80; };
 	class Exile_Melee_Axe							{ quality = 1; price = 100; };
-	class Exile_Item_CanOpener						{ quality = 1; price = 80; };
+	class Exile_Item_CanOpener						{ quality = 1; price = 60; };
 	class Exile_Item_Handsaw						{ quality = 1; price = 500; };
 	class Exile_Item_Pliers							{ quality = 1; price = 350; };
 	class Exile_Item_Grinder						{ quality = 1; price = 1250; };
@@ -472,7 +472,7 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Watch out for a Walter fart! He has gas!
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Headgear_GasMask					{ quality = 3; price = 500; };
+	class Exile_Headgear_GasMask					{ quality = 3; price = 300; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Rebreather
@@ -543,7 +543,7 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Ammunition
 	///////////////////////////////////////////////////////////////////////////////
-	class 100Rnd_65x39_caseless_mag 				{ quality = 1; price = 30; };
+	class 100Rnd_65x39_caseless_mag 				{ quality = 1; price = 40; };
 	class 100Rnd_65x39_caseless_mag_Tracer 			{ quality = 2; price = 40; };
 	class 10Rnd_127x54_Mag 							{ quality = 1; price = 30; };
 	// Broken in Arma
@@ -608,12 +608,12 @@ class CfgExileArsenal
 	// Smokes
 	///////////////////////////////////////////////////////////////////////////////
 	class SmokeShell								{ quality = 1; price = 6; };
-	class SmokeShellBlue							{ quality = 1; price = 6; };
-	class SmokeShellGreen							{ quality = 1; price = 6; };
-	class SmokeShellOrange							{ quality = 1; price = 6; };
-	class SmokeShellPurple							{ quality = 1; price = 6; };
-	class SmokeShellRed								{ quality = 1; price = 6; };
-	class SmokeShellYellow							{ quality = 1; price = 6; };
+	class SmokeShellBlue							{ quality = 1; price = 10; };
+	class SmokeShellGreen							{ quality = 1; price = 10; };
+	class SmokeShellOrange							{ quality = 1; price = 10; };
+	class SmokeShellPurple							{ quality = 1; price = 10; };
+	class SmokeShellRed								{ quality = 1; price = 10; };
+	class SmokeShellYellow							{ quality = 1; price = 10; };
 	class 1Rnd_Smoke_Grenade_shell					{ quality = 2; price = 8; };
 	class 1Rnd_SmokeBlue_Grenade_shell				{ quality = 2; price = 8; };
 	class 1Rnd_SmokeGreen_Grenade_shell				{ quality = 2; price = 8; };
@@ -642,13 +642,13 @@ class CfgExileArsenal
 	class APERSBoundingMine_Range_Mag				{ quality = 3; price = 500; };
 	class APERSMine_Range_Mag						{ quality = 3; price = 600; };
 	class APERSTripMine_Wire_Mag					{ quality = 3; price = 300; };
-	class ClaymoreDirectionalMine_Remote_Mag		{ quality = 3; price = 350; };
-	class DemoCharge_Remote_Mag						{ quality = 3; price = 700; };
-	class IEDLandBig_Remote_Mag						{ quality = 3; price = 600; };
-	class IEDLandSmall_Remote_Mag					{ quality = 3; price = 300; };
+	class ClaymoreDirectionalMine_Remote_Mag		{ quality = 3; price = 450; };
+	class DemoCharge_Remote_Mag						{ quality = 3; price = 1000; };
+	class IEDLandBig_Remote_Mag						{ quality = 3; price = 800; };
+	class IEDLandSmall_Remote_Mag					{ quality = 3; price = 400; };
 	class IEDUrbanBig_Remote_Mag					{ quality = 3; price = 800; };
-	class IEDUrbanSmall_Remote_Mag					{ quality = 3; price = 400; };
-	class SatchelCharge_Remote_Mag					{ quality = 3; price = 1000; };
+	class IEDUrbanSmall_Remote_Mag					{ quality = 3; price = 600; };
+	class SatchelCharge_Remote_Mag					{ quality = 3; price = 2000; };
 	class SLAMDirectionalMine_Wire_Mag				{ quality = 3; price = 700; };
 	
 	///////////////////////////////////////////////////////////////////////////////
@@ -889,30 +889,30 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Ikarus
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Ikarus_Blue 				{ quality = 1; price = 17000; };
-	class Exile_Car_Ikarus_Red 					{ quality = 1; price = 17000; };
-	class Exile_Car_Ikarus_Party 				{ quality = 1; price = 17000; };
+	class Exile_Car_Ikarus_Blue 				{ quality = 1; price = 14000; };
+	class Exile_Car_Ikarus_Red 					{ quality = 1; price = 14000; };
+	class Exile_Car_Ikarus_Party 				{ quality = 1; price = 14000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Ural (Open)
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Ural_Open_Blue			{ quality = 1; price = 25000; };
-	class Exile_Car_Ural_Open_Yellow		{ quality = 1; price = 25000; };
-	class Exile_Car_Ural_Open_Worker		{ quality = 1; price = 25000; };
-	class Exile_Car_Ural_Open_Military		{ quality = 1; price = 25000; };
+	class Exile_Car_Ural_Open_Blue			{ quality = 1; price = 22000; };
+	class Exile_Car_Ural_Open_Yellow		{ quality = 1; price = 22000; };
+	class Exile_Car_Ural_Open_Worker		{ quality = 1; price = 22000; };
+	class Exile_Car_Ural_Open_Military		{ quality = 1; price = 22000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Ural (Covered)
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Ural_Covered_Blue			{ quality = 1; price = 28000; };
-	class Exile_Car_Ural_Covered_Yellow			{ quality = 1; price = 28000; };
-	class Exile_Car_Ural_Covered_Worker			{ quality = 1; price = 28000; };
-	class Exile_Car_Ural_Covered_Military		{ quality = 1; price = 28000; };
+	class Exile_Car_Ural_Covered_Blue			{ quality = 1; price = 25000; };
+	class Exile_Car_Ural_Covered_Yellow			{ quality = 1; price = 25000; };
+	class Exile_Car_Ural_Covered_Worker			{ quality = 1; price = 25000; };
+	class Exile_Car_Ural_Covered_Military		{ quality = 1; price = 25000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// SUVXL
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_SUVXL_Black 				{ quality = 1; price = 20000; };
+	class Exile_Car_SUVXL_Black 				{ quality = 1; price = 17500; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Tractor
@@ -932,18 +932,18 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Octavius
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Octavius_White				{ quality = 1; price = 6000; };
-	class Exile_Car_Octavius_Black				{ quality = 1; price = 6000; };
+	class Exile_Car_Octavius_White				{ quality = 1; price = 4000; };
+	class Exile_Car_Octavius_Black				{ quality = 1; price = 4000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// UAZ
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_UAZ_Green				{ quality = 1; price = 3000; };
+	class Exile_Car_UAZ_Green				{ quality = 1; price = 2500; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// UAZ (Open)
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_UAZ_Open_Green			{ quality = 1; price = 3500; };
+	class Exile_Car_UAZ_Open_Green			{ quality = 1; price = 2500; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Land Rover
@@ -1000,7 +1000,7 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// Ifrit
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Car_Ifrit 								{ quality = 1; price = 20000; };
+	class Exile_Car_Ifrit 								{ quality = 1; price = 23000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Offroad
