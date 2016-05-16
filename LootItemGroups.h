@@ -50,24 +50,24 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 > Food
-13, Exile_Item_CookingPot
-15, Exile_Item_CanOpener
-15, Exile_Item_Matches
-13, Exile_Item_EMRE						// 75% Hunger
-16, Exile_Item_GloriousKnakworst			// 60% Hunger
-17, Exile_Item_Surstromming				// 55% Hunger
-17, Exile_Item_SausageGravy				// 50% Hunger
-17, Exile_Item_ChristmasTinner			// 40% Hunger
-17, Exile_Item_BBQSandwich				// 40% Hunger
-17, Exile_Item_CatFood					// 40% Hunger
-17, Exile_Item_Dogfood					// 30% Hunger
-17, Exile_Item_BeefParts					// 30% Hunger
-17, Exile_Item_Cheathas					// 30% Hunger
-17, Exile_Item_Noodles					// 25% Hunger
-18, Exile_Item_SeedAstics				// 20% Hunger
-19, Exile_Item_Raisins					// 15% Hunger
-19, Exile_Item_Moobar					// 10% Hunger
-21, Exile_Item_InstantCoffee			//  5% Hunger
+3, Exile_Item_CookingPot
+5, Exile_Item_CanOpener
+5, Exile_Item_Matches
+3, Exile_Item_EMRE						// 75% Hunger
+6, Exile_Item_GloriousKnakworst			// 60% Hunger
+7, Exile_Item_Surstromming				// 55% Hunger
+7, Exile_Item_SausageGravy				// 50% Hunger
+7, Exile_Item_ChristmasTinner			// 40% Hunger
+7, Exile_Item_BBQSandwich				// 40% Hunger
+7, Exile_Item_CatFood					// 40% Hunger
+7, Exile_Item_Dogfood					// 30% Hunger
+7, Exile_Item_BeefParts					// 30% Hunger
+7, Exile_Item_Cheathas					// 30% Hunger
+7, Exile_Item_Noodles					// 25% Hunger
+8, Exile_Item_SeedAstics				// 20% Hunger
+9, Exile_Item_Raisins					// 15% Hunger
+9, Exile_Item_Moobar					// 10% Hunger
+11, Exile_Item_InstantCoffee			//  5% Hunger
 
 > Drinks
 7, Exile_Item_PowerDrink					// +95% Thirst
@@ -87,6 +87,7 @@
 21, hgun_P07_F				// P07 9 mm
 20, hgun_Rook40_F			// Rook-40 9 mm
 13, hgun_Pistol_heavy_01_F	// 4-five .45
+13, hgun_Pistol_heavy_02_F	// Zubr .45
 13, hgun_Pistol_Signal_F	// Starter Pistol
 
 > PistolAmmo
@@ -121,11 +122,13 @@
 20, optic_Aco
 
 > Rifles
-1, arifle_Katiba_F			// Katiba 6.5 mm
-1, arifle_Katiba_GL_F		// Katiba GL 6.5 mm
+10, arifle_Katiba_F			// Katiba 6.5 mm
+8, arifle_Katiba_GL_F		// Katiba GL 6.5 mm
 8, arifle_MXC_F				// MXC 6.5 mm
 8, arifle_MX_F				// MX 6.5 mm
 4, arifle_MX_GL_F			// MX 3GL 6.5 mm
+6, arifle_MXM_F				// MXM 6.5 mm
+3, arifle_MXM_Black_F		// MXM 6.5 mm (Black)
 6, arifle_SDAR_F			// SDAR 5.56 mm
 8, arifle_TRG21_F			// TRG-21 5.56 mm
 8, arifle_TRG20_F			// TRG-20 5.56 mm
@@ -153,7 +156,7 @@
 10, muzzle_snds_H
 10, optic_Arco
 10, optic_Hamr
-15, optic_Holosight
+10, optic_Holosight
 14, acc_flashlight
 10, acc_pointer_IR
 10, optic_MRCO
@@ -163,26 +166,26 @@
 > LMG
 25, arifle_MX_SW_Black_F	// MX SW 6.5 mm (Black)
 25, arifle_MX_SW_F			// MX SW 6.5 mm
-20, LMG_Mk200_F				// Mk200 6.5 mm
-20, LMG_Zafir_F				// Zafir 7.62 mm
+25, LMG_Mk200_F				// Mk200 6.5 mm
+25, LMG_Zafir_F				// Zafir 7.62 mm
 
 > LMGAmmo
 12, 100Rnd_65x39_caseless_mag			// MX SW
 10, 100Rnd_65x39_caseless_mag_Tracer	// MX SW
 12, 150Rnd_762x54_Box					// Zafir
 10, 150Rnd_762x54_Box_Tracer			// Zafir
-//5, 130Rnd_338_Mag
-//51, 150Rnd_93x64_Mag
-4, 200Rnd_65x39_Belt					// Mk200
+5, 130Rnd_338_Mag
+51, 150Rnd_93x64_Mag
+//10, 200Rnd_65x39_Belt					// Mk200
 //10, 200Rnd_65x39_Belt_Tracer_Green	// Mk200
-10, 200Rnd_65x39_Belt_Tracer_Red		// Mk200
+//10, 200Rnd_65x39_Belt_Tracer_Red		// Mk200
 //10, 200Rnd_65x39_Belt_Tracer_Yellow	// Mk200
 
 > Snipers
-18, srifle_DMR_01_F			// Rahim 7.62 mm
+28, srifle_DMR_01_F			// Rahim 7.62 mm
 28, srifle_EBR_F			// Mk18 ABR 7.62 mm
-30, arifle_MXM_F				// MXM 6.5 mm
-30, arifle_MXM_Black_F		// MXM 6.5 mm (Black)
+22, srifle_GM6_F			// GM6 Lynx 12.7 mm
+22, srifle_LRR_F			// M320 LRR .408
 
 > SniperAmmo
 17, 5Rnd_127x108_Mag		// GM6 Lynx
@@ -206,9 +209,9 @@
 //6, MMG_02_black_F				//SPMG
 //6, MMG_02_camo_F				//SPMG
 //6, MMG_02_sand_F				//SPMG
-1, srifle_DMR_02_camo_F			//MAR10
-1, srifle_DMR_02_F				//MAR10
-1, srifle_DMR_02_sniper_F		//MAR10
+6, srifle_DMR_02_camo_F			//MAR10
+6, srifle_DMR_02_F				//MAR10
+6, srifle_DMR_02_sniper_F		//MAR10
 3, srifle_DMR_03_F				//MK1EMR
 3, srifle_DMR_03_khaki_F		//MK1EMR
 3, srifle_DMR_03_tan_F			//MK1EMR
@@ -218,8 +221,8 @@
 8, srifle_DMR_05_blk_F			//CYRUS
 8, srifle_DMR_05_hex_F			//CYRUS
 8, srifle_DMR_05_tan_F			//CYRUS
-6, srifle_DMR_06_camo_F			//Mk14
-6, srifle_DMR_06_olive_F		//Mk14
+3, srifle_DMR_06_camo_F			//Mk14
+3, srifle_DMR_06_olive_F		//Mk14
 
 > DLCAmmo
 //18, 150Rnd_93x64_Mag		//Navid
@@ -294,6 +297,9 @@
 50, MiniGrenade
 
 > Explosives
+12, DemoCharge_Remote_Mag
+12, IEDUrbanSmall_Remote_Mag
+12, IEDLandSmall_Remote_Mag
 20, APERSMine_Range_Mag
 20, APERSBoundingMine_Range_Mag
 20, APERSTripMine_Wire_Mag
@@ -596,7 +602,7 @@
 
 > MedicalItems
 2, Exile_Item_InstaDoc
-5, Exile_Item_Bandage
+8, Exile_Item_Bandage
 10, Exile_Item_Vishpirin
 
 > IndustrialItems
@@ -612,11 +618,23 @@
 13, Exile_Item_Pliers
 22, Exile_Melee_Axe
 4, Exile_Item_CamoTentKit
+20, Exile_Item_ZipTie
+8, Exile_Item_CordlessScrewdriver
+18, Exile_Item_Screwdriver
+5, Exile_Item_Knife
+15, Exile_Item_MetalWire
+16, Exile_Item_Hammer
+14, Exile_Item_Foolbox
+7, Exile_Item_Grinder
 
 > Vehicle
-40, Exile_Item_FuelCanisterFull
-50, Exile_Item_FuelCanisterEmpty
+20, Exile_Item_FuelCanisterFull
+30, Exile_Item_FuelCanisterEmpty
 10, Exile_Item_DuctTape
+50, Exile_Item_MetalScrews
+22, Exile_Item_OilCanister
+18, Exile_Item_CarWheel
+21, Exile_Item_Wrench
 
 // Throwables
 
@@ -656,22 +674,15 @@
 10, Exile_Item_PlasticBottleEmpty			// Nothing :)
 
 > Unused
-3, Exile_Item_CordlessScrewdriver
+//3, Exile_Item_CordlessScrewdriver
 3, Exile_Item_FireExtinguisher
-7, Exile_Item_Foolbox
-7, Exile_Item_Grinder
-7, Exile_Item_Screwdriver
-10, Exile_Item_OilCanister
-14, Exile_Item_Hammer
 14, Exile_Item_Shovel
-17, Exile_Item_Screws
 3, Exile_Item_Cement
 5, Exile_Item_Sand
-5, Exile_Item_Carwheel
 5, Exile_Item_SleepingMat
 5, Exile_Item_Defibrillator
-5, Exile_Item_Wrench
 
+/*
 > CUPPointerAttachments
 12, CUP_acc_Glock17_Flashlight
 12, CUP_acc_ANPEQ_15
@@ -2679,4 +2690,4 @@
 12, TRYK_B_tube_blk
 12, TRYK_B_FieldPack_Wood
 12, TRYK_Winter_pack
-		
+		*/

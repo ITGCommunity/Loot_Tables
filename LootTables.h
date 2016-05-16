@@ -211,8 +211,6 @@
 33, DLCVests
 23, GuerillaHeadgear
 33, MilitaryHeadgear
-10, Ghillies
-10, DLCGhillies
 1, Rebreathers
 39, Rifles
 39, RifleAmmo
